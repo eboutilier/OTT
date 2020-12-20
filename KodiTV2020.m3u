@@ -1,147 +1,3 @@
-# ************************************************************************************************************************************* 
-#
-# The Free2View Master Playlist Project! A Free and Legal IPTV List curated by The Frugal Streamer
-# https://thefrugalstreamer.blogspot.com/p/free2viewtvpage1.html
-# Contact us: Free2ViewTVCanada@gmail.com
-#
-# Note: To the best of my knowledge, all of these streams are legal streams, either over-the-air or live-streamed through unscrambled
-# links over the internet. All links are not guaranteed to be stable, but tested before being added to this list. I do not 
-# guarantee that these links will remain stable or active and any dead links could be removed at any time. Enjoy! -Georges B.
-# Channel list begins after the Changelog in this document.
-#
-#
-# Download the complete Changelog (News and Updates):
-# https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/Free2ViewTV-2020-Changelog.txt
-#
-# Electronic Program Guides used for this playlist:
-# https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/EPG/F2VTV_MERGE2.xml
-#
-# Changelog (News and Updates): (oldest at the end of this document, newest at the beginning of this document)
-# IMPORTANT NOTICE: - PLEASE NOTE THAT CHANNEL LINE-UP CHANGES ARE OCCURING. THE FOLLOWING CHANNELS HAVE BEEN REMOVED FROM THE
-#                     PUBLICLY DISTRIBUTED Free2View TV PLAYLISTS FOR THE FOLLOWING REASONS LISTED BELOW:
-#                     (1) The following channels are either 'test' streams or 'backup' streams that were not intended for public
-#                         streaming without a valid pay-TV package and/or cable service login.
-#                         - Pop TV; Hallmark Channel; Hallmark Movies & Mysteries; The Olympic Channel (Team USA);
-#			  - Golf Channel.
-#                     (2) The following channels are streaming publicly online, but only on a 10-minute trial. 
-#                         After that, a valid pay-TV package and/or cable service login is required.
-#                         - CNN News; MSNBC News.
-#                     (3) The following networks have now gone behind a paywall and no longer available for free:
-#                         - CBC News Network; Law & Crime Trial Network (Live Trial streams)
-#
-#                     Channel line-up changes are continuing and will always be subject to modification.
-#                     The Free2View TV Project takes pride in being the *best* freely distributed IPTV playlist curating only
-#                     truly legal free live streams-- no unofficial streams, no bootlegged streams and no illegal re-streams.
-#                     The Free2View TV Project welcomes your feedback. Contact us at Free2ViewTVCanada@gmail.com.
-#
-#                     IMPORTANT NOTICE: Due to situations beyond the control of the Free2View TV Project, public access to 
-#                     Pluto TV and Stirr TV channels will no longer be available through this playlist. Pluto TV and Stirr TV can
-#                     still be accessed for free (with a program listing) through their websites and official apps. You can visit
-#                     https://pluto.tv/live-tv/ and https://stirr.com/watchnow to watch their live streams at any time.
-#                     The Free2View TV Project sincerely apologizes, but hopes that you will still enjoy the hundreds of other free 
-#                     channels available in the Free2View TV playlist. Comments? Contact us at Free2ViewTVCanada@gmail.com
-#
-# Update: 8/01/2020 - PLAYLIST MAINTENANCE: The MGM Sci-Fi Channel has been discontinued; removed from playlist.
-# Update: 8/02/2020 - NEW CHANNELS ADDED: RetroCrush TV, Midnight Pulp.
-# Update: 8/02/2020 - CATEGORY MAINTENANCE: Some minor maintenance of the CANADIAN TV group (fixing channel names).
-# Update: 8/03/2020 - NEW CATEGORY ADDED: Added new MUSIC VIDEO & TV category with channels from Loop Media, Inc. and others networks.
-# Update: 8/03/2020 - CHANNEL MAINTENANCE: Buzzr (network feed) appears to have discontinued, removed from playlist. 
-# Update: 8/03/2020 - CATEGORY MAINTENANCE: EPG | USA FREE OTA TV25: Buzzr, NewsNet, WeatherNation, ShopLC streams not working...
-# Update: 8/03/2020 - CATEGORY MAINTENANCE: EPG | USA FREE OTA TV25: ...channels replaced or updated with alternate streams
-# Update: 8/04/2020 - NEW CHANNEL ADDED: VENN, a new network about gaming, pop culture and lifestyle spaces. https://www.venn.tv/
-# Update: 8/04/2020 - NEW CHANNEL ADDED: Blues Television Network (USA FREE OTA TV, MUSIC VIDEO & TV groups) - http://bluestn.com
-# Update: 8/04/2020 - NEW CHANNEL ADDED: California Music Channel (3 streams) in MUSIC VIDEO & TV - https://www.cmctv.com/
-# Update: 8/05/2020 - NEW CHANNELS ADDED / CATEGORY MAINTENANCE: Added the full line-up of channels in Redbox Free Live TV.
-# Update: 8/09/2020 - PLAYLIST MAINTENANCE: duplicated POSITIV TV and NBCLX into the USA FREE OTA TV category. 
-# Update: 8/11/2020 - NEW CHANNEL ADDED: BigLife TV, a source from the Sinclair Broadcast Group has been added to Special Interest.
-# Update: 8/11/2020 - NEW CHANNEL ADDED: Hollywood Classics, added to Nostalgia Flicks.
-# Update: 8/13/2020 - CATEGORY MAINTENANCE: Updated #EXTINF URLs in the PBS TV | NPR RADIO group and renamed group as PBS | NPR. 
-# Update: 8/13/2020 - NEW CHANNEL ADDED: Added PBS | Maryland Public TV - https://www.mpt.org/anywhere/live-stream-mpt/
-# Update: 8/13/2020 - CHANNEL MAINTENANCE: Cleaned up some PBS channels in Entertainment category; added Maryland Public TV.
-# Update: 8/15/2020 - NEW CHANNELS ADDED: Updated Redbox Free Live TV and added Cheddar, Tastemade, and The Archive.
-# Update: 8/16/2020 - CHANNEL MAINTENANCE: Updated Buzzr TV link (EPG | Free2View TV) streams shows 24/7, but uses regional EPG. 
-# Update: 8/16/2020 - NEW CHANNELS ADDED / CATEGORY MAINTENANCE: Added the full line-up of channels in Bumblebee TV.
-# Update: 8/17/2020 - CHANNEL MAINTENANCE: Moved English-language U.A.E. channels into International TV; removed U.A.E. group.
-# Update: 8/19/2020 - NEW CHANNEL ADDED: WPT to Sports & Recreation. https://www.worldpokertour.com/tag/wpt-live-streaming/
-# Update: 8/19/2020 - CATEGORY MAINTENANCE: Updated DistroTV category with new line-up and channels. https://www.distro.tv/
-# Update: 8/23/2020 - NEW CHANNEL ADDED: The Preview Channel added to Movies Plus. https://www.thepreviewchannel.com
-# Update: 8/23/2020 - NEW CHANNEL ADDED: The Archive added to Movies Plus. https://www.thearchive.tv/devices
-# Update: 8/24/2020 - CATEGORY MAINTENANCE: Cleaned up the SPORTS & RECREATION category.
-# Update: 8/24/2020 - CHANNEL UPDATED: CBS Sports HQ is no longer geo-locked. https://www.cbssports.com/live/
-# Update: 8/24/2020 - CHANNEL MAINTENANCE: Duplicated CBS Sports HQ and ET Live into the CBS News category.
-# Update: 8/27/2020 - CHANNEL MAINTENANCE: new stream URL for PBS | WNET TV | Thirteen, which is now Geo-blocked to USA IP addresses.
-# Update: 8/31/2020 - NEW CHANNEL ADDED: Whistle TV added to Cinedigm Digital Networks, Sports & Recreation
-# Update: 8/31/2020 - NEW CHANNELS ADDED: From https://mytvtogo.net/ - Sci-Fi 4U, Horrified TV into Nostalgia Flicks category.
-# Update: 9/01/2020 - CHANNEL MAINTENANCE: Tele-V (Canadian TV/Francophone TV), rebranded as 'noovo'. https://noovo.ca/en-direct
-# Update: 9/01/2020 - PLAYLIST MAINTENANCE: Re-organized Francophone TV category, added two new streams from TV5 Monde.
-# Update: 9/08/2020 - NEW CATEGORY ADDED: Testing a new VOD category, mostly vintage public domain movies served by Free2View TV.
-# Update: 9/09/2020 - CHANNEL MAINTENANCE: Updated alternate source for Plymouth Rock TV in Travel & Tourism.
-# Update: 9/09/2020 - CATEGORY MAINTENANCE: Updated DistroTV category additional new channels. https://www.distro.tv/
-# Update: 9/10/2020 - CHANNEL MAINTENANCE: CTV News and CP24 removed from Canadian TV; no longer available for free viewing.
-# Update: 9/11/2020 - NEW CATEGORY ADDED: Added the complete list of PBS Member Stations. https://www.pbs.org/livestream/ 
-# Update: 9/12/2020 - CHANNEL MAINTENANCE: WeatherNation (main stream) updated in NEWS & WEATHER and TV25 groups.
-# Update: 9/13/2020 - CATEGORY: Group renamed INTERNATIONAL | ITALY with additional channels. https://www.mediasetplay.mediaset.it
-# Update: 9/14/2020 - NEW CATEGORY ADDED: Added Geeks + Gaming group with new and relocated channels from Special Interest group.
-# Update: 9/14/2020 - CATEGORY MAINTENANCE: Added new channels and reogranized Redbox Free Live TV to match existing lineup.
-# Update: 9/15/2020 - NEW CHANNEL ADDED: Magellan TV Now, now avilable on major free digital streaming services, to Movies Plus.
-# Update: 9/18/2020 - NEW CHANNEL ADDED: Z Living (Entertainment; USA FREE OTA TV). Online live stream: https://www.zliving.com
-# Update: 9/19/2020 - CATEGORY MAINTENANCE: Updated Sports & Recreation category (cleaned up broken / mislabeled links)
-# Update: 9/20/2020 - NEW CHANNELS ADDED: Two channels from WATC-57 (Faith & Spirituality; USA FREE OTA TV). http://watc.tv
-# Update: 9/21/2020 - NEW CHANNELS ADDED: RunTime Free TV; A.D., now avilable on major free digital streaming services.
-# Update: 9/24/2020 - NEW: International | Spanish category, with channels now avilable on major free digital streaming services.
-# Update: 9/27/2020 - DELETED/ADDED: News & Weather: deleted dead Canadian news streams; added Newsy streams. https://www.newsy.com
-# Update: 9/28/2020 - NEW CHANNEL ADDED: USA FREE OTA TV, http://www.victorvalleytv.com streams updated; new Movies channel added.
-# Update: 10/01/2020 - CHANNEL MAINTENANCE: Updated streams in Special Interest and Geeks + Gaming categories.
-# Update: 10/09/2020 - NEW CHANNEL ADDED: Two new sources for CIRCLE in Entertainment, USA FREE OTA TV categories.
-# Update: 10/10/2020 - CHANNEL MAINTENANCE: Updated streams in Cinedigm Digital Networks category.
-# Update: 10/10/2020 - CHANNEL MAINTENANCE: Updated The Film Detective streams in Movies Plus category.
-# Update: 10/16/2020 - NEW CHANNEL ADDED: CBC News unlocked, added all resolutions to new TEMP | CBC News (Geo-CA) category.
-# Update: 10/17/2020 - CATEGORY MAINTENANCE: Added Entertainment | MULTI-STREAMS section in the Entertainment category.
-# Update: 10/17/2020 - NEW CHANNELS ADDED: Updated sources for Circle; new Skills + Thrills (Entertainment | MULTI-STREAMS).
-# Update: 10/17/2020 - CHANNEL MAINTENANCE: Updated sources for the 'nosey' channels in the Entertainment category.
-# Update: 10/18/2020 - CHANNEL MAINTENANCE: Re-organized Skills + Thrills to match the 'time-shift' of the streaming services.
-# Update: 10/20/2020 - CHANNELS REMOVED: All DJing channels (and category) have been deleted; now a paid subscription service.
-# Update: 10/24/2020 - MAINTENANCE + NEW: Updated Redbox Free Live TV with line-up shuffle and new channels.
-# Update: 10/24/2020 - MAINTENANCE + NEW: Updated Xumo | Live TV with additional Live 24/7 streams.
-# Update: 10/25/2020 - CATEGORY MAINTENANCE: Minor maintenance to the Distro TV category (updated channel names).
-# Update: 10/26/2020 - MAINTENANCE + NEW: Updated several stream URLs in Special Interest category; added Cooking Panda (2 sources).
-# Update: 10/26/2020 - CHANNEL MAINTENANCE: Updated Outside TV+ stream URL in Sports & Recreation category.
-# Update: 10/30/2020 - CHANNEL MAINTENANCE: Updated live stream URL for CBS Sports HQ (CBS News; Sports & Recreation).
-# Update: 10/30/2020 - CATEGORY MAINTENANCE: Updated several stream URLs in Sports & Recreation category.
-# Update: 10/31/2020 - NEW CHANNEL ADDED: Added VSiN | Webstream (Sports & Recreation) from https://www.vsin.com/livestream/
-# Update: 10/31/2020 - NEW CHANNEL ADDED: Added Poker Night In America (Sports & Recreation) from https://www.glewed.tv/
-# Update: 11/03/2020 - NEW CHANNEL ADDED: CNN | Event Stream added (this is NOT the CNN Network feed, only free public events).
-# Update: 11/04/2020 - NEW CHANNELS: Started "The Roku Channel" with channels in each category; more to be added in each update.
-# Update: 11/10/2020 - PLAYLIST MAINTENANCE: Cleaned up "News & Weather" group; updated WeatherNation (also in TV25 group).
-# Update: 11/10/2020 - PLAYLIST MAINTENANCE: Updated Cheddar live stream in "News & Weather" and "Financial News & Info" groups.
-# Update: 11/11/2020 - TEMPORARY CHANNEL ADDED: Le Canal Nouvelles temporarily unscrambled, added to "Canadian TV" category.
-# Update: 11/12/2020 - MAINTENANCE + NEW: Updated several stream URLs in "Financial News & Info", added Business Rockstars.
-# Update: 11/16/2020 - CATEGORY MAINTENANCE: Updated several streams (added CNBC Radio) in "NBC News Networks" group.
-# Update: 11/16/2020 - MAINTENANCE + NEW: Updated NBC News Now, added Euronews to "News & Weather" category.
-# Update: 11/17/2020 - NEW CHANNELS ADDED: Added NBC News Now; Newsy, in "The Roku Channel" group.
-# Update: 11/17/2020 - NEW CHANNELS ADDED: Added "Harley Davidson TV" group and 4 new channels. https://tv.harley-davidson.com/
-# Update: 11/21/2020 - NEW CHANNELS ADDED: Over 30+ new channels from The Roku Channel US have been added.
-# Update: 11/22/2020 - NEW SEASONAL CATEGORY ADDED: Temporarily added "TEMP | Merry Christmas" with live TV, VOD, and Radio streams.
-# Update: 11/23/2020 - NEW CHANNEL ADDED: Added Dark Matter TV, avilable on major free digital streaming services, in "Movies Plus".
-# Update: 11/24/2020 - MAINTENANCE + NEW: Updated streams / added new channels in "FilmRise Digital Networks" category.
-# Update: 11/25/2020 - MAINTENANCE + NEW: Updated channels and new VOD / radio streams in "TEMP | Merry Christmas" category.
-# Update: 11/26/2020 - NEW CHANNELS ADDED: Added new Holiday channels from Pluto TV UK in "TEMP | Merry Christmas" category.
-# Update: 11/27/2020 - NEW CHANNELS ADDED: Added Mr. Pickles, Squidbillies, and Tim & Eric Awesome Show streams in "[adult swim]".
-# Update: 11/30/2020 - NEW: Changed "PBS Member Stations (Geo-USA)" to "EPG | PBS (Geo-USA)" with new EPG source and more streams.
-# Update: 11/30/2020 - PLAYLIST MAINTENANCE: Cleaned up "PBS | NPR" category; THIRTEEN moved out as it is in "EPG | PBS (Geo-USA)".
-# Update: 11/30/2020 - NEW CHANNEL: World Channel added to "PBS | NPR" category - https://video.aptv.org/show/world-channel/
-# Update: 12/01/2020 - NEW CHANNEL: Added 'Home For The Holidays' channel from  Pluto TV in "TEMP | Merry Christmas" category.
-# Update: 12/01/2020 - NEW CHANNELS: iHeart Radio Christmas TV streams (music w/ album covers on screen) in "TEMP | Merry Christmas".
-# Update: 12/01/2020 - NEW CHANNEL: "TEMP | Merry Christmas": Stingray Naturescape running Fireplaces 24/7 over the Holidays.
-# Update: 12/02/2020 - NEW CHANNELS ADDED: Several new channels from The Roku Channel US have been added. 
-# Update: 12/02/2020 - MAINTENANCE + NEW: Updated streams / added Wipeout Xtra in "Gameshows & Competitions" category.
-# Update: 12/03/2020 - MAINTENANCE: Relocated "Nostalgia Flicks" after "Movies Plus" to fit better into 'movies' section of playlist. 
-# Update: 12/03/2020 - MAINTENANCE + NEW: Updated streams / added Kartoon Fun Time in "Nostalgia Flicks" category.
-# Update: 12/03/2020 - NEW SOURCES: New official sources for Spydar TV and Kartoon Fun Time, courtesy of https://morcaman.com
-# Update: 12/04/2020 - NEW CHANNELS ADDED: by request from user, added additional channels in "International | Italy" category.
-#
-# ************************************************************************************************************************************* 
-
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CanalSavoir_363x363.png?raw=true" group-title="Canadian TV",Canal Savoir
 https://hls.savoir.media/live/stream.m3u8
@@ -153,7 +9,7 @@ https://cbclivedai4-i.akamaihd.net/hls/live/567230/event2/CBRT/master5.m3u8
 https://cbclivedai4-i.akamaihd.net/hls/live/567231/event2/CBXT/master5.m3u8
 #EXTINF:-1 tvg-id="CBWTca" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Manitoba
 https://cbclivedai6-i.akamaihd.net/hls/live/567237/event2/CBWT/master5.m3u8
-#EXTINF:-1 tvg-id="CBMTca" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Montreal
+#EXTINF:-1 tvg-id="CBMTca" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Montréal
 https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
 #EXTINF:-1 tvg-id="CBATca" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC New Brunswick
 https://cbclivedai7-i.akamaihd.net/hls/live/567244/event2/CBAT/master5.m3u8
@@ -177,33 +33,33 @@ https://cbclivedai1-i.akamaihd.net/hls/live/566941/event2/CBET/master5.m3u8
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-RDI.png" group-title="Canadian TV",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
-#EXTINF:-1 tvg-id="ICIacadie" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="ICI Tele Canada (Geo)",ICI Tele Acadie
+#EXTINF:-1 tvg-id="ICIacadie" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="ICI Télé Canada (Geo)",ICI Télé Acadie
 https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master_2500.m3u8
-#EXTINF:-1 tvg-id="ICIalberta" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="ICI Tele Canada (Geo)",ICI Tele Alberta
+#EXTINF:-1 tvg-id="ICIalberta" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="ICI Télé Canada (Geo)",ICI Télé Alberta
 https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master_2500.m3u8
-#EXTINF:-1 tvg-id="ICIcbyukon" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="ICI Tele Canada (Geo)",ICI Tele Colombie-Britannique et Yukon
+#EXTINF:-1 tvg-id="ICIcbyukon" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="ICI Télé Canada (Geo)",ICI Télé Colombie-Britannique et Yukon
 https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master_2500.m3u8
-#EXTINF:-1 tvg-id="ICIestquebec" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="ICI Tele Canada (Geo)",ICI Tele Est-du-Quebec
+#EXTINF:-1 tvg-id="ICIestquebec" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="ICI Télé Canada (Geo)",ICI Télé Est-du-Québec
 https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master_2500.m3u8
-#EXTINF:-1 tvg-id="ICIestrie" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="ICI Tele Canada (Geo)",ICI Tele Estrie
+#EXTINF:-1 tvg-id="ICIestrie" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="ICI Télé Canada (Geo)",ICI Télé Estrie
 https://rcavlive.akamaized.net/hls/live/704016/cancksh/master_2500.m3u8
-#EXTINF:-1 tvg-id="ICImanitoba" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="ICI Tele Canada (Geo)",ICI Tele Manitoba
+#EXTINF:-1 tvg-id="ICImanitoba" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="ICI Télé Canada (Geo)",ICI Télé Manitoba
 https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master_2500.m3u8
-#EXTINF:-1 tvg-id="ICImauricie" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="ICI Tele Canada (Geo)",ICI Tele Mauricie
+#EXTINF:-1 tvg-id="ICImauricie" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="ICI Télé Canada (Geo)",ICI Télé Mauricie
 https://rcavlive.akamaized.net/hls/live/704021/cancktm/master_2500.m3u8
-#EXTINF:-1 tvg-id="ICImontreal" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="ICI Tele Canada (Geo)",ICI Tele Montreal
+#EXTINF:-1 tvg-id="ICImontreal" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="ICI Télé Canada (Geo)",ICI Télé Montréal
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8
-#EXTINF:-1 tvg-id="ICIontario" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="ICI Tele Canada (Geo)",ICI Tele Ontario
+#EXTINF:-1 tvg-id="ICIontario" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="ICI Télé Canada (Geo)",ICI Télé Ontario
 https://rcavlive.akamaized.net/hls/live/704022/cancblft/master_2500.m3u8
-#EXTINF:-1 tvg-id="ICIottawagatineau" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="ICI Tele Canada (Geo)",ICI Tele Ottawa-Gatineau
+#EXTINF:-1 tvg-id="ICIottawagatineau" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="ICI Télé Canada (Geo)",ICI Télé Ottawa-Gatineau
 https://rcavlive.akamaized.net/hls/live/664046/cancboft/master_2500.m3u8
-#EXTINF:-1 tvg-id="ICIquebec" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="ICI Tele Canada (Geo)",ICI Tele Quebec
+#EXTINF:-1 tvg-id="ICIquebec" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="ICI Télé Canada (Geo)",ICI Télé Quebec
 https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master_2500.m3u8
-#EXTINF:-1 tvg-id="ICIsaguenay" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="ICI Tele Canada (Geo)",ICI Tele Saguenay
+#EXTINF:-1 tvg-id="ICIsaguenay" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="ICI Télé Canada (Geo)",ICI Télé Saguenay
 https://rcavlive.akamaized.net/hls/live/704023/cancktv/master_2500.m3u8
-#EXTINF:-1 tvg-id="ICIsaskatchewan" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="ICI Tele Canada (Geo)",ICI Tele Saskatchewan
+#EXTINF:-1 tvg-id="ICIsaskatchewan" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="ICI Télé Canada (Geo)",ICI Télé Saskatchewan
 https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master_2500.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ICI-Television_292x292.png?raw=true" group-title="Canadian TV",ICI Television
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ICI-Television_292x292.png?raw=true" group-title="Canadian TV",ICI Télévision
 https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/KnowledgeNetwork_235x235.png?raw=true" group-title="Canadian TV",Knowledge Network
 http://knstream1.azureedge.net/knlive/knlive_high.m3u8
@@ -211,7 +67,7 @@ http://knstream1.azureedge.net/knlive/knlive_high.m3u8
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ONNtv_250x250.png?raw=true" group-title="Canadian TV",ONNtv Sault-Ste-Marie
 https://onntv.vantrix.tv:443/onntv_hls/1080p/onntv_hls-HLS-1080p.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TeleQuebecCA.png" group-title="Canadian TV",Tele-Quebec
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TeleQuebecCA.png" group-title="Canadian TV",Télé-Québec
 https://bcovlive-a.akamaihd.net/86e93a0ab79047e1b216e2b0a1ac5363/us-east-1/6150020952001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheWeatherNetwork_300x300.png?raw=true" group-title="Canadian TV",The Weather Network
 https://bcliveunivsecure-lh.akamaihd.net/i/twn_1@631672/master.m3u8
@@ -222,15 +78,15 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/maste
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CPAC_360x360.png?raw=true" group-title="Canadian TV",CPAC English
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680602/1242843915001_1/master.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CPAC_360x360.png?raw=true" group-title="Canadian TV",CPAC Francais
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CPAC_360x360.png?raw=true" group-title="Canadian TV",CPAC Français
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CPAC_360x360.png?raw=true" group-title="Canadian TV",CPAC Other/Autre
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680603/1242843915001_2/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",ON | Legislative Assembly of Ontario
 http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",ON | Assemblee legislative de l'Ontario
+#EXTINF:-1 tvg-logo="" group-title="",ON | Assemblée législative de l'Ontario
 http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ANDQ_603x603.png?raw=true" group-title="Canadian TV",QC | Assemblee nationale du Quebec
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ANDQ_603x603.png?raw=true" group-title="Canadian TV",QC | Assemblée nationale du Québec
 http://diffusionm4.assnat.qc.ca/canal10/250.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ABCNewsLive.png" group-title="News & Weather",ABC News
