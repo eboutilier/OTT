@@ -212,10 +212,16 @@ https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f7722
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Stingray Music",Stingray Urban Beat
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/133/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",OHL | CJOY 1460 Guelph
+#EXTINF:-1 tvg-logo="" group-title="",OHL | Barrie
+#EXTINF:-1 tvg-logo="" group-title="",OHL | Erie
+#EXTINF:-1 tvg-logo="" group-title="",OHL | Flint
+#EXTINF:-1 tvg-logo="" group-title="",OHL | Guelph [CJOY 1460]
 http://corus.leanstream.co/CJOYAM-MP3
-#EXTINF:-1 tvg-logo="" group-title="",OHL | CKAT 600 North Bay
+#EXTINF:-1 tvg-logo="" group-title="",OHL | Hamilton [CKOC 1150]
+https://playerservices.streamtheworld.com/api/livestream-redirect/CKOCAM_ADP.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",OHL | North Bay [CKAT 0600]
 https://rogers-hls.leanstream.co/rogers/nor600.stream/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" group-title="[adult swim]",[adult swim] live stream
 https://media.cdn.adultswim.com/streams/playlists/live-stream.primary.v2.m3u8
