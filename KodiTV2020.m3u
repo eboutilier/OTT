@@ -150,28 +150,6 @@ https://cdn.igocast.com/channel11_hls/channel11_master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/WeatherNation.png" group-title="News & Weather",Weather Nation
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BeIN-Sports-Xtra_235x235.png?raw=true" group-title="Sports & Recreation",beIN Sports Xtra
-https://bein-xtra-roku-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBC_Olympics_400x400.png?raw=true" group-title="Canadian TV",CBC Olympics
-https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSSportsHQ_290x290.png" group-title="Sports & Recreation",CBS Sports HQ
-https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8?iu=/8264/vaw-can/desktop/cbsnews
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AU-NZ_FoxSportsNews.png?raw=true" group-title="Australian TV",Fox Sports News Australia
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/OutsideTVPlus_540x540.png?raw=true" group-title="Sports & Recreation",Outside TV
-https://outsidetvplus-distro.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Xumo | Live TV",PlayersTV
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-playerstv/CDN/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/RedBullTV_512x512.png" group-title="Sports & Recreation",Red Bull TV
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Stadium.png" group-title="Sports & Recreation",Stadium
-https://bcovlive-a.akamaihd.net/6b4f1a5aed2b46d6a139e3cb83f8dc42/us-east-1/5994000126001/8036529875f74c81b5f50851bffbc421/playlist_ssaiM.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TheT_246x246.png" group-title="Sports & Recreation",Tennis
-https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
-#EXTINF:-1 tvg-id="I25.8.97125.zap2it.com" tvg-name="25.8" tvg-type="live" group-title="EPG | USA FREE OTA TV25" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TV25_360x360.png?raw=true",Untamed Sports TV
-https://cdn.igocast.com/channel8_hls/channel8_master.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AU-NZ_ABC-News-24.png?raw=true" group-title="Australian TV",ABC News Australia
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/France24.png" group-title="News & Weather",France 24
@@ -182,6 +160,26 @@ https://rt-usa-gd.secure2.footprint.net/1105_2500Kb.m3u8
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TV5Monde_855x855.png?raw=true" group-title="Francophone TV",TV5 Monde Info
 https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" group-title="[adult swim]",[adult swim] live stream
+https://media.cdn.adultswim.com/streams/playlists/live-stream.primary.v2.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" group-title="[adult swim]",Aqua Teen Hunger Force
+https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" group-title="[adult swim]",Rick and Morty
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" group-title="[adult swim]",Robot Chicken
+https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" group-title="[adult swim]",Samurai Jack
+https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/A3Network_A3Bikini.png?raw=true" group-title="Adult Lifestyle & Interests",A3 Bikini (18+)
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/FTVMidnightSecret_466x466.png" group-title="Adult Lifestyle & Interests",FTV Midnight Secrets (18+)
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Kaloopy_340x340.png?raw=true" group-title="Adult Lifestyle & Interests",Kaloopy (18+)
+https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/126.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/MiamiTV_640x640.png?raw=true" group-title="Adult Lifestyle & Interests",Miami TV | Jenny TV (18+)
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Stingray Music",Stingray Classic Rock
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8
@@ -211,6 +209,27 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraysoulstorm/CDN/master.
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/190/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Stingray Music",Stingray Urban Beat
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/133/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BeIN-Sports-Xtra_235x235.png?raw=true" group-title="Sports & Recreation",beIN Sports Xtra
+https://bein-xtra-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBC_Olympics_400x400.png?raw=true" group-title="Canadian TV",CBC Olympics
+https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSSportsHQ_290x290.png" group-title="Sports & Recreation",CBS Sports HQ
+https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8?iu=/8264/vaw-can/desktop/cbsnews
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AU-NZ_FoxSportsNews.png?raw=true" group-title="Australian TV",Fox Sports News Australia
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/OutsideTVPlus_540x540.png?raw=true" group-title="Sports & Recreation",Outside TV
+https://outsidetvplus-distro.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Xumo | Live TV",PlayersTV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-playerstv/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/RedBullTV_512x512.png" group-title="Sports & Recreation",Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Stadium.png" group-title="Sports & Recreation",Stadium
+https://bcovlive-a.akamaihd.net/6b4f1a5aed2b46d6a139e3cb83f8dc42/us-east-1/5994000126001/8036529875f74c81b5f50851bffbc421/playlist_ssaiM.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TheT_246x246.png" group-title="Sports & Recreation",Tennis
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1 tvg-id="I25.8.97125.zap2it.com" tvg-name="25.8" tvg-type="live" group-title="EPG | USA FREE OTA TV25" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TV25_360x360.png?raw=true",Untamed Sports TV
+https://cdn.igocast.com/channel8_hls/channel8_master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",OHL | Barrie
 http://
@@ -248,30 +267,10 @@ http://
 http://live.leanstream.co/CHOKAM
 #EXTINF:-1 tvg-logo="" group-title="",OHL | Sault-Ste-Marie
 http://
-#EXTINF:-1 tvg-logo="" group-title="",OHL | Sudbury
+#EXTINF:-1 tvg-logo="" group-title="",OHL | Sudbury | CKLU 96.7
 http://ckluradio.laurentian.ca:88/broadwave.mp3
-#EXTINF:-1 tvg-logo="" group-title="",OHL | Windsor
+#EXTINF:-1 tvg-logo="" group-title="",OHL | Windsor | CKLW 800
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKLWAM_ADP.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" group-title="[adult swim]",[adult swim] live stream
-https://media.cdn.adultswim.com/streams/playlists/live-stream.primary.v2.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" group-title="[adult swim]",Aqua Teen Hunger Force
-https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" group-title="[adult swim]",Rick and Morty
-https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" group-title="[adult swim]",Robot Chicken
-https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" group-title="[adult swim]",Samurai Jack
-https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/A3Network_A3Bikini.png?raw=true" group-title="Adult Lifestyle & Interests",A3 Bikini (18+)
-https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/FTVMidnightSecret_466x466.png" group-title="Adult Lifestyle & Interests",FTV Midnight Secrets (18+)
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Kaloopy_340x340.png?raw=true" group-title="Adult Lifestyle & Interests",Kaloopy (18+)
-https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/126.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/MiamiTV_640x640.png?raw=true" group-title="Adult Lifestyle & Interests",Miami TV | Jenny TV (18+)
-https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AboutUS_392x392.png?raw=true" group-title="About Us + Extras",Fireplace & Chill
 https://od.lk/s/MF8yMTU5MTU3MjRf/Fireplace-and-Chill_21m.mp4
