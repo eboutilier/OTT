@@ -215,11 +215,21 @@ https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f7722
 #EXTINF:-1 tvg-logo="" group-title="",OHL | Barrie
 #EXTINF:-1 tvg-logo="" group-title="",OHL | Erie
 #EXTINF:-1 tvg-logo="" group-title="",OHL | Flint
-#EXTINF:-1 tvg-logo="" group-title="",OHL | Guelph [CJOY 1460]
+#EXTINF:-1 tvg-logo="" group-title="",OHL | Guelph | CJOY 1460
 http://corus.leanstream.co/CJOYAM-MP3
-#EXTINF:-1 tvg-logo="" group-title="",OHL | Hamilton [CKOC 1150]
+#EXTINF:-1 tvg-logo="" group-title="",OHL | Hamilton | CKOC 1150
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKOCAM_ADP.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",OHL | North Bay [CKAT 0600]
+#EXTINF:-1 tvg-logo="" group-title="",OHL | Kingston | CKWS 104.3
+http://live.leanstream.co/CKWSFM-MP3
+#EXTINF:-1 tvg-logo="" group-title="",OHL | Kitchener | CKGL 570
+http://uk5.internet-radio.com:8199/stream
+#EXTINF:-1 tvg-logo="" group-title="",OHL | London | CFPL 980
+http://geocom.leanstream.co/CFPLAM-MP3
+#EXTINF:-1 tvg-logo="" group-title="",OHL | Mississauga | CKNT 960
+ttp://stream2.statsradio.com:8066/stream
+#EXTINF:-1 tvg-logo="" group-title="",OHL | Niagara | CKTB 610
+https://playerservices.streamtheworld.com/api/livestream-redirect/CKTBAM_ADP.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",OHL | North Bay | CKAT 600
 https://rogers-hls.leanstream.co/rogers/nor600.stream/playlist.m3u8
 
 
