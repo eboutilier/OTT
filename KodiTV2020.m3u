@@ -447,43 +447,31 @@ https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f7722
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="",MLB | CJCL 590
-http://rogers-hls.leanstream.co/rogers/tor590.stream/icy?environment=tunein
-
-#EXTINF:-1 tvg-logo="" group-title="",NWL | Vancouver
-http://
-
-
-
-
-
 #EXTINF:-1 tvg-logo="" group-title="",AA | Winnipeg
 http://
 
-#EXTINF:-1 tvg-logo="" group-title="",FL | Ottawa
+
+#EXTINF:-1 tvg-logo="" group-title="",AHL | Belleville
+http://
+#EXTINF:-1 tvg-logo="" group-title="",LAH | Laval
 http://
 
-#EXTINF:-1 tvg-logo="" group-title="",FL | Québec
+#EXTINF:-1 tvg-logo="" group-title="",AHL | Manitoba
 http://
 
-#EXTINF:-1 tvg-logo="" group-title="",FL | Trois-Rivières
+#EXTINF:-1 tvg-logo="" group-title="",AHL | Toronto
 http://
 
-
-
-#EXTINF:-1 tvg-logo="" group-title="",NBA | Toronto | CHUM 1050
-https://playerservices.streamtheworld.com/api/livestream-redirect/CHUMAM_ADP.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",LCF | Calgary
+#EXTINF:-1 tvg-logo="" group-title="",CFL | British Columbia
 http://
 
-#EXTINF:-1 tvg-logo="" group-title="",LCF | Colombie-Britannique
+#EXTINF:-1 tvg-logo="" group-title="",CFL | Calgary
 http://
 
-#EXTINF:-1 tvg-logo="" group-title="",LCF | Edmonton
+#EXTINF:-1 tvg-logo="" group-title="",CFL | Edmonton
 http://
 
-#EXTINF:-1 tvg-logo="" group-title="",LCF | Hamilton 
+#EXTINF:-1 tvg-logo="" group-title="",CFL | Hamilton 
 http://
 
 #EXTINF:-1 tvg-logo="" group-title="",LCF | Montréal
@@ -492,48 +480,15 @@ http://
 #EXTINF:-1 tvg-logo="" group-title="",LCF | Ottawa
 http://
 
-#EXTINF:-1 tvg-logo="" group-title="",LCF | Saskatchewan
+#EXTINF:-1 tvg-logo="" group-title="",CFL | Saskatchewan
 http://
 
-#EXTINF:-1 tvg-logo="" group-title="",LCF | 
-Toronto
+#EXTINF:-1 tvg-logo="" group-title="",CFL | Toronto
 http://
 
-#EXTINF:-1 tvg-logo="" group-title="",LCF | Winnipeg
+#EXTINF:-1 tvg-logo="" group-title="",CFL | Winnipeg
 http://
 
-
-#EXTINF:-1 tvg-logo="" group-title="",LNH | Calgary| CFAC 960
-http://rogers-hls.leanstream.co/rogers/cal960.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",LNH | Edmonton
-http://
-
-#EXTINF:-1 tvg-logo="" group-title="",LNH | Montréal | CKGM 690 [EN]
-http://63.243.143.139:3690/CKGMAMAAC_SC
-#EXTINF:-1 tvg-logo="" group-title="",LNH | Montréal | CHMP 98.5 [FR]
-https://cogecomedia.leanstream.co/CHMPFM-MP3
-#EXTINF:-1 tvg-logo="" group-title="",LNH | Ottawa | CFGO 1200 [EN]
-https://playerservices.streamtheworld.com/api/livestream-redirect/CFGOAM_ADP.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",LNH | Ottawa | CJFO 94.5 [FR]
-http://stream2.statsradio.com:8038/stream
-#EXTINF:-1 tvg-logo="" group-title="",LNH | Toronto | CJCL 590
-http://rogers-hls.leanstream.co/rogers/tor590.stream/icy?environment=tunein
-#EXTINF:-1 tvg-logo="" group-title="",LNH | Vancouver | CISL 650
-https://rogers-hls.leanstream.co/rogers/van650.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",LNH | Winnipeg | CFRW 1290
-http://playerservices.streamtheworld.com/api/livestream-redirect/CFRWAM_ADP.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",LAH | Belleville
-http://
-#EXTINF:-1 tvg-logo="" group-title="",LAH | Laval
-http://
-
-#EXTINF:-1 tvg-logo="" group-title="",LAH | Manitoba
-http://
-
-#EXTINF:-1 tvg-logo="" group-title="",LAH | Toronto
-http://
 
 #EXTINF:-1 tvg-logo="" group-title="",ECHL | Brampton
 http://
@@ -541,6 +496,16 @@ http://
 http://
 
 #EXTINF:-1 tvg-logo="" group-title="",ECHL | Trois-Rivières
+http://
+
+
+#EXTINF:-1 tvg-logo="" group-title="",FL | Ottawa
+http://
+
+#EXTINF:-1 tvg-logo="" group-title="",FL | Québec
+http://
+
+#EXTINF:-1 tvg-logo="" group-title="",FL | Trois-Rivières
 http://
 
 
@@ -580,6 +545,38 @@ https://cogecomedia.leanstream.co/CKOYFM-MP3
 http://
 #EXTINF:-1 tvg-logo="" group-title="",LHJMQ | Victoriaville
 http://
+
+EXTINF:-1 tvg-logo="" group-title="",MLB | Toronto | CJCL 590
+http://rogers-hls.leanstream.co/rogers/tor590.stream/icy?environment=tunein
+
+
+#EXTINF:-1 tvg-logo="" group-title="",NBA | Toronto | CHUM 1050
+https://playerservices.streamtheworld.com/api/livestream-redirect/CHUMAM_ADP.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",NHL | Calgary| CFAC 960
+http://rogers-hls.leanstream.co/rogers/cal960.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",NHL | Edmonton
+http://
+
+#EXTINF:-1 tvg-logo="" group-title="",NHL | Montréal | CKGM 690 [EN]
+http://63.243.143.139:3690/CKGMAMAAC_SC
+#EXTINF:-1 tvg-logo="" group-title="",LNH | Montréal | CHMP 98.5 [FR]
+https://cogecomedia.leanstream.co/CHMPFM-MP3
+#EXTINF:-1 tvg-logo="" group-title="",NHL | Ottawa | CFGO 1200 [EN]
+https://playerservices.streamtheworld.com/api/livestream-redirect/CFGOAM_ADP.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",LNH | Ottawa | CJFO 94.5 [FR]
+http://stream2.statsradio.com:8038/stream
+#EXTINF:-1 tvg-logo="" group-title="",NHL | Toronto | CJCL 590
+http://rogers-hls.leanstream.co/rogers/tor590.stream/icy?environment=tunein
+#EXTINF:-1 tvg-logo="" group-title="",NHL | Vancouver | CISL 650
+https://rogers-hls.leanstream.co/rogers/van650.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",NHL | Winnipeg | CFRW 1290
+http://playerservices.streamtheworld.com/api/livestream-redirect/CFRWAM_ADP.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",NWL | Vancouver
+http://
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="",OHL | Barrie
@@ -652,8 +649,7 @@ http://rogers-hls.leanstream.co/rogers/cal960.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",WHL | Edmonton | CFRN 1260
 https://playerservices.streamtheworld.com/api/livestream-redirect/CFRNAM_ADP.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",WHL | Everett | KRKO 95.3
-h
-ttp://www.ophanim.net:9400/;
+http://www.ophanim.net:9400/;
 #EXTINF:-1 tvg-logo="" group-title="",WHL | Kamloops
 http://
 #EXTINF:-1 tvg-logo="" group-title="",WHL | Kelowna | CKFR 1150
