@@ -77,9 +77,7 @@ https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master_2500.m3u8
 https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master_2500.m3u8
 
 #EXTINF:-1 tvg-id="ICIcbyukon" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="ICI Télé Canada (Geo)",ICI Télé Colombie-Britannique et Yukon
-
 https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master_2500.m3u8
-
 #EXTINF:-1 tvg-id="ICIestquebec" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="ICI Télé Canada (Geo)",ICI Télé Est-du-Québec
 
 https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master_2500.m3u8
@@ -143,7 +141,6 @@ https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/61016
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheWeatherNetwork_300x300.png?raw=true" group-title="Canadian TV",The Weather Network
 
 https://bcliveunivsecure-lh.akamaihd.net/i/twn_1@631672/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVA_540x540.png?raw=true" group-title="Canadian TV",TVA
 
 https://tvalive.akamaized.net/hls/live/2012413/tva01/master.m3u8
@@ -158,6 +155,8 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/maste
 
 http://diffusionm4.assnat.qc.ca/canal10/250.sdp/playlist.m3u8
 
+
+
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CPAC_360x360.png?raw=true" group-title="Canadian TV",CPAC [EN]
 
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680602/1242843915001_1/master.m3u8
@@ -165,14 +164,12 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/680602/1242843915001_1/master.m3
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CPAC_360x360.png?raw=true" group-title="Canadian TV",CPAC [FR]
 
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="",ONT PARL [EN]
-
 http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="",ONT PARL [FR]
 http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ABCNewsLive.png" group-title="News & Weather",ABC News
@@ -250,7 +247,6 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
 
 #EXTINF:-1 tvg-id="WLVT" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",PBS Allentown
-
 https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS | NPR",PBS Clearfield
@@ -280,7 +276,6 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="I4.4.106764.zap2it.com" tvg-name="4.4" tvg-type="live" group-title="EPG | Free2View TV" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TBD.png",TBD
 
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TheWeatherChannel.png" group-title="News & Weather",The Weather Channel
 
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
@@ -330,9 +325,7 @@ https://bcovlive-a.akamaihd.net/6b4f1a5aed2b46d6a139e3cb83f8dc42/us-east-1/59940
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TheT_246x246.png" group-title="Sports & Recreation",Tennis
 
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
-
 #EXTINF:-1 tvg-id="I25.8.97125.zap2it.com" tvg-name="25.8" tvg-type="live" group-title="EPG | USA FREE OTA TV25" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TV25_360x360.png?raw=true",Untamed Sports TV
-
 https://cdn.igocast.com/channel8_hls/channel8_master.m3u8
 
 
@@ -358,6 +351,43 @@ https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u
 https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" group-title="[adult swim]",[adult swim] live stream
+
+https://media.cdn.adultswim.com/streams/playlists/live-stream.primary.v2.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" group-title="[adult swim]",Aqua Teen Hunger Force
+
+https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" group-title="[adult swim]",Rick and Morty
+
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" group-title="[adult swim]",Robot Chicken
+
+https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" group-title="[adult swim]",Samurai Jack
+
+https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/A3Network_A3Bikini.png?raw=true" group-title="Adult Lifestyle & Interests",A3 Bikini (18+)
+
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/FTVMidnightSecret_466x466.png" group-title="Adult Lifestyle & Interests",FTV Midnight Secrets (18+)
+
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Kaloopy_340x340.png?raw=true" group-title="Adult Lifestyle & Interests",Kaloopy (18+)
+
+https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/126.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/MiamiTV_640x640.png?raw=true" group-title="Adult Lifestyle & Interests",Miami TV | Jenny TV (18+)
+
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Stingray Music",Stingray Classic Rock
 
@@ -417,285 +447,250 @@ https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f7722
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="",OHL | Barrie
+#EXTINF:-1 tvg-logo="" group-title="",MLB | CJCL 590
+http://rogers-hls.leanstream.co/rogers/tor590.stream/icy?environment=tunein
 
+#EXTINF:-1 tvg-logo="" group-title="",NWL | Vancouver
+http://
+
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="",AA | Winnipeg
+http://
+
+#EXTINF:-1 tvg-logo="" group-title="",FL | Ottawa
+http://
+
+#EXTINF:-1 tvg-logo="" group-title="",FL | Québec
+http://
+
+#EXTINF:-1 tvg-logo="" group-title="",FL | Trois-Rivières
+http://
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="",NBA | Toronto | CHUM 1050
+https://playerservices.streamtheworld.com/api/livestream-redirect/CHUMAM_ADP.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",LCF | Calgary
+http://
+
+#EXTINF:-1 tvg-logo="" group-title="",LCF | Colombie-Britannique
+http://
+
+#EXTINF:-1 tvg-logo="" group-title="",LCF | Edmonton
+http://
+
+#EXTINF:-1 tvg-logo="" group-title="",LCF | Hamilton 
+http://
+
+#EXTINF:-1 tvg-logo="" group-title="",LCF | Montréal
+http://
+
+#EXTINF:-1 tvg-logo="" group-title="",LCF | Ottawa
+http://
+
+#EXTINF:-1 tvg-logo="" group-title="",LCF | Saskatchewan
+http://
+
+#EXTINF:-1 tvg-logo="" group-title="",LCF | 
+Toronto
+http://
+
+#EXTINF:-1 tvg-logo="" group-title="",LCF | Winnipeg
+http://
+
+
+#EXTINF:-1 tvg-logo="" group-title="",LNH | Calgary| CFAC 960
+http://rogers-hls.leanstream.co/rogers/cal960.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",LNH | Edmonton
+http://
+
+#EXTINF:-1 tvg-logo="" group-title="",LNH | Montréal | CKGM 690 [EN]
+http://63.243.143.139:3690/CKGMAMAAC_SC
+#EXTINF:-1 tvg-logo="" group-title="",LNH | Montréal | CHMP 98.5 [FR]
+https://cogecomedia.leanstream.co/CHMPFM-MP3
+#EXTINF:-1 tvg-logo="" group-title="",LNH | Ottawa | CFGO 1200 [EN]
+https://playerservices.streamtheworld.com/api/livestream-redirect/CFGOAM_ADP.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",LNH | Ottawa | CJFO 94.5 [FR]
+http://stream2.statsradio.com:8038/stream
+#EXTINF:-1 tvg-logo="" group-title="",LNH | Toronto | CJCL 590
+http://rogers-hls.leanstream.co/rogers/tor590.stream/icy?environment=tunein
+#EXTINF:-1 tvg-logo="" group-title="",LNH | Vancouver | CISL 650
+https://rogers-hls.leanstream.co/rogers/van650.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",LNH | Winnipeg | CFRW 1290
+http://playerservices.streamtheworld.com/api/livestream-redirect/CFRWAM_ADP.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",LAH | Belleville
+http://
+#EXTINF:-1 tvg-logo="" group-title="",LAH | Laval
+http://
+
+#EXTINF:-1 tvg-logo="" group-title="",LAH | Manitoba
+http://
+
+#EXTINF:-1 tvg-logo="" group-title="",LAH | Toronto
+http://
+
+#EXTINF:-1 tvg-logo="" group-title="",ECHL | Brampton
+http://
+#EXTINF:-1 tvg-logo="" group-title="",ECHL | St-John's
+http://
+
+#EXTINF:-1 tvg-logo="" group-title="",ECHL | Trois-Rivières
+http://
+
+
+#EXTINF:-1 tvg-logo="" group-title="",LHJMQ | Acadie-Bathurst | CKLE 92.9
+http://s2.radioservers.biz:9992/
+#EXTINF:-1 tvg-logo="" group-title="",LHJMQ | Baie-Comeau
+http://
+#EXTINF:-1 tvg-logo="" group-title="",LHJMQ | Blainville-Boisbriand
+http://
+#EXTINF:-1 tvg-logo="" group-title="",LHJMQ | Cape Breton | CJCB 1270
+http://mbsradio.leanstream.co/CJCBAM-MP3
+#EXTINF:-1 tvg-logo="" group-title="",LHJMQ | Charlottetown
+http://
+#EXTINF:-1 tvg-logo="" group-title="",LHJMQ | Chicoutimi | CJAB 94.5
+http://208.80.52.25/CJABFM_SC
+#EXTINF:-1 tvg-logo="" group-title="",LHJMQ | Drummondville
+http://
+#EXTINF:-1 tvg-logo="" group-title="",LHJMQ | Gatineau | CIMF 94.9
+http://208.80.52.131/CIMFFM_SC
+#EXTINF:-1 tvg-logo="" group-title="",LHJMQ | Halifax | CJNI 95.7
+http://rogers-hls.leanstream.co:8000/rogers/hal957.stream/48k/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",LHJMQ | Moncton | CITA 105.1
+http://harvester1.no-ip.biz:8000/listen.mp3
+#EXTINF:-1 tvg-logo="" group-title="",LHJMQ | Québec | CHYZ 94.3
+http://ecoutez.chyz.ca:8000/mp3
+#EXTINF:-1 tvg-logo="" group-title="",LHJMQ | Rimouski | CIKI 98.7
+http://stream.statsradio.com:8048/stream
+#EXTINF:-1 tvg-logo="" group-title="",LHJMQ | Rouyn-Noranda
+http://
+#EXTINF:-1 tvg-logo="" group-title="",LHJMQ | Saint John
+http://
+#EXTINF:-1 tvg-logo="" group-title="",LHJMQ | Shawinigan | CKOB 106.9
+https://cogecomedia.leanstream.co/CKOBFM-MP3
+#EXTINF:-1 tvg-logo="" group-title="",LHJMQ | Sherbrooke | CKOY 107.7
+https://cogecomedia.leanstream.co/CKOYFM-MP3
+#EXTINF:-1 tvg-logo="" group-title="",LHJMQ | Val-d'Or
+http://
+#EXTINF:-1 tvg-logo="" group-title="",LHJMQ | Victoriaville
+http://
+
+
+#EXTINF:-1 tvg-logo="" group-title="",OHL | Barrie
 http://
 
 #EXTINF:-1 tvg-logo="" group-title="",OHL | Erie
-
 http://
 
 #EXTINF:-1 tvg-logo="" group-title="",OHL | Flint
 
 http://
 
-#EXTINF:-1 tvg-logo="" group-title="",OHL | Guelph | CJOY 1460 [EN]
-
+#EXTINF:-1 tvg-logo="" group-title="",OHL | Guelph | CJOY 1460
 http://corus.leanstream.co/CJOYAM-MP3
 
-#EXTINF:-1 tvg-logo="" group-title="",OHL | Hamilton | CKOC 1150 [EN]
-
+#EXTINF:-1 tvg-logo="" group-title="",OHL | Hamilton | CKOC 1150
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKOCAM_ADP.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",OHL | Kingston | CKWS 104.3 [EN]
-
+#EXTINF:-1 tvg-logo="" group-title="",OHL | Kingston | CKWS 104.3
 http://live.leanstream.co/CKWSFM-MP3
 
-#EXTINF:-1 tvg-logo="" group-title="",OHL | Kitchener | CKGL 570 [EN]
-
+#EXTINF:-1 tvg-logo="" group-title="",OHL | Kitchener | CKGL 570
 http://uk5.internet-radio.com:8199/stream
-
-#EXTINF:-1 tvg-logo="" group-title="",OHL | London | CFPL 980 [EN]
-
+#EXTINF:-1 tvg-logo="" group-title="",OHL | London | CFPL 980
 http://geocom.leanstream.co/CFPLAM-MP3
 
 #EXTINF:-1 tvg-logo="" group-title="",OHL | Mississauga
 
 http://
 
-#EXTINF:-1 tvg-logo="" group-title="",OHL | Niagara | CKTB 610 [EN]
-
+#EXTINF:-1 tvg-logo="" group-title="",OHL | Niagara | CKTB 610
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKTBAM_ADP.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",OHL | North Bay | CKAT 600 [EN]
-
+#EXTINF:-1 tvg-logo="" group-title="",OHL | North Bay | CKAT 600
 https://rogers-hls.leanstream.co/rogers/nor600.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",OHL | Oshawa [EN]
 
 http://
 
-#EXTINF:-1 tvg-logo="" group-title="",OHL | Ottawa | CFGO 1200 [EN]
-
+#EXTINF:-1 tvg-logo="" group-title="",OHL | Ottawa | CFGO 1200
 https://playerservices.streamtheworld.com/api/livestream-redirect/CFGOAM_ADP.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",OHL | Owen Sound | CFOS 560 [EN]
-
+#EXTINF:-1 tvg-logo="" group-title="",OHL | Owen Sound | CFOS 560
 http://bayshore-ais.leanstream.co/CFOSAM-MP3
 
-#EXTINF:-1 tvg-logo="" group-title="",OHL | Peterborough | CJMB 90.5 [EN]
-
+#EXTINF:-1 tvg-logo="" group-title="",OHL | Peterborough | CJMB 90.5
 https://proxy.stream.statsradio.com/cjmb
 
 #EXTINF:-1 tvg-logo="" group-title="",OHL | Saginaw
-
 http://
 
-#EXTINF:-1 tvg-logo="" group-title="",OHL | Sarnia | CHOK 1070 [EN]
-
+#EXTINF:-1 tvg-logo="" group-title="",OHL | Sarnia | CHOK 1070
 http://live.leanstream.co/CHOKAM
 
 #EXTINF:-1 tvg-logo="" group-title="",OHL | Sault-Ste-Marie
-
 http://
-
-#EXTINF:-1 tvg-logo="" group-title="",OHL | Sudbury | CKLU 96.7 [EN]
-
+#EXTINF:-1 tvg-logo="" group-title="",OHL | Sudbury | CKLU 96.7
 http://ckluradio.laurentian.ca:88/broadwave.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="",OHL | Windsor | CKLW 800 [EN]
-
+#EXTINF:-1 tvg-logo="" group-title="",OHL | Windsor | CKLW 800
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKLWAM_ADP.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="",LHJMQ | Acadie-Bathurst | CKLE 92.9 [FR]
-
-http://s2.radioservers.biz:9992/
-
-#EXTINF:-1 tvg-logo="" group-title="",LHJMQ | Baie-Comeau
-
-http://
-
-#EXTINF:-1 tvg-logo="" group-title="",LHJMQ | Blainville-Boisbriand
-
-http://
-
-#EXTINF:-1 tvg-logo="" group-title="",LHJMQ | Cape Breton | CJCB 1270 [EN]
-
-http://mbsradio.leanstream.co/CJCBAM-MP3
-
-#EXTINF:-1 tvg-logo="" group-title="",LHJMQ | Charlottetown
-
-http://
-
-#EXTINF:-1 tvg-logo="" group-title="",LHJMQ | Chicoutimi | CJAB 94.5 [FR]
-
-http://208.80.52.25/CJABFM_SC
-
-#EXTINF:-1 tvg-logo="" group-title="",LHJMQ | Drummondville
-
-http://
-
-#EXTINF:-1 tvg-logo="" group-title="",LHJMQ | Gatineau | CIMF 94.9 [FR]
-
-http://208.80.52.131/CIMFFM_SC
-
-#EXTINF:-1 tvg-logo="" group-title="",LHJMQ | Halifax | CJNI 95.7 [EN]
-
-http://rogers-hls.leanstream.co:8000/rogers/hal957.stream/48k/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",LHJMQ | Moncton | CITA 105.1 [EN]
-
-http://harvester1.no-ip.biz:8000/listen.mp3
-
-#EXTINF:-1 tvg-logo="" group-title="",LHJMQ | Québec | CHYZ 94.3 [FR]
-
-http://ecoutez.chyz.ca:8000/mp3
-
-#EXTINF:-1 tvg-logo="" group-title="",LHJMQ | Rimouski | CIKI 98.7 [FR]
-
-http://stream.statsradio.com:8048/stream
-
-#EXTINF:-1 tvg-logo="" group-title="",LHJMQ | Rouyn-Noranda
-
-http://
-
-#EXTINF:-1 tvg-logo="" group-title="",LHJMQ | Saint John
-
-http://
-
-#EXTINF:-1 tvg-logo="" group-title="",LHJMQ | Shawinigan | CKOB 106.9 [FR]
-
-https://cogecomedia.leanstream.co/CKOBFM-MP3
-
-#EXTINF:-1 tvg-logo="" group-title="",LHJMQ | Sherbrooke | CKOY 107.7 [FR]
-
-https://cogecomedia.leanstream.co/CKOYFM-MP3
-
-#EXTINF:-1 tvg-logo="" group-title="",LHJMQ | Val-d'Or
-
-http://
-
-#EXTINF:-1 tvg-logo="" group-title="",LHJMQ | Victoriaville
-
-http://
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="",WHL | Brandon | CKLQ 880 [EN]
-
+#EXTINF:-1 tvg-logo="" group-title="",WHL | Brandon | CKLQ 880
 http://live.cklq.com:8000/CKLQ.mp3
-
-#EXTINF:-1 tvg-logo="" group-title="",WHL | Calgary | CFAC 960 [EN]
-
+#EXTINF:-1 tvg-logo="" group-title="",WHL | Calgary | CFAC 960
 http://rogers-hls.leanstream.co/rogers/cal960.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",WHL | Edmonton | CFRN 1260 [EN]
-
+#EXTINF:-1 tvg-logo="" group-title="",WHL | Edmonton | CFRN 1260
 https://playerservices.streamtheworld.com/api/livestream-redirect/CFRNAM_ADP.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",WHL | Everett | KRKO 95.3 [EN]
-
-http://www.ophanim.net:9400/;
-
+#EXTINF:-1 tvg-logo="" group-title="",WHL | Everett | KRKO 95.3
+h
+ttp://www.ophanim.net:9400/;
 #EXTINF:-1 tvg-logo="" group-title="",WHL | Kamloops
-
 http://
-
-#EXTINF:-1 tvg-logo="" group-title="",WHL | Kelowna | CKFR 1150 [EN]
+#EXTINF:-1 tvg-logo="" group-title="",WHL | Kelowna | CKFR 1150
 
 http://playerservices.streamtheworld.com/api/livestream-redirect/CKFRAM_ADP.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",WHL | Lethbridge | CJRX 106.7 [EN]
+#EXTINF:-1 tvg-logo="" group-title="",WHL | Lethbridge | CJRX 106.7
 
 https://rogers-hls.leanstream.co/rogers/let1067.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="",WHL | Medicine Hat
-
 http://
-
 #EXTINF:-1 tvg-logo="" group-title="",WHL | Moose Jaw
-
 http://
-
 #EXTINF:-1 tvg-logo="" group-title="",WHL | Portland
-
 http://
-
 #EXTINF:-1 tvg-logo="" group-title="",WHL | Prince Albert
-
 http://
-
-#EXTINF:-1 tvg-logo="" group-title="",WHL | Prince George | CIRX 94.3 [EN]
+#EXTINF:-1 tvg-logo="" group-title="",WHL | Prince George | CIRX 94.3
 
 http://srv1.hotdogradio.com:8000/CKQR
-
 #EXTINF:-1 tvg-logo="" group-title="",WHL | Red Deer
-
 http://
-
-#EXTINF:-1 tvg-logo="" group-title="",WHL | Regina | CKRM 620 [EN]
-
+#EXTINF:-1 tvg-logo="" group-title="",WHL | Regina | CKRM 620
 http://ckrm.streamon.fm:8000/CKRM-64k.aac
-
-#EXTINF:-1 tvg-logo="" group-title="",WHL | Saskatoon | CKFM 98.3 [EN]
-
+#EXTINF:-1 tvg-logo="" group-title="",WHL | Saskatoon | CKFM 98.3
 http://208.80.52.138:3690/CJMKFM_SC
-
-#EXTINF:-1 tvg-logo="" group-title="",WHL | Seattle | KFNQ 1090 [EN]
-
+#EXTINF:-1 tvg-logo="" group-title="",WHL | Seattle | KFNQ 1090
 https://stream.revma.ihrhls.com/zc7747
-
 #EXTINF:-1 tvg-logo="" group-title="",WHL | Spokane
-
 http://
-
 #EXTINF:-1 tvg-logo="" group-title="",WHL | Swift Current
-
 http://
-
-#EXTINF:-1 tvg-logo="" group-title="",WHL | Vancouver
-
-http://
-
+#EXTINF:-1 tvg-logo="" group-title="",WHL | Vancouver | CISL 650
+https://rogers-hls.leanstream.co/rogers/van650.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",WHL | Victoria
-
 http://
-
-#EXTINF:-1 tvg-logo="" group-title="",WHL | Winnipeg | CJOB 680 [EN]
-
+#EXTINF:-1 tvg-logo="" group-title="",WHL | Winnipeg | CJOB 680
 http://corus.leanstream.co/CJOBAM-MP3
-
-
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" group-title="[adult swim]",[adult swim] live stream
-
-https://media.cdn.adultswim.com/streams/playlists/live-stream.primary.v2.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" group-title="[adult swim]",Aqua Teen Hunger Force
-
-https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" group-title="[adult swim]",Rick and Morty
-
-https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" group-title="[adult swim]",Robot Chicken
-
-https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" group-title="[adult swim]",Samurai Jack
-
-https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/A3Network_A3Bikini.png?raw=true" group-title="Adult Lifestyle & Interests",A3 Bikini (18+)
-
-https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/FTVMidnightSecret_466x466.png" group-title="Adult Lifestyle & Interests",FTV Midnight Secrets (18+)
-
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Kaloopy_340x340.png?raw=true" group-title="Adult Lifestyle & Interests",Kaloopy (18+)
-
-https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/126.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/MiamiTV_640x640.png?raw=true" group-title="Adult Lifestyle & Interests",Miami TV | Jenny TV (18+)
-
-https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 
 
 
@@ -704,7 +699,6 @@ https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 https://od.lk/s/MF8yMTU5MTU3MjRf/Fireplace-and-Chill_21m.mp4
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AboutUS_392x392.png?raw=true" group-title="About Us + Extras",Roku Movie Magic Screensaver
-
 https://od.lk/s/MF8yMTU5MTU4NzZf/Roku_City-Stroll_Movie-Magic_720p_16m43s.mp4
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AboutUS_392x392.png?raw=true" group-title="About Us + Extras",Roku Skyline Screensaver
