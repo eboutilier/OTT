@@ -447,52 +447,48 @@ https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f7722
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="",AA | Winnipeg
-http://
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/AA-Winnipeg.png?raw=true" group-title="",AA | Winnipeg | CJNU 93.7
+http://noasrv.caster.fm:10188/stream
 
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LAH-Belleville.png?raw=true" group-title="",AHL | Belleville | CJBQ 800
+http://live.leanstream.co/CJBQAM-MP3
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LAH-Laval.png?raw=true" group-title="",LAH | Laval | CKLX 91.9
+http://icecast-cklx.rncm.ca/cklx.mp3
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LAH-Manitoba.png?raw=true" group-title="",AHL | Manitoba | CFRW 1290
+http://playerservices.streamtheworld.com/api/livestream-redirect/CFRWAM_ADP.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LAH-Toronto.png?raw=true" group-title="",AHL | Toronto | CHUM 1050
+https://playerservices.streamtheworld.com/api/livestream-redirect/CHUMAM_ADP.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",AHL | Belleville
-http://
-#EXTINF:-1 tvg-logo="" group-title="",LAH | Laval
-http://
-
-#EXTINF:-1 tvg-logo="" group-title="",AHL | Manitoba
-http://
-
-#EXTINF:-1 tvg-logo="" group-title="",AHL | Toronto
-http://
-
-#EXTINF:-1 tvg-logo="" group-title="",CFL | British Columbia
-http://
-
-#EXTINF:-1 tvg-logo="" group-title="",CFL | Calgary
-http://
-
+#EXTINF:-1 tvg-logo="" group-title="",CFL | British Columbia | CKST 1040
+http://playerservices.streamtheworld.com/api/livestream-redirect/CKSTAM_ADP.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",CFL | Calgary | CHQR 770
+http://corus.leanstream.co/CHQRAM-MP3
 #EXTINF:-1 tvg-logo="" group-title="",CFL | Edmonton
 http://
 
-#EXTINF:-1 tvg-logo="" group-title="",CFL | Hamilton 
-http://
+#EXTINF:-1 tvg-logo="" group-title="",CFL | Hamilton | CKOC 1150
+https://playerservices.streamtheworld.com/api/livestream-redirect/CKOCAM_ADP.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",LCF | Montréal
-http://
+#EXTINF:-1 tvg-logo="" group-title="",CFL | Montréal | CKGM 690 [EN]
+http://63.243.143.139:3690/CKGMAMAAC_SC
+#EXTINF:-1 tvg-logo="" group-title="",LCF | Montréal | CHMP 98.5 [FR]
+https://cogecomedia.leanstream.co/CHMPFM-MP3
+#EXTINF:-1 tvg-logo="" group-title="",CFL | Ottawa | CFGO 1200 [EN]
+https://playerservices.streamtheworld.com/api/livestream-redirect/CFGOAM_ADP.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",LCF | Ottawa
-http://
-
-#EXTINF:-1 tvg-logo="" group-title="",CFL | Saskatchewan
-http://
-
-#EXTINF:-1 tvg-logo="" group-title="",CFL | Toronto
-http://
-
-#EXTINF:-1 tvg-logo="" group-title="",CFL | Winnipeg
-http://
-
+#EXTINF:-1 tvg-logo="" group-title="",CFL | Ottawa | CKOF 104.7 [FR]
+https://cogecomedia.leanstream.co/CKOFFM-MP3
+#EXTINF:-1 tvg-logo="" group-title="",CFL | Saskatchewan | CKRM 620
+http://ckrm.streamon.fm:8000/CKRM-64k.aac
+#EXTINF:-1 tvg-logo="" group-title="",CFL | 
+Toronto | CHUM 1050
+https://playerservices.streamtheworld.com/api/livestream-redirect/CHUMAM_ADP.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",CFL | Winnipeg | CJOB 680
+http://corus.leanstream.co/CJOBAM-MP3
 
 #EXTINF:-1 tvg-logo="" group-title="",ECHL | Brampton
 http://
-#EXTINF:-1 tvg-logo="" group-title="",ECHL | St-John's
+#EXTINF:-1 tvg-logo="" group-title="",ECHL | Newfoundland
 http://
 
 #EXTINF:-1 tvg-logo="" group-title="",ECHL | Trois-Rivières
@@ -502,9 +498,8 @@ http://
 #EXTINF:-1 tvg-logo="" group-title="",FL | Ottawa
 http://
 
-#EXTINF:-1 tvg-logo="" group-title="",FL | Québec
-http://
-
+#EXTINF:-1 tvg-logo="" group-title="",FL | Québec | CHYZ 94.3
+http://ecoutez.chyz.ca:8000/mp3
 #EXTINF:-1 tvg-logo="" group-title="",FL | Trois-Rivières
 http://
 
