@@ -164,11 +164,11 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/680602/1242843915001_1/master.m3
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CPAC_360x360.png?raw=true" group-title="Canadian TV",CPAC [FR]
 
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",ONT PARL [EN]
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/TV-ONT.png?raw=true" group-title="",ONT PARL [EN]
 http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="",ONT PARL [FR]
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/TV-ONT.png?raw=true" group-title="",ONT PARL [FR]
 http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8
 
 
@@ -459,228 +459,227 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/CFRWAM_ADP.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LAH-Toronto.png?raw=true" group-title="",AHL | Toronto | CHUM 1050
 https://playerservices.streamtheworld.com/api/livestream-redirect/CHUMAM_ADP.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",CFL | British Columbia | CKST 1040
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-British Columbia.png?raw=true" group-title="",CFL | British Columbia | CKST 1040
 http://playerservices.streamtheworld.com/api/livestream-redirect/CKSTAM_ADP.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",CFL | Calgary | CHQR 770
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-Calgary.png?raw=true" group-title="",CFL | Calgary | CHQR 770
 http://corus.leanstream.co/CHQRAM-MP3
-#EXTINF:-1 tvg-logo="" group-title="",CFL | Edmonton
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-Edmonton.png?raw=true" group-title="",CFL | Edmonton
 http://
 
-#EXTINF:-1 tvg-logo="" group-title="",CFL | Hamilton | CKOC 1150
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-Hamilton.png?raw=true" group-title="",CFL | Hamilton | CKOC 1150
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKOCAM_ADP.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",CFL | Montréal | CKGM 690 [EN]
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-Montréal.png?raw=true" group-title="",CFL | Montréal | CKGM 690 [EN]
 http://63.243.143.139:3690/CKGMAMAAC_SC
-#EXTINF:-1 tvg-logo="" group-title="",LCF | Montréal | CHMP 98.5 [FR]
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-Montréal.png?raw=true" group-title="",LCF | Montréal | CHMP 98.5 [FR]
 https://cogecomedia.leanstream.co/CHMPFM-MP3
-#EXTINF:-1 tvg-logo="" group-title="",CFL | Ottawa | CFGO 1200 [EN]
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-Ottawa.png?raw=true" group-title="",CFL | Ottawa | CFGO 1200 [EN]
 https://playerservices.streamtheworld.com/api/livestream-redirect/CFGOAM_ADP.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",CFL | Ottawa | CKOF 104.7 [FR]
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-Ottawa.png?raw=true" group-title="",CFL | Ottawa | CKOF 104.7 [FR]
 https://cogecomedia.leanstream.co/CKOFFM-MP3
-#EXTINF:-1 tvg-logo="" group-title="",CFL | Saskatchewan | CKRM 620
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-Saskatchewan.png?raw=true" group-title="",CFL | Saskatchewan | CKRM 620
 http://ckrm.streamon.fm:8000/CKRM-64k.aac
-#EXTINF:-1 tvg-logo="" group-title="",CFL | 
-Toronto | CHUM 1050
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-Toronto.png?raw=true" group-title="",CFL | Toronto | CHUM 1050
 https://playerservices.streamtheworld.com/api/livestream-redirect/CHUMAM_ADP.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",CFL | Winnipeg | CJOB 680
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-Winnipeg.png?raw=true" group-title="",CFL | Winnipeg | CJOB 680
 http://corus.leanstream.co/CJOBAM-MP3
 
-#EXTINF:-1 tvg-logo="" group-title="",ECHL | Brampton
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/ECHL-Brampton.png?raw=true" group-title="",ECHL | Brampton
 http://
-#EXTINF:-1 tvg-logo="" group-title="",ECHL | Newfoundland
-http://
-
-#EXTINF:-1 tvg-logo="" group-title="",ECHL | Trois-Rivières
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/ECHL-Newfoundland.png?raw=true" group-title="",ECHL | Newfoundland
 http://
 
-
-#EXTINF:-1 tvg-logo="" group-title="",FL | Ottawa
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/ECHL-Trois-Rivières.png?raw=true" group-title="",ECHL | Trois-Rivières
 http://
 
-#EXTINF:-1 tvg-logo="" group-title="",FL | Québec | CHYZ 94.3
+
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/FL-Ottawa.png?raw=true" group-title="",FL | Ottawa
+http://
+
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/FL-Québec.png?raw=true" group-title="",FL | Québec | CHYZ 94.3
 http://ecoutez.chyz.ca:8000/mp3
-#EXTINF:-1 tvg-logo="" group-title="",FL | Trois-Rivières
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/FL-Trois-Rivières.png?raw=true" group-title="",FL | Trois-Rivières
 http://
 
 
-#EXTINF:-1 tvg-logo="" group-title="",LHJMQ | Acadie-Bathurst | CKLE 92.9
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Acadie-Bathurst.png?raw=true" group-title="",LHJMQ | Acadie-Bathurst | CKLE 92.9
 http://s2.radioservers.biz:9992/
-#EXTINF:-1 tvg-logo="" group-title="",LHJMQ | Baie-Comeau
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Baie-Comeau.png?raw=true" group-title="",LHJMQ | Baie-Comeau
 http://
-#EXTINF:-1 tvg-logo="" group-title="",LHJMQ | Blainville-Boisbriand
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Blainville-Boisbriand.png?raw=true" group-title="",LHJMQ | Blainville-Boisbriand
 http://
-#EXTINF:-1 tvg-logo="" group-title="",LHJMQ | Cape Breton | CJCB 1270
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Cape Breton.png?raw=true" group-title="",LHJMQ | Cape Breton | CJCB 1270
 http://mbsradio.leanstream.co/CJCBAM-MP3
-#EXTINF:-1 tvg-logo="" group-title="",LHJMQ | Charlottetown
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Charlottetown.png?raw=true" group-title="",LHJMQ | Charlottetown
 http://
-#EXTINF:-1 tvg-logo="" group-title="",LHJMQ | Chicoutimi | CJAB 94.5
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Chicoutimi.png?raw=true" group-title="",LHJMQ | Chicoutimi | CJAB 94.5
 http://208.80.52.25/CJABFM_SC
-#EXTINF:-1 tvg-logo="" group-title="",LHJMQ | Drummondville
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Drummondville.png?raw=true" group-title="",LHJMQ | Drummondville
 http://
-#EXTINF:-1 tvg-logo="" group-title="",LHJMQ | Gatineau | CIMF 94.9
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Gatineau.png?raw=true" group-title="",LHJMQ | Gatineau | CIMF 94.9
 http://208.80.52.131/CIMFFM_SC
-#EXTINF:-1 tvg-logo="" group-title="",LHJMQ | Halifax | CJNI 95.7
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Halifax.png?raw=true" group-title="",LHJMQ | Halifax | CJNI 95.7
 http://rogers-hls.leanstream.co:8000/rogers/hal957.stream/48k/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",LHJMQ | Moncton | CITA 105.1
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Moncton.png?raw=true" group-title="",LHJMQ | Moncton | CITA 105.1
 http://harvester1.no-ip.biz:8000/listen.mp3
-#EXTINF:-1 tvg-logo="" group-title="",LHJMQ | Québec | CHYZ 94.3
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Québec.png?raw=true" group-title="",LHJMQ | Québec | CHYZ 94.3
 http://ecoutez.chyz.ca:8000/mp3
-#EXTINF:-1 tvg-logo="" group-title="",LHJMQ | Rimouski | CIKI 98.7
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Rimouski.png?raw=true" group-title="",LHJMQ | Rimouski | CIKI 98.7
 http://stream.statsradio.com:8048/stream
-#EXTINF:-1 tvg-logo="" group-title="",LHJMQ | Rouyn-Noranda
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Rouyn-Noranda.png?raw=true" group-title="",LHJMQ | Rouyn-Noranda
 http://
-#EXTINF:-1 tvg-logo="" group-title="",LHJMQ | Saint John
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Saint John.png?raw=true" group-title="",LHJMQ | Saint John
 http://
-#EXTINF:-1 tvg-logo="" group-title="",LHJMQ | Shawinigan | CKOB 106.9
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Shawinigan.png?raw=true" group-title="",LHJMQ | Shawinigan | CKOB 106.9
 https://cogecomedia.leanstream.co/CKOBFM-MP3
-#EXTINF:-1 tvg-logo="" group-title="",LHJMQ | Sherbrooke | CKOY 107.7
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Sherbrooke.png?raw=true" group-title="",LHJMQ | Sherbrooke | CKOY 107.7
 https://cogecomedia.leanstream.co/CKOYFM-MP3
-#EXTINF:-1 tvg-logo="" group-title="",LHJMQ | Val-d'Or
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Val-d'Or.png?raw=true" group-title="",LHJMQ | Val-d'Or
 http://
-#EXTINF:-1 tvg-logo="" group-title="",LHJMQ | Victoriaville
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Victoriaville.png?raw=true" group-title="",LHJMQ | Victoriaville
 http://
 
-EXTINF:-1 tvg-logo="" group-title="",MLB | Toronto | CJCL 590
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/MLB-Toronto.png?raw=true" group-title="",MLB | Toronto | CJCL 590
 http://rogers-hls.leanstream.co/rogers/tor590.stream/icy?environment=tunein
 
 
-#EXTINF:-1 tvg-logo="" group-title="",NBA | Toronto | CHUM 1050
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/NBA-Toronto.png?raw=true" group-title="",NBA | Toronto | CHUM 1050
 https://playerservices.streamtheworld.com/api/livestream-redirect/CHUMAM_ADP.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",NHL | Calgary| CFAC 960
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-Calgary.png?raw=true" group-title="",NHL | Calgary| CFAC 960
 http://rogers-hls.leanstream.co/rogers/cal960.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",NHL | Edmonton
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-Edmonton.png?raw=true" group-title="",NHL | Edmonton
 http://
 
-#EXTINF:-1 tvg-logo="" group-title="",NHL | Montréal | CKGM 690 [EN]
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-Montréal.png?raw=true" group-title="",NHL | Montréal | CKGM 690 [EN]
 http://63.243.143.139:3690/CKGMAMAAC_SC
-#EXTINF:-1 tvg-logo="" group-title="",LNH | Montréal | CHMP 98.5 [FR]
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-Montréal.png?raw=true" group-title="",LNH | Montréal | CHMP 98.5 [FR]
 https://cogecomedia.leanstream.co/CHMPFM-MP3
-#EXTINF:-1 tvg-logo="" group-title="",NHL | Ottawa | CFGO 1200 [EN]
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-Ottawa.png?raw=true" group-title="",NHL | Ottawa | CFGO 1200 [EN]
 https://playerservices.streamtheworld.com/api/livestream-redirect/CFGOAM_ADP.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",LNH | Ottawa | CJFO 94.5 [FR]
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-Ottawa.png?raw=true" group-title="",LNH | Ottawa | CJFO 94.5 [FR]
 http://stream2.statsradio.com:8038/stream
-#EXTINF:-1 tvg-logo="" group-title="",NHL | Toronto | CJCL 590
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-Toronto.png?raw=true" group-title="",NHL | Toronto | CJCL 590
 http://rogers-hls.leanstream.co/rogers/tor590.stream/icy?environment=tunein
-#EXTINF:-1 tvg-logo="" group-title="",NHL | Vancouver | CISL 650
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-Vancouver.png?raw=true" group-title="",NHL | Vancouver | CISL 650
 https://rogers-hls.leanstream.co/rogers/van650.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",NHL | Winnipeg | CFRW 1290
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-Winnipeg.png?raw=true" group-title="",NHL | Winnipeg | CFRW 1290
 http://playerservices.streamtheworld.com/api/livestream-redirect/CFRWAM_ADP.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",NWL | Vancouver
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/NWL-Vancouver.png?raw=true" group-title="",NWL | Vancouver
 http://
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="",OHL | Barrie
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Barrie.png?raw=true" group-title="",OHL | Barrie
 http://
 
-#EXTINF:-1 tvg-logo="" group-title="",OHL | Erie
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Erie.png?raw=true" group-title="",OHL | Erie
 http://
 
-#EXTINF:-1 tvg-logo="" group-title="",OHL | Flint
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Flint.png?raw=true" group-title="",OHL | Flint
 
 http://
 
-#EXTINF:-1 tvg-logo="" group-title="",OHL | Guelph | CJOY 1460
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Guelph.png?raw=true" group-title="",OHL | Guelph | CJOY 1460
 http://corus.leanstream.co/CJOYAM-MP3
 
-#EXTINF:-1 tvg-logo="" group-title="",OHL | Hamilton | CKOC 1150
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Hamilton.png?raw=true" group-title="",OHL | Hamilton | CKOC 1150
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKOCAM_ADP.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",OHL | Kingston | CKWS 104.3
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Kingston.png?raw=true" group-title="",OHL | Kingston | CKWS 104.3
 http://live.leanstream.co/CKWSFM-MP3
 
-#EXTINF:-1 tvg-logo="" group-title="",OHL | Kitchener | CKGL 570
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Kitchener.png?raw=true" group-title="",OHL | Kitchener | CKGL 570
 http://uk5.internet-radio.com:8199/stream
-#EXTINF:-1 tvg-logo="" group-title="",OHL | London | CFPL 980
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-London.png?raw=true" group-title="",OHL | London | CFPL 980
 http://geocom.leanstream.co/CFPLAM-MP3
 
-#EXTINF:-1 tvg-logo="" group-title="",OHL | Mississauga
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Mississauga.png?raw=true" group-title="",OHL | Mississauga
 
 http://
 
-#EXTINF:-1 tvg-logo="" group-title="",OHL | Niagara | CKTB 610
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Niagara.png?raw=true" group-title="",OHL | Niagara | CKTB 610
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKTBAM_ADP.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",OHL | North Bay | CKAT 600
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-North Bay.png?raw=true" group-title="",OHL | North Bay | CKAT 600
 https://rogers-hls.leanstream.co/rogers/nor600.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",OHL | Oshawa [EN]
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Oshawa.png?raw=true" group-title="",OHL | Oshawa
 
 http://
 
-#EXTINF:-1 tvg-logo="" group-title="",OHL | Ottawa | CFGO 1200
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Ottawa.png?raw=true" group-title="",OHL | Ottawa | CFGO 1200
 https://playerservices.streamtheworld.com/api/livestream-redirect/CFGOAM_ADP.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",OHL | Owen Sound | CFOS 560
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Owen Sound.png?raw=true" group-title="",OHL | Owen Sound | CFOS 560
 http://bayshore-ais.leanstream.co/CFOSAM-MP3
 
-#EXTINF:-1 tvg-logo="" group-title="",OHL | Peterborough | CJMB 90.5
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Peterborough.png?raw=true" group-title="",OHL | Peterborough | CJMB 90.5
 https://proxy.stream.statsradio.com/cjmb
 
-#EXTINF:-1 tvg-logo="" group-title="",OHL | Saginaw
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Saginaw.png?raw=true" group-title="",OHL | Saginaw
 http://
 
-#EXTINF:-1 tvg-logo="" group-title="",OHL | Sarnia | CHOK 1070
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Sarnia.png?raw=true" group-title="",OHL | Sarnia | CHOK 1070
 http://live.leanstream.co/CHOKAM
 
-#EXTINF:-1 tvg-logo="" group-title="",OHL | Sault-Ste-Marie
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Sault-Ste-Marie.png?raw=true" group-title="",OHL | Sault-Ste-Marie
 http://
-#EXTINF:-1 tvg-logo="" group-title="",OHL | Sudbury | CKLU 96.7
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Sudbury.png?raw=true" group-title="",OHL | Sudbury | CKLU 96.7
 http://ckluradio.laurentian.ca:88/broadwave.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="",OHL | Windsor | CKLW 800
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Windsor.png?raw=true" group-title="",OHL | Windsor | CKLW 800
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKLWAM_ADP.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="",WHL | Brandon | CKLQ 880
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Brandon.png?raw=true" group-title="",WHL | Brandon | CKLQ 880
 http://live.cklq.com:8000/CKLQ.mp3
-#EXTINF:-1 tvg-logo="" group-title="",WHL | Calgary | CFAC 960
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Calgary.png?raw=true" group-title="",WHL | Calgary | CFAC 960
 http://rogers-hls.leanstream.co/rogers/cal960.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",WHL | Edmonton | CFRN 1260
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Edmonton.png?raw=true" group-title="",WHL | Edmonton | CFRN 1260
 https://playerservices.streamtheworld.com/api/livestream-redirect/CFRNAM_ADP.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",WHL | Everett | KRKO 95.3
-http://www.ophanim.net:9400/;
-#EXTINF:-1 tvg-logo="" group-title="",WHL | Kamloops
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Everett.png?raw=true" group-title="",WHL | Everett | KRKO 95.3
+http://www.ophanim.net:9400/
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Kamloops.png?raw=true" group-title="",WHL | Kamloops
 http://
-#EXTINF:-1 tvg-logo="" group-title="",WHL | Kelowna | CKFR 1150
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Kelowna.png?raw=true" group-title="",WHL | Kelowna | CKFR 1150
 
 http://playerservices.streamtheworld.com/api/livestream-redirect/CKFRAM_ADP.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",WHL | Lethbridge | CJRX 106.7
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Lethbridge.png?raw=true" group-title="",WHL | Lethbridge | CJRX 106.7
 
 https://rogers-hls.leanstream.co/rogers/let1067.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",WHL | Medicine Hat
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Medicine Hat.png?raw=true" group-title="",WHL | Medicine Hat
 http://
-#EXTINF:-1 tvg-logo="" group-title="",WHL | Moose Jaw
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Moose Jaw.png?raw=true" group-title="",WHL | Moose Jaw
 http://
-#EXTINF:-1 tvg-logo="" group-title="",WHL | Portland
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Portland.png?raw=true" group-title="",WHL | Portland
 http://
-#EXTINF:-1 tvg-logo="" group-title="",WHL | Prince Albert
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Prince Albert.png?raw=true" group-title="",WHL | Prince Albert
 http://
-#EXTINF:-1 tvg-logo="" group-title="",WHL | Prince George | CIRX 94.3
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Prince George.png?raw=true" group-title="",WHL | Prince George | CIRX 94.3
 
 http://srv1.hotdogradio.com:8000/CKQR
-#EXTINF:-1 tvg-logo="" group-title="",WHL | Red Deer
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Red Deer.png?raw=true" group-title="",WHL | Red Deer
 http://
-#EXTINF:-1 tvg-logo="" group-title="",WHL | Regina | CKRM 620
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Regina.png?raw=true" group-title="",WHL | Regina | CKRM 620
 http://ckrm.streamon.fm:8000/CKRM-64k.aac
-#EXTINF:-1 tvg-logo="" group-title="",WHL | Saskatoon | CKFM 98.3
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Saskatoon.png?raw=true" group-title="",WHL | Saskatoon | CKFM 98.3
 http://208.80.52.138:3690/CJMKFM_SC
-#EXTINF:-1 tvg-logo="" group-title="",WHL | Seattle | KFNQ 1090
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Seattle.png?raw=true" group-title="",WHL | Seattle | KFNQ 1090
 https://stream.revma.ihrhls.com/zc7747
-#EXTINF:-1 tvg-logo="" group-title="",WHL | Spokane
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Spokane.png?raw=true" group-title="",WHL | Spokane
 http://
-#EXTINF:-1 tvg-logo="" group-title="",WHL | Swift Current
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Swift Current.png?raw=true" group-title="",WHL | Swift Current
 http://
-#EXTINF:-1 tvg-logo="" group-title="",WHL | Vancouver | CISL 650
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Vancouver.png?raw=true" group-title="",WHL | Vancouver | CISL 650
 https://rogers-hls.leanstream.co/rogers/van650.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",WHL | Victoria
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Victoria.png?raw=true" group-title="",WHL | Victoria
 http://
-#EXTINF:-1 tvg-logo="" group-title="",WHL | Winnipeg | CJOB 680
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Winnipeg.png?raw=true" group-title="",WHL | Winnipeg | CJOB 680
 http://corus.leanstream.co/CJOBAM-MP3
 
 
