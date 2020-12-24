@@ -386,15 +386,15 @@ http://rogers-hls.leanstream.co/rogers/cal960.stream/playlist.m3u8
 
 http://mbsradio.leanstream.co/CJCBAM-MP3
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/Hockey-Charlottetown.png?raw=true" group-title="",Hockey | Charlottetown
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Charlottetown.png?raw=true" group-title="",Hockey | Charlottetown
 
 http://
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/Hockey-Chicoutimi.png?raw=true" group-title="",Hockey | Chicoutimi | CJAB 94.5
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Chicoutimi.png?raw=true" group-title="",Hockey | Chicoutimi | CJAB 94.5
 
 http://208.80.52.25/CJABFM_SC
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/Hockey-Drummondville.png?raw=true" group-title="",Hockey | Drummondville
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Drummondville.png?raw=true" group-title="",Hockey | Drummondville
 
 http://
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-Edmonton.png?raw=true" group-title="",Hockey | Edmonton
@@ -421,7 +421,7 @@ http://www.ophanim.net:9400/
 http://
 
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/Hockey-Gatineau.png?raw=true" group-title="",Hockey | Gatineau | CIMF 94.9
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Gatineau.png?raw=true" group-title="",Hockey | Gatineau | CIMF 94.9
 
 http://208.80.52.131/CIMFFM_SC
 
@@ -430,7 +430,7 @@ http://208.80.52.131/CIMFFM_SC
 http://corus.leanstream.co/CJOYAM-MP3
 
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/Hockey-Halifax.png?raw=true" group-title="",Hockey | Halifax | CJNI 95.7
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Halifax.png?raw=true" group-title="",Hockey | Halifax | CJNI 95.7
 
 http://rogers-hls.leanstream.co:8000/rogers/hal957.stream/48k/playlist.m3u8
 
