@@ -290,13 +290,17 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CHUMAM_ADP.m3u
 http://
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/NLL-Halifax.png?raw=true" group-title="",Crosse | Halifax
 http://
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/NLL-Saskatchewan.png?raw=true" group-title="",Crosse | Saskatchewan
-http://
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/NLL-Saskatchewan.png?raw=true" group-title="",Crosse | Saskatchewan | CKBL 92.9
+http://208.92.55.46/CKBLFM_SC
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/NLL-Toronto.png?raw=true" group-title="",Crosse | Toronto
-http://
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/NLL-Vancouver.png?raw=true" group-title="",Crosse | Vancouver
+http://rogers-hls.leanstream.co/rogers/tor590.stream/icy?environment=tunein
 
-http://
+
+
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/NLL-Vancouver.png?raw=true" group-title="",Crosse | Vancouver | CISL 650
+
+https://rogers-hls.leanstream.co/rogers/van650.stream/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-BritishColumbia.png?raw=true" group-title="",Football | British Columbia | CKST 1040
 
