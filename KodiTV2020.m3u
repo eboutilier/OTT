@@ -327,8 +327,7 @@ http://
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Mississauga.png?raw=true" group-title="Hockey Junior",Mississauga | Steelheads
 http://
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Moncton.png?raw=true" group-title="Hockey Junior",Moncton | Wildcats (CITA 105.1 FM)
- [BI]
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Moncton.png?raw=true" group-title="Hockey Junior",Moncton | Wildcats (CITA 105.1 FM) [BI]
 http://harvester1.no-ip.biz:8000/listen.mp3
 
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-LNH-Montreal.png?raw=true" group-title="Multi Sport",Montréal | Alouettes + Canadiens (CKGM 690 AM) [EN]
