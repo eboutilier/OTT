@@ -158,12 +158,13 @@ https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 https://forerunnerrtmp.livestreamingcdn.com/output18-2/output18-2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="46.4 WKLEDT4" tvg-type="live" group-title="Kids" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS-Kids_625x625.png?raw=true",PBS Kids Kentucky
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="News",Popular Science
+
+https://a.jsrdn.com/broadcast/447912f76b/+0000/low/c.m3u8
 #EXTINF:-1 tvg-id="I4.4.106764.zap2it.com" tvg-name="4.4" tvg-type="live" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TBD.png",TBD
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TheWeatherChannel.png" group-title="News",The Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="25.11" tvg-type="live" group-title="Entertainment" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TV25_360x360.png?raw=true",This TV
-https://cdn.igocast.com/channel11_hls/channel11_master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/VictorValleyMovies_229x229.png?raw=true" group-title="Entertainment",Victor Valley TV Movies
 https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/WeatherNation.png" group-title="News",Weather Nation
@@ -181,10 +182,15 @@ https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/France24.png" group-title="Actualité",France 24
 http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m48XZS7/matele.png" group-title="Communautaire",Ma Télé Belgique
+
+https://594a365b4a1b2.streamlock.net/matele/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/RT-America_400x400.png" group-title="News",RT America [EN]
 https://rt-usa-gd.secure2.footprint.net/1105_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gVedXRh.png" group-title="Actualité",RT France [FR]
 https://rt-france.secure.footprint.net/1107.m3u8?streamType=live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zdTA0ha.png" group-title="Actualité",RT United Kingdom [EN]
+https://rt-uk-gd.secure2.footprint.net/1106.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/SkyNews.png?raw=true" group-title="News",Sky News
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
 
@@ -202,6 +208,9 @@ https://csm-e-cetubiausw2live101-08c231fb1e230ccd2.csm.tubi.video/csm/live/24666
 
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/equipe21-850463/hls/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_Japan_Pro_Wrestling_Logo_2.svg" group-title="Sports",New Japan Pro Wrestling World
+
+https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/OutsideTVPlus_540x540.png?raw=true" group-title="Sports",Outside TV
 https://outsidetvplus-distro.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Sports",PlayersTV
@@ -215,7 +224,7 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 #EXTINF:-1 tvg-id="" tvg-name="25.8" tvg-type="live" group-title="Sports" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TV25_360x360.png?raw=true",Untamed Sports TV
 https://cdn.igocast.com/channel8_hls/channel8_master.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Acadie-Bathurst.png?raw=true" group-title="Hockey Junior",Acadie-Bathurst | Titan (CKLE 92.9 FM) [BI]
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Acadie-Bathurst.png?raw=true" group-title="Hockey Junior",Acadie-Bathurst | Titan | CKLE 92.9 FM [BI]
 http://s2.radioservers.biz:9992/
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Baie-Comeau.png?raw=true" group-title="Hockey Junior",Baie-Comeau | Drakkar
 http://
@@ -223,7 +232,7 @@ http://
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Barrie.png?raw=true" group-title="Hockey Junior",Barrie | Colts
 http://
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LAH-Belleville.png?raw=true" group-title="Hockey Pro",Belleville | Senators (CJBQ 800 AM)
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LAH-Belleville.png?raw=true" group-title="Hockey Pro",Belleville | Senators CJBQ 800 AM
 http://live.leanstream.co/CJBQAM-MP3
 
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Blainville-Boisbriand.png?raw=true" group-title="Hockey Junior",Blainville-Boisbriand | Armada
@@ -231,43 +240,43 @@ http://
 
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/ECHL-Brampton.png?raw=true" group-title="Hockey Pro",Brampton | Beast
 http://
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Brandon.png?raw=true" group-title="Hockey Junior",Brandon | Wheat Kings (CKLQ 800 AM)
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Brandon.png?raw=true" group-title="Hockey Junior",Brandon | Wheat Kings | CKLQ 800 AM
 http://live.cklq.com:8000/CKLQ.mp3
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-BritishColumbia.png?raw=true" group-title="Football",British Columbia | Lions (CKST 1040 AM)
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-BritishColumbia.png?raw=true" group-title="Football",British Columbia | Lions | CKST 1040 AM
 
 http://playerservices.streamtheworld.com/api/livestream-redirect/CKSTAM_ADP.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-WHL-Calgary.png?raw=true" group-title="Multi Sport",Calgary | Flames + Hitmen (CFAC 960 AM)
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-WHL-Calgary.png?raw=true" group-title="Multi Sport",Calgary | Flames + Hitmen | CFAC 960 AM
 
 http://rogers-hls.leanstream.co/rogers/cal960.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/NLL-Calgary.png?raw=true" group-title="Crosse",Calgary | Roughnecks
 http://
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-Calgary.png?raw=true" group-title="Football",Calgary | Stampeders (CHQR 770 AM)
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-Calgary.png?raw=true" group-title="Football",Calgary | Stampeders | CHQR 770 AM
 http://corus.leanstream.co/CHQRAM-MP3
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-CapeBreton.png?raw=true" group-title="Hockey Junior",Cape Breton | Eagles (CJCB 1270 AM)
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-CapeBreton.png?raw=true" group-title="Hockey Junior",Cape Breton | Eagles | CJCB 1270 AM
 http://mbsradio.leanstream.co/CJCBAM-MP3
 
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Charlottetown.png?raw=true" group-title="Hockey Junior",Charlottetown | Islanders
 http://
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Chicoutimi.png?raw=true" group-title="Hockey Junior",Chicoutimi | Saguenéens (CJAB 94.5 FM)
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Chicoutimi.png?raw=true" group-title="Hockey Junior",Chicoutimi | Saguenéens | CJAB 94.5 FM
 http://208.80.52.25/CJABFM_SC
 
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Drummondville.png?raw=true" group-title="Hockey Junior",Drummondville | Voltigeurs
 http://
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-LNH-Edmonton.png?raw=true" group-title="Multi Sport",Edmonton | Football Team + Oilers (CHED 630 AM)
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-LNH-Edmonton.png?raw=true" group-title="Multi Sport",Edmonton | Football Team + Oilers | CHED 630 AM
 http://corus.leanstream.co/CHEDAM-MP3
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Edmonton.png?raw=true" group-title="Hockey Junior",Edmonton | Oil Kings (CFRN 1260 AM)
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Edmonton.png?raw=true" group-title="Hockey Junior",Edmonton | Oil Kings | CFRN 1260 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/CFRNAM_ADP.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Erie.png?raw=true" group-title="Hockey Junior",Erie | Otters
 http://
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Everett.png?raw=true" group-title="Hockey Junior",Everett | Silvertips (KRKO 95.3 FM)
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Everett.png?raw=true" group-title="Hockey Junior",Everett | Silvertips | KRKO 95.3 FM
 
 http://www.ophanim.net:9400/
 
@@ -277,48 +286,48 @@ http://www.ophanim.net:9400/
 http://
 
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Gatineau.png?raw=true" group-title="Hockey Junior",Gatineau | Olympiques (CIMF 94.9 FM)
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Gatineau.png?raw=true" group-title="Hockey Junior",Gatineau | Olympiques | CIMF 94.9 FM
 
 http://208.80.52.131/CIMFFM_SC
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Guelph.png?raw=true" group-title="Hockey Junior",Guelph | Storm (CJOY 1460 AM)
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Guelph.png?raw=true" group-title="Hockey Junior",Guelph | Storm | CJOY 1460 AM
 http://corus.leanstream.co/CJOYAM-MP3
 
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Halifax.png?raw=true" group-title="Hockey Junior",Halifax | Mooseheads (CJNI 95.7 FM)
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Halifax.png?raw=true" group-title="Hockey Junior",Halifax | Mooseheads | CJNI 95.7 FM
 http://rogers-hls.leanstream.co:8000/rogers/hal957.stream/48k/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/NLL-Halifax.png?raw=true" group-title="Crosse",Halifax | Thunderbirds
 http://
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-OHL-Hamilton.png?raw=true" group-title="Multi Sport",Hamilton | Bulldogs + Tigercats (CKOC 1150 AM)
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-OHL-Hamilton.png?raw=true" group-title="Multi Sport",Hamilton | Bulldogs + Tigercats | CKOC 1150 AM
 
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKOCAM_ADP.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Kamloops.png?raw=true" group-title="Hockey Junior",Kamloops | Blazers
 http://
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Kelowna.png?raw=true" group-title="Hockey Junior",Kelowna | Rockets (CKFR 1150 AM)
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Kelowna.png?raw=true" group-title="Hockey Junior",Kelowna | Rockets | CKFR 1150 AM
 
 
 http://playerservices.streamtheworld.com/api/livestream-redirect/CKFRAM_ADP.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Kingston.png?raw=true" group-title="Hockey Junior",Kingston | Frontenacs (CKWS 104.3 FM)
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Kingston.png?raw=true" group-title="Hockey Junior",Kingston | Frontenacs | CKWS 104.3 FM
 
 http://live.leanstream.co/CKWSFM-MP3
 
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Kitchener.png?raw=true" group-title="Hockey Junior",Kitchener | Rangers (CKGL 570 AM)
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Kitchener.png?raw=true" group-title="Hockey Junior",Kitchener | Rangers | CKGL 570 AM
 
 http://uk5.internet-radio.com:8199/stream
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LAH-Laval.png?raw=true" group-title="Hockey Pro",Laval | Rocket (CKLX 91.9 FM)
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LAH-Laval.png?raw=true" group-title="Hockey Pro",Laval | Rocket | CKLX 91.9 FM
 
 http://icecast-cklx.rncm.ca/cklx.mp3
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Lethbridge.png?raw=true" group-title="Hockey Junior",Lethbridge | Hurricanes (CJRX 106.7 FM)
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Lethbridge.png?raw=true" group-title="Hockey Junior",Lethbridge | Hurricanes | CJRX 106.7 FM
 
 
 https://rogers-hls.leanstream.co/rogers/let1067.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-London.png?raw=true" group-title="Hockey Junior",London | Knights (CFPL 980 AM)
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-London.png?raw=true" group-title="Hockey Junior",London | Knights | CFPL 980 AM
 http://geocom.leanstream.co/CFPLAM-MP3
 
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-MedicineHat.png?raw=true" group-title="Hockey Junior",Medicine Hat | Tigers
@@ -327,13 +336,14 @@ http://
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Mississauga.png?raw=true" group-title="Hockey Junior",Mississauga | Steelheads
 http://
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Moncton.png?raw=true" group-title="Hockey Junior",Moncton | Wildcats (CITA 105.1 FM) [BI]
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Moncton.png?raw=true" group-title="Hockey Junior",Moncton | Wildcats | CITA 105.1 FM
+ [BI]
 http://harvester1.no-ip.biz:8000/listen.mp3
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-LNH-Montreal.png?raw=true" group-title="Multi Sport",Montréal | Alouettes + Canadiens (CKGM 690 AM) [EN]
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-LNH-Montreal.png?raw=true" group-title="Multi Sport",Montréal | Alouettes + Canadiens | CKGM 690 AM [EN]
 http://63.243.143.139:3690/CKGMAMAAC_SC
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-LNH-Montreal.png?raw=true" group-title="Multi Sport",Montréal | Alouettes + Canadiens (CHMP 98.5 FM) [FR]
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-LNH-Montreal.png?raw=true" group-title="Multi Sport",Montréal | Alouettes + Canadiens | CHMP 98.5 FM [FR]
 https://cogecomedia.leanstream.co/CHMPFM-MP3
 
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-MooseJaw.png?raw=true" group-title="Hockey Junior",Moose Jaw | Warriors
@@ -343,11 +353,11 @@ http://
 
 
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Niagara.png?raw=true" group-title="Hockey Junior",Niagara | Ice Dogs (CKTB 610 AM)
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Niagara.png?raw=true" group-title="Hockey Junior",Niagara | Ice Dogs | CKTB 610 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKTBAM_ADP.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-NorthBay.png?raw=true" group-title="Hockey Junior",North Bay | Battalion (CKAT 600 AM)
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-NorthBay.png?raw=true" group-title="Hockey Junior",North Bay | Battalion | CKAT 600 AM
 https://rogers-hls.leanstream.co/rogers/nor600.stream/playlist.m3u8
 
 
@@ -355,25 +365,25 @@ https://rogers-hls.leanstream.co/rogers/nor600.stream/playlist.m3u8
 http://
 
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-LNH-OHL-Ottawa.png?raw=true" group-title="Multi Sport",Ottawa | 67s + Red Blacks + Senators (CFGO 1200 AM) [EN]
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-LNH-OHL-Ottawa.png?raw=true" group-title="Multi Sport",Ottawa | 67s + Red Blacks + Senators | CFGO 1200 AM [EN]
 https://playerservices.streamtheworld.com/api/livestream-redirect/CFGOAM_ADP.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-Ottawa.png?raw=true" group-title="Football",Ottawa | Rouge et Noir (CKOF 104.7 FM) [FR]
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-Ottawa.png?raw=true" group-title="Football",Ottawa | Rouge et Noir | CKOF 104.7 FM [FR]
 https://cogecomedia.leanstream.co/CKOFFM-MP3
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-Ottawa.png?raw=true" group-title="Hockey Pro",Ottawa | Sénateurs (CJFO 94.5 FM) [FR]
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-Ottawa.png?raw=true" group-title="Hockey Pro",Ottawa | Sénateurs | CJFO 94.5 FM [FR]
 http://stream2.statsradio.com:8038/stream
 
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/FL-Ottawa.png?raw=true" group-title="Baseball",Ottawa | Titans
 http://
 
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-OwenSound.png?raw=true" group-title="Hockey Junior",Owen Sound | Attack (CFOS 560 AM)
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-OwenSound.png?raw=true" group-title="Hockey Junior",Owen Sound | Attack | CFOS 560 AM
 
 http://bayshore-ais.leanstream.co/CFOSAM-MP3
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Peterborough.png?raw=true" group-title="Hockey Junior",Peterborough | Petes (CJMB 90.5 FM)
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Peterborough.png?raw=true" group-title="Hockey Junior",Peterborough | Petes | CJMB 90.5 FM
 
 https://proxy.stream.statsradio.com/cjmb
 
@@ -384,21 +394,21 @@ http://
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-PrinceAlbert.png?raw=true" group-title="Hockey Junior",Prince Albert | Raiders
 http://
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-PrinceGeorge.png?raw=true" group-title="Hockey Junior",Prince George | Cougars (CIRX 94.3 FM)
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-PrinceGeorge.png?raw=true" group-title="Hockey Junior",Prince George | Cougars | CIRX 94.3 FM
 
 
 http://srv1.hotdogradio.com:8000/CKQR
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/FL-LHJMQ-Quebec.png?raw=true" group-title="Multi Sport",Québec | Capitales + Remparts (CHYZ 94.3 FM)
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/FL-LHJMQ-Quebec.png?raw=true" group-title="Multi Sport",Québec | Capitales + Remparts | CHYZ 94.3 FM
 
 http://ecoutez.chyz.ca:8000/mp3
 
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-RedDeer.png?raw=true" group-title="Hockey Junior",Red Deer | Rebels
 http://
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Regina.png?raw=true" group-title="Hockey Junior",Regina | Pats (CKRM 620 AM)
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Regina.png?raw=true" group-title="Hockey Junior",Regina | Pats | CKRM 620 AM
 http://ckrm.streamon.fm:8000/CKRM-64k.aac
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Rimouski.png?raw=true" group-title="Hockey Junior",Rimouski | Océanic (CIKI 98.7 FM)
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Rimouski.png?raw=true" group-title="Hockey Junior",Rimouski | Océanic | CIKI 98.7 FM
 
 http://stream.statsradio.com:8048/stream
 
@@ -412,35 +422,35 @@ http://
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-SaintJohn.png?raw=true" group-title="Hockey Junior",Saint John | Sea Dogs
 http://
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Sarnia.png?raw=true" group-title="Hockey Junior",Sarnia | Sting (CHOK 1070 AM)
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Sarnia.png?raw=true" group-title="Hockey Junior",Sarnia | Sting | CHOK 1070 AM
 http://live.leanstream.co/CHOKAM
 
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-Saskatchewan.png?raw=true" group-title="Football",Saskatchewan | Roughriders (CKRM 620 AM)
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-Saskatchewan.png?raw=true" group-title="Football",Saskatchewan | Roughriders | CKRM 620 AM
 
 http://ckrm.streamon.fm:8000/CKRM-64k.aac
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/NLL-Saskatchewan.png?raw=true" group-title="Crosse",Saskatchewan | Rush (CKBL 92.9 FM)
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/NLL-Saskatchewan.png?raw=true" group-title="Crosse",Saskatchewan | Rush | CKBL 92.9 FM
 http://208.92.55.46/CKBLFM_SC
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Saskatoon.png?raw=true" group-title="Hockey Junior",Saskatoon | Blades (CKFM 98.3 FM)
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Saskatoon.png?raw=true" group-title="Hockey Junior",Saskatoon | Blades | CKFM 98.3 FM
 http://208.80.52.138:3690/CJMKFM_SC
 
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Sault-Ste-Marie.png?raw=true" group-title="Hockey Junior",Sault-Ste-Marie | Greyhounds
 http://
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Seattle.png?raw=true" group-title="Hockey Junior",Seattle | Thunderbirds (KFNQ 1090 AM)
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Seattle.png?raw=true" group-title="Hockey Junior",Seattle | Thunderbirds | KFNQ 1090 AM
 https://stream.revma.ihrhls.com/zc7747
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Shawinigan.png?raw=true" group-title="Hockey Junior",Shawinigan | Cataractes (CKOB 106.9 FM)
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Shawinigan.png?raw=true" group-title="Hockey Junior",Shawinigan | Cataractes | CKOB 106.9 FM
 
 https://cogecomedia.leanstream.co/CKOBFM-MP3
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Sherbrooke.png?raw=true" group-title="Hockey Junior",Sherbrooke | Phoénix (CKOY 107.7 FM)
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Sherbrooke.png?raw=true" group-title="Hockey Junior",Sherbrooke | Phoénix | CKOY 107.7 FM
 https://cogecomedia.leanstream.co/CKOYFM-MP3
 
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Spokane.png?raw=true" group-title="Hockey Junior",Spokane | Chiefs
 http://
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Sudbury.png?raw=true" group-title="Hockey Junior",Sudbury | Wolves (CKLU 96.7 FM)
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Sudbury.png?raw=true" group-title="Hockey Junior",Sudbury | Wolves | CKLU 96.7 FM
 
 http://ckluradio.laurentian.ca:88/broadwave.mp3
 
@@ -448,10 +458,10 @@ http://ckluradio.laurentian.ca:88/broadwave.mp3
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-SwiftCurrent.png?raw=true" group-title="Hockey Junior",Swift Current | Broncos
 http://
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LAH-LCF-NBA-Toronto.png?raw=true" group-title="Multi Sport",Toronto | Argonauts + Marlies + Raptors (CHUM 1050 AM)
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LAH-LCF-NBA-Toronto.png?raw=true" group-title="Multi Sport",Toronto | Argonauts + Marlies + Raptors | CHUM 1050 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/CHUMAM_ADP.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-MLB-NLL-Toronto.png?raw=true" group-title="Multi Sport",Toronto | Blue Jays + Maple Leafs + Rock (CJCL 590 AM)
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-MLB-NLL-Toronto.png?raw=true" group-title="Multi Sport",Toronto | Blue Jays + Maple Leafs + Rock | CJCL 590 AM
 http://rogers-hls.leanstream.co/rogers/tor590.stream/icy?environment=tunein
 
 
@@ -464,7 +474,7 @@ http://
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Val-dOr.png?raw=true" group-title="Hockey Junior",Val-d'Or | Foreurs
 http://
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-NLL-NWL-WHL-Vancouver.png?raw=true" group-title="Multi Sport",Vancouver | Canadians + Canucks + Giants + Warriors (CISL 650 AM)
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-NLL-NWL-WHL-Vancouver.png?raw=true" group-title="Multi Sport",Vancouver | Canadians + Canucks + Giants + Warriors | CISL 650 AM
 
 https://rogers-hls.leanstream.co/rogers/van650.stream/playlist.m3u8
 
@@ -475,21 +485,21 @@ http://
 http://
 
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Windsor.png?raw=true" group-title="Hockey Junior",Windsor | Spitfires (CKLW 800 AM)
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Windsor.png?raw=true" group-title="Hockey Junior",Windsor | Spitfires | CKLW 800 AM
 
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKLWAM_ADP.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-WHL-Winnipeg.png?raw=true" group-title="Multi Sport",Winnipeg | Blue Bombers + Ice (CJOB 680 AM)
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-WHL-Winnipeg.png?raw=true" group-title="Multi Sport",Winnipeg | Blue Bombers + Ice | CJOB 680 AM
 http://corus.leanstream.co/CJOBAM-MP3
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/AA-Winnipeg.png?raw=true" group-title="Baseball",Winnipeg | Goldeyes (CJNU 93.7 FM)
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/AA-Winnipeg.png?raw=true" group-title="Baseball",Winnipeg | Goldeyes | CJNU 93.7 FM
 
 http://noasrv.caster.fm:10188/stream
 
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LAH-LNH-Winnipeg.png?raw=true" group-title="Multi Sport",Winnipeg/Manitoba | Jets + Moose (CFRW 1290 AM)
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LAH-LNH-Winnipeg.png?raw=true" group-title="Multi Sport",Winnipeg/Manitoba | Jets + Moose | CFRW 1290 AM
 http://playerservices.streamtheworld.com/api/livestream-redirect/CFRWAM_ADP.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Musique",Stingray Classic Rock
@@ -530,6 +540,10 @@ https://od.lk/s/MF8yMTU5MTYzMTVf/Roku_City-Stroll_Skyline_720p_16m43s.mp4
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" group-title="Entertainment",Aqua Teen Hunger Force
 https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wWKyJDs.png?raw=true" group-title="Entertainment",Cine Film
+
+https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/KartoonFunTime_209x209.png?raw=true" group-title="Entertainment",Kartoon Fun Time
 https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" group-title="Entertainment",Rick and Morty
@@ -540,6 +554,9 @@ https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
 https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="Entertainment",TVS Cartoon Network
 https://nrpus.bozztv.com/36bay2/gusa-TVSCartoonNetwork/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MBBNJdT.jpg" group-title="Entertainment",Whose Line is it Anyway
+https://dai.google.com/linear/hls/event/SYob3ZZfTwyVW7LILC9ckw/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/A3Network_A3Bikini.png?raw=true" group-title="Adult",A3 Bikini (18+)
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
