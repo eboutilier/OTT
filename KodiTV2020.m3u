@@ -72,7 +72,7 @@ https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/61016
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVA_540x540.png?raw=true" group-title="Généraliste",TVA
 https://tvalive.akamaized.net/hls/live/2012413/tva01/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/TV-TVC9.png?raw=true" group-title="Généraliste",TVC9
-https://tvalive.akamaized.net/hls/live/2012413/tva01/master.m3u8
+https://youtu.be/DgmYNDdqpUI
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/tvoKIDS_235x235.png?raw=true" group-title="Kids",TVO Kids
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 
@@ -128,6 +128,8 @@ https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8?v=2&ad=
 https://2-fss-2.streamhoster.com/pl_120/201852-1297026-1/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/GameShowCentral_203x203.png?raw=true" group-title="Entertainment",Game Show Central
 https://gsn-gameshowchannnel-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/KartoonFunTime_209x209.png?raw=true" group-title="Kids",Kartoon Fun Time
+https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NASA.png" group-title="Educational",NASA TV | Earth from ISS
 http://hls.ums.ustream.tv/playlist/directhls/channel/17074538/playlist.m3u8?sgn=23d01ff63b69b7f4c64f8b170e0cbf8b196af2da
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NASA.png" group-title="Educational",NASA TV | Media
@@ -158,17 +160,22 @@ https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 https://forerunnerrtmp.livestreamingcdn.com/output18-2/output18-2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="46.4 WKLEDT4" tvg-type="live" group-title="Kids" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS-Kids_625x625.png?raw=true",PBS Kids Kentucky
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
-#EXTINF:-1 tvg-logo="" group-title="News",Popular Science
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/TV-PopularScience.png?raw=true" group-title="Educational",Popular Science
 
 https://a.jsrdn.com/broadcast/447912f76b/+0000/low/c.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/RT-America_400x400.png" group-title="News",RT America
 https://rt-usa-gd.secure2.footprint.net/1105_2500Kb.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/TV-CGTN.png?raw=true" group-title="Entertainment",TBD
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/TV-TBD.png?raw=true" group-title="Entertainment",TBD
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TheWeatherChannel.png" group-title="News",The Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="Entertainment",TVS Cartoon Network
+https://nrpus.bozztv.com/36bay2/gusa-TVSCartoonNetwork/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/WeatherNation.png" group-title="News",Weather Nation
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MBBNJdT.jpg" group-title="Entertainment",Whose Line is it Anyway
+https://dai.google.com/linear/hls/event/SYob3ZZfTwyVW7LILC9ckw/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AU-NZ_ABC-News-24.png?raw=true" group-title="News",ABC News Australia
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
@@ -191,6 +198,14 @@ https://rt-france.secure.footprint.net/1107.m3u8?streamType=live
 https://rt-uk-gd.secure2.footprint.net/1106.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/SkyNews.png?raw=true" group-title="News",Sky News
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wWKyJDs.png?raw=true" group-title="Films",Cine Film
+
+https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM1Njg1NTFf/MovieSphere_400x400.png" group-title="Films",MovieSphere
+https://moviesphere-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/VictorValleyMovies_229x229.png?raw=true" group-title="Films",Victor Valley TV Movies
+https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BeIN-Sports-Xtra_235x235.png?raw=true" group-title="Sports",beIN Sports Xtra
 https://bein-xtra-roku-us.amagi.tv/playlist.m3u8
@@ -532,29 +547,14 @@ https://od.lk/s/MF8yMTU5MTU4NzZf/Roku_City-Stroll_Movie-Magic_720p_16m43s.mp4
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AboutUS_392x392.png?raw=true" group-title="Background",Roku Skyline Screensaver
 https://od.lk/s/MF8yMTU5MTYzMTVf/Roku_City-Stroll_Skyline_720p_16m43s.mp4
 
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" group-title="Entertainment",Aqua Teen Hunger Force
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" group-title="Late Night",Aqua Teen Hunger Force
 https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wWKyJDs.png?raw=true" group-title="Entertainment",Cine Film
-
-https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/KartoonFunTime_209x209.png?raw=true" group-title="Entertainment",Kartoon Fun Time
-https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM1Njg1NTFf/MovieSphere_400x400.png" group-title="Entertainment",MovieSphere
-https://moviesphere-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" group-title="Entertainment",Rick and Morty
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" group-title="Late Night",Rick and Morty
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" group-title="Entertainment",Robot Chicken
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" group-title="Late Night",Robot Chicken
 https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" group-title="Entertainment",Samurai Jack
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" group-title="Late Night",Samurai Jack
 https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="Entertainment",TVS Cartoon Network
-https://nrpus.bozztv.com/36bay2/gusa-TVSCartoonNetwork/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/VictorValleyMovies_229x229.png?raw=true" group-title="Entertainment",Victor Valley TV Movies
-https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MBBNJdT.jpg" group-title="Entertainment",Whose Line is it Anyway
-https://dai.google.com/linear/hls/event/SYob3ZZfTwyVW7LILC9ckw/master.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/A3Network_A3Bikini.png?raw=true" group-title="Adult",A3 Bikini (18+)
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
