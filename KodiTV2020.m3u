@@ -71,6 +71,8 @@ https://onntv.vantrix.tv:443/onntv_hls/1080p/onntv_hls-HLS-1080p.m3u8
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVA_540x540.png?raw=true" group-title="Généraliste",TVA
 https://tvalive.akamaized.net/hls/live/2012413/tva01/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/TV-TVC9.png?raw=true" group-title="Généraliste",TVC9
+https://tvalive.akamaized.net/hls/live/2012413/tva01/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/tvoKIDS_235x235.png?raw=true" group-title="Kids",TVO Kids
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 
@@ -126,8 +128,6 @@ https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8?v=2&ad=
 https://2-fss-2.streamhoster.com/pl_120/201852-1297026-1/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/GameShowCentral_203x203.png?raw=true" group-title="Entertainment",Game Show Central
 https://gsn-gameshowchannnel-2.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM1Njg1NTFf/MovieSphere_400x400.png" group-title="Entertainment",MovieSphere
-https://moviesphere-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NASA.png" group-title="Educational",NASA TV | Earth from ISS
 http://hls.ums.ustream.tv/playlist/directhls/channel/17074538/playlist.m3u8?sgn=23d01ff63b69b7f4c64f8b170e0cbf8b196af2da
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NASA.png" group-title="Educational",NASA TV | Media
@@ -161,9 +161,9 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 #EXTINF:-1 tvg-logo="" group-title="News",Popular Science
 
 https://a.jsrdn.com/broadcast/447912f76b/+0000/low/c.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/RT-America_400x400.png" group-title="News",RT America [EN]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/RT-America_400x400.png" group-title="News",RT America
 https://rt-usa-gd.secure2.footprint.net/1105_2500Kb.m3u8
-#EXTINF:-1 tvg-id="I4.4.106764.zap2it.com" tvg-name="4.4" tvg-type="live" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TBD.png",TBD
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/TV-CGTN.png?raw=true" group-title="Entertainment",TBD
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TheWeatherChannel.png" group-title="News",The Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
@@ -172,22 +172,22 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AU-NZ_ABC-News-24.png?raw=true" group-title="News",ABC News Australia
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="News",Al Jazeera
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/TV-AlJazeera.png?raw=true" group-title="News",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4buTOS3.png" group-title="Actualité",BFM Paris
 https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png" group-title="News",CGTN [EN]
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/TV-CGTN.png?raw=true" group-title="News",CGTN [EN]
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png" group-title="Actualité",CGTN [FR]
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/TV-CGTN.png?raw=true" group-title="Actualité",CGTN [FR]
 https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/France24.png" group-title="Actualité",France 24
 http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m48XZS7/matele.png" group-title="Communautaire",Ma Télé Belgique
 
 https://594a365b4a1b2.streamlock.net/matele/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gVedXRh.png" group-title="Actualité",RT France [FR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gVedXRh.png" group-title="Actualité",RT France
 https://rt-france.secure.footprint.net/1107.m3u8?streamType=live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zdTA0ha.png" group-title="Actualité",RT United Kingdom [EN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zdTA0ha.png" group-title="Actualité",RT United Kingdom
 https://rt-uk-gd.secure2.footprint.net/1106.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/SkyNews.png?raw=true" group-title="News",Sky News
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
@@ -206,9 +206,6 @@ https://csm-e-cetubiausw2live101-08c231fb1e230ccd2.csm.tubi.video/csm/live/24666
 
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/equipe21-850463/hls/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_Japan_Pro_Wrestling_Logo_2.svg" group-title="Sports",New Japan Pro Wrestling World
-
-https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/OutsideTVPlus_540x540.png?raw=true" group-title="Sports",Outside TV
 https://outsidetvplus-distro.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Sports",PlayersTV
@@ -245,7 +242,7 @@ http://live.cklq.com:8000/CKLQ.mp3
 
 http://playerservices.streamtheworld.com/api/livestream-redirect/CKSTAM_ADP.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-WHL-Calgary.png?raw=true" group-title="Multi Sport",Calgary | Flames + Hitmen | CFAC 960 AM
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-WHL-Calgary.png?raw=true" group-title="Multi Sport",Calgary | Flames | Hitmen | CFAC 960 AM
 
 http://rogers-hls.leanstream.co/rogers/cal960.stream/playlist.m3u8
 
@@ -266,7 +263,7 @@ http://208.80.52.25/CJABFM_SC
 
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Drummondville.png?raw=true" group-title="Hockey Junior",Drummondville | Voltigeurs
 http://
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-LNH-Edmonton.png?raw=true" group-title="Multi Sport",Edmonton | Football Team + Oilers | CHED 630 AM
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-LNH-Edmonton.png?raw=true" group-title="Multi Sport",Edmonton | Football Team | Oilers | CHED 630 AM
 http://corus.leanstream.co/CHEDAM-MP3
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Edmonton.png?raw=true" group-title="Hockey Junior",Edmonton | Oil Kings | CFRN 1260 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/CFRNAM_ADP.m3u8
@@ -297,7 +294,7 @@ http://rogers-hls.leanstream.co:8000/rogers/hal957.stream/48k/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/NLL-Halifax.png?raw=true" group-title="Crosse",Halifax | Thunderbirds
 http://
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-OHL-Hamilton.png?raw=true" group-title="Multi Sport",Hamilton | Bulldogs + Tigercats | CKOC 1150 AM
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-OHL-Hamilton.png?raw=true" group-title="Multi Sport",Hamilton | Bulldogs | Tigercats | CKOC 1150 AM
 
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKOCAM_ADP.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Kamloops.png?raw=true" group-title="Hockey Junior",Kamloops | Blazers
@@ -337,10 +334,10 @@ http://
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Moncton.png?raw=true" group-title="Hockey Junior",Moncton | Wildcats | CITA 105.1 FM [BI]
 http://harvester1.no-ip.biz:8000/listen.mp3
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-LNH-Montreal.png?raw=true" group-title="Multi Sport",Montréal | Alouettes + Canadiens | CKGM 690 AM [EN]
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-LNH-Montreal.png?raw=true" group-title="Multi Sport",Montréal | Alouettes | Canadiens | CKGM 690 AM [EN]
 http://63.243.143.139:3690/CKGMAMAAC_SC
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-LNH-Montreal.png?raw=true" group-title="Multi Sport",Montréal | Alouettes + Canadiens | CHMP 98.5 FM [FR]
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-LNH-Montreal.png?raw=true" group-title="Multi Sport",Montréal | Alouettes | Canadiens | CHMP 98.5 FM [FR]
 https://cogecomedia.leanstream.co/CHMPFM-MP3
 
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-MooseJaw.png?raw=true" group-title="Hockey Junior",Moose Jaw | Warriors
@@ -362,7 +359,7 @@ https://rogers-hls.leanstream.co/rogers/nor600.stream/playlist.m3u8
 http://
 
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-LNH-OHL-Ottawa.png?raw=true" group-title="Multi Sport",Ottawa | 67s + Red Blacks + Senators | CFGO 1200 AM [EN]
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-LNH-OHL-Ottawa.png?raw=true" group-title="Multi Sport",Ottawa | 67s | Red Blacks | Senators | CFGO 1200 AM [EN]
 https://playerservices.streamtheworld.com/api/livestream-redirect/CFGOAM_ADP.m3u8
 
 
@@ -396,7 +393,7 @@ http://
 
 http://srv1.hotdogradio.com:8000/CKQR
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/FL-LHJMQ-Quebec.png?raw=true" group-title="Multi Sport",Québec | Capitales + Remparts | CHYZ 94.3 FM
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/FL-LHJMQ-Quebec.png?raw=true" group-title="Multi Sport",Québec | Capitales | Remparts | CHYZ 94.3 FM
 
 http://ecoutez.chyz.ca:8000/mp3
 
@@ -455,15 +452,15 @@ http://ckluradio.laurentian.ca:88/broadwave.mp3
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-SwiftCurrent.png?raw=true" group-title="Hockey Junior",Swift Current | Broncos
 http://
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LAH-LCF-NBA-Toronto.png?raw=true" group-title="Multi Sport",Toronto | Argonauts + Marlies + Raptors | CHUM 1050 AM
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LAH-LCF-NBA-Toronto.png?raw=true" group-title="Multi Sport",Toronto | Argonauts | Marlies | Raptors | CHUM 1050 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/CHUMAM_ADP.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-MLB-NLL-Toronto.png?raw=true" group-title="Multi Sport",Toronto | Blue Jays + Maple Leafs + Rock | CJCL 590 AM
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-MLB-NLL-Toronto.png?raw=true" group-title="Multi Sport",Toronto | Blue Jays | Maple Leafs | Rock | CJCL 590 AM
 http://rogers-hls.leanstream.co/rogers/tor590.stream/icy?environment=tunein
 
 
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/ECHL-FL-Trois-Rivieres.png?raw=true" group-title="Multi Sport",Trois-Rivières | Aigles + ECHL
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/ECHL-FL-Trois-Rivieres.png?raw=true" group-title="Multi Sport",Trois-Rivières | Aigles | ECHL
 http://
 
 
@@ -471,7 +468,7 @@ http://
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Val-dOr.png?raw=true" group-title="Hockey Junior",Val-d'Or | Foreurs
 http://
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-NLL-NWL-WHL-Vancouver.png?raw=true" group-title="Multi Sport",Vancouver | Canadians + Canucks + Giants + Warriors | CISL 650 AM
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-NLL-NWL-WHL-Vancouver.png?raw=true" group-title="Multi Sport",Vancouver | Canadians | Canucks | Giants | Warriors | CISL 650 AM
 
 https://rogers-hls.leanstream.co/rogers/van650.stream/playlist.m3u8
 
@@ -489,14 +486,14 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CKLWAM_ADP.m3u
 
 
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-WHL-Winnipeg.png?raw=true" group-title="Multi Sport",Winnipeg | Blue Bombers + Ice | CJOB 680 AM
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-WHL-Winnipeg.png?raw=true" group-title="Multi Sport",Winnipeg | Blue Bombers | Ice | CJOB 680 AM
 http://corus.leanstream.co/CJOBAM-MP3
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/AA-Winnipeg.png?raw=true" group-title="Baseball",Winnipeg | Goldeyes | CJNU 93.7 FM
 
 http://noasrv.caster.fm:10188/stream
 
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LAH-LNH-Winnipeg.png?raw=true" group-title="Multi Sport",Winnipeg/Manitoba | Jets + Moose | CFRW 1290 AM
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LAH-LNH-Winnipeg.png?raw=true" group-title="Multi Sport",Winnipeg/Manitoba | Jets | Moose | CFRW 1290 AM
 http://playerservices.streamtheworld.com/api/livestream-redirect/CFRWAM_ADP.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Musique",Stingray Classic Rock
@@ -543,6 +540,8 @@ https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
 https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/KartoonFunTime_209x209.png?raw=true" group-title="Entertainment",Kartoon Fun Time
 https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM1Njg1NTFf/MovieSphere_400x400.png" group-title="Entertainment",MovieSphere
+https://moviesphere-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" group-title="Entertainment",Rick and Morty
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" group-title="Entertainment",Robot Chicken
