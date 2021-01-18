@@ -490,8 +490,7 @@ https://rogers-hls.leanstream.co/rogers/van650.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Victoria.png?raw=true" group-title="",Victoria | Royals
 http://
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Victoriaville.png?raw=true" group-title="Hockey Junior",Victoriaville
- | Tigres
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Victoriaville.png?raw=true" group-title="Hockey Junior",Victoriaville | Tigres
 http://
 
 
