@@ -83,10 +83,12 @@ https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master_2500.m3u8
 https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/KnowledgeNetwork_235x235.png?raw=true" group-title="Educational",Knowledge Network
 http://knstream1.azureedge.net/knlive/knlive_high.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/TV-NACTV.png?raw=true" group-title="General Interest",Neepawa Community Access Television
+http://stream.pivotalelements.com/nactv/stream.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Noovo_608x608.png?raw=true" group-title="Généraliste",Noovo
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ONNtv_250x250.png?raw=true" group-title="General Interest",ONNtv Sault-Ste-Marie
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ONNtv_250x250.png?raw=true" group-title="General Interest",ONN TV Sault-Ste-Marie
 https://onntv.vantrix.tv:443/onntv_hls/1080p/onntv_hls-HLS-1080p.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/TV-ONT.png?raw=true" group-title="Politics",ONT PARL [EN]
 
@@ -99,11 +101,11 @@ http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVA_540x540.png?raw=true" group-title="Généraliste",TVA
 https://tvalive.akamaized.net/hls/live/2012413/tva01/master.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/TV-TVC9.png?raw=true" group-title="Généraliste",TVC9
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1610850073/ei/uEoDYMGDO4mzigTd8bEw/ip/149.248.171.92/id/DgmYNDdqpUI.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgDAgtjnP4EGUJEZ0hZOULdtFX2kSohucO1vawBFJtFvACICR_PcFhQBaKD-QUFIm9DPpxcjmDIHep5ZSP9kZmItTX/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/tvoKIDS_235x235.png?raw=true" group-title="Kids",TVO Kids
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/TV-WGCTV.png?raw=true" group-title="General Interest",WCG TV Brandon
+http://stream.pivotalelements.com/nactv/stream.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="",<<< ÉTATS-UNIS (USA) >>>
