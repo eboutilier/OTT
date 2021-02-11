@@ -313,8 +313,7 @@ http://
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Brandon.png?raw=true" group-title="Hockey Junior",Brandon | Wheat Kings | CKLQ 800 AM
 http://live.cklq.com:8000/CKLQ.mp3
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-BritishColumbia.png?raw=true" group-title="Football",British Columbia | Lions | CKST 1040 AM
-
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-BritishColumbia.png?raw=true" group-title="Football",British Columbia | Lions | TBA
 http://playerservices.streamtheworld.com/api/livestream-redirect/CKSTAM_ADP.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-WHL-Calgary.png?raw=true" group-title="Multi Sport",Calgary | Flames | Hitmen | CFAC 960 AM
@@ -354,9 +353,8 @@ http://corus.leanstream.co/CJOYAM-MP3
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-NLL-Halifax.png?raw=true" group-title="Multi Sport",Halifax | Mooseheads | Thunderbirds | CJNI 95.7 FM
 http://rogers-hls.leanstream.co:8000/rogers/hal957.stream/48k/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-OHL-Hamilton.png?raw=true" group-title="Multi Sport",Hamilton | Bulldogs | Tigercats | CKOC 1150 AM
-
-https://playerservices.streamtheworld.com/api/livestream-redirect/CKOCAM_ADP.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-OHL-Hamilton.png?raw=true" group-title="Multi Sport",Hamilton | Bulldogs | Tigercats | TBA
+http://
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Kamloops.png?raw=true" group-title="Hockey Junior",Kamloops | Blazers | CHNL 610 AM
 http://newcap.leanstream.co/CHNLAM-MP3
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Kelowna.png?raw=true" group-title="Hockey Junior",Kelowna | Rockets | CKFR 1150 AM
@@ -531,18 +529,16 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CKLWAM_ADP.m3u
 
 
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-WHL-Winnipeg.png?raw=true" group-title="Multi Sport",Winnipeg | Blue Bombers | Ice | CJOB 680 AM
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LAH-LCF-WHL-LNH-Winnipeg.png?raw=true" group-title="Multi Sport",Winnipeg/Manitoba | Blue Bombers | Ice | Jets | Moose | CJOB 680 AM
 http://corus.leanstream.co/CJOBAM-MP3
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/AA-Winnipeg.png?raw=true" group-title="Baseball",Winnipeg | Goldeyes | CJNU 93.7 FM
 
 http://noasrv.caster.fm:10188/stream
 
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LAH-LNH-Winnipeg.png?raw=true" group-title="Multi Sport",Winnipeg/Manitoba | Jets | Moose | CFRW 1290 AM
-http://playerservices.streamtheworld.com/api/livestream-redirect/CFRWAM_ADP.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="",<<< DIVER (OTHER) >>>
+#EXTINF:-1 tvg-logo="" group-title="",<<< DIVERS (OTHER) >>>
 http://
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AboutUS_392x392.png?raw=true" group-title="Background",Fireplace & Chill
 https://od.lk/s/MF8yMTU5MTU3MjRf/Fireplace-and-Chill_21m.mp4
@@ -552,7 +548,7 @@ https://od.lk/s/MF8yMTU5MTU4NzZf/Roku_City-Stroll_Movie-Magic_720p_16m43s.mp4
 https://od.lk/s/MF8yMTU5MTYzMTVf/Roku_City-Stroll_Skyline_720p_16m43s.mp4
 
 
-#EXTINF:-1 tvg-logo="" group-title="",<<< NOCTURE (LATE NIGHT) >>>
+#EXTINF:-1 tvg-logo="" group-title="",<<< NOCTURNE (LATE NIGHT) >>>
 http://
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" group-title="Late Night",Aqua Teen Hunger Force (18+)
 https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
