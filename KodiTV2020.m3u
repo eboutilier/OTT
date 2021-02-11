@@ -104,8 +104,8 @@ https://tvalive.akamaized.net/hls/live/2012413/tva01/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/tvoKIDS_235x235.png?raw=true" group-title="Kids",TVO Kids
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/TV-WGCTV.png?raw=true" group-title="General Interest",WCG TV Brandon
-http://stream.pivotalelements.com/nactv/stream.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/TV-WCGTV.png?raw=true" group-title="General Interest",WCG TV Brandon
+https://wowzastream.westmancom.com/wcgtvlive/highstream.sdp/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="",<<< ÉTATS-UNIS (USA) >>>
