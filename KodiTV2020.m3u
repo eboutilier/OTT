@@ -248,6 +248,9 @@ https://ammoruntime-plex.amagi.tv/playlist.m3u8
 https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/TV-Couple.png?raw=true" group-title="",<<< JE T'AIME CLAIRE >>>
+http://
+
 
 #EXTINF:-1 tvg-logo="" group-title="",<<< MUSIQUE (MUSIC) >>>
 http://
@@ -329,8 +332,6 @@ http://live.leanstream.co/CJBQAM-MP3
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Blainville-Boisbriand.png?raw=true" group-title="Hockey Junior",Blainville-Boisbriand | Armada
 http://
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/ECHL-Brampton.png?raw=true" group-title="Hockey Pro",Brampton | Beast
-http://
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Brandon.png?raw=true" group-title="Hockey Junior",Brandon | Wheat Kings | CKLQ 800 AM
 http://live.cklq.com:8000/CKLQ.mp3
 
