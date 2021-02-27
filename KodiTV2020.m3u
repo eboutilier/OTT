@@ -233,19 +233,11 @@ https://endemol-wipeoutxtra-1.plex.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",<<< FILMS >>>
 http://
-#EXTINF:-1 tvg-id="bc43b9" tvg-name="24_Hour_Free_Movies" tvg-chno="429" group-title="Films" tvg-logo="https://i.imgur.com/FiTdDp1.png",24 Hour Free Movies 
-https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjUyNDQ4NjZf/Crackle_365x365.png" group-title="Films",Crackle
 https://crackle-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="bf98a8" tvg-name="Filmstream" tvg-chno="424" group-title="Films" tvg-logo="https://i.imgur.com/0qfX1dG.png",Filmstream 
-https://spi-filmstream-1.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="21f403" tvg-name="Gravitas_Movies" tvg-chno="430" group-title="Films" tvg-logo="https://i.imgur.com/4ZtG1Ru.png",Gravitas Movies 
-https://gravitas-movies.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="3b0bfc" tvg-name="MOVIESPHERE" tvg-chno="420" group-title="Films" tvg-logo="https://i.imgur.com/M5dXRb2.png",MOVIESPHERE 
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM1Njg1NTFf/MovieSphere_400x400.png" group-title="Films",MovieSphere
 https://moviesphere-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="10688f" tvg-name="Popcornflix_[GEO]" tvg-chno="202" group-title="Films" tvg-logo="https://i.imgur.com/ATUaSCV.png",Popcornflix
-https://d2ml5ryiu1l712.cloudfront.net/popcornflix-xumo/playlist.m3u8
-#EXTINF:-1 tvg-id="d05fd3" tvg-name="Runtime" tvg-chno="432" group-title="Films" tvg-logo="https://i.imgur.com/0Wdnqym.png",Runtime 
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Runtime_120x120.png?raw=true" group-title="Films",RunTime Free Movie
 https://ammoruntime-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/VictorValleyMovies_229x229.png?raw=true" group-title="Films",Victor Valley TV Movies
 https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8
@@ -297,15 +289,15 @@ https://csm-e-cetubiausw2live101-08c231fb1e230ccd2.csm.tubi.video/csm/live/24666
 
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/equipe21-850463/hls/index.m3u8
 
-#EXTINF:-1 tvg-id="c77c5c" tvg-name="MAV_TV_Select" tvg-chno="553" group-title="Sports" tvg-logo="https://i.imgur.com/Fp8DPwN.png",MAV TV Select 
-https://mavtv-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yMjgzNzU2MTNf/MAVTVSelect_1060x1060.png" group-title="Sports",MAV TV Select
+https://mavtv-1.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/OutsideTVPlus_540x540.png?raw=true" group-title="Sports",Outside TV
 https://outsidetvplus-distro.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="14ed61" tvg-name="PlayersTV" tvg-chno="562" group-title="Sports" tvg-logo="https://i.imgur.com/Z4sBMVw.png",PlayersTV 
-https://playerstv-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-playerstv-plex/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Sports",PlayersTV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-playerstv/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/TV-SportEnFrance.png?raw=true" group-title="Sports",Sport en France
 https://sportenfrance.ziostream.cloud/hls/sp1564435593_med/index.m3u8
-#EXTINF:-1 tvg-id="3333e6" tvg-name="Stadium" tvg-chno="557" group-title="Sports" tvg-logo="https://i.imgur.com/Wti4u7W.png",Stadium 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Stadium.png" group-title="Sports",Stadium
 https://bcovlive-a.akamaihd.net/e64d564b9275484f85981d8c146fb915/us-east-1/5994000126001/8036529875f74c81b5f50851bffbc421/playlist_ssaiM.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TheT_246x246.png" group-title="Sports",Tennis
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
