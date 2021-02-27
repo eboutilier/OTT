@@ -224,11 +224,6 @@ https://endemol-dealornodeal-1.sinclair.wurl.com/manifest/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufamilyfeud/CDN/playlist.m3u8?p=roku
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/GameShowCentral_203x203.png?raw=true" group-title="Entertainment",Game Show Central
 https://gsn-gameshowchannnel-2.roku.wurl.com/manifest/playlist.m3u8
-
-
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufamilyfeud/CDN/playlist.m3u8?p=roku
-#EXTINF:-1 tvg-id="fbddaf" tvg-name="Game_Show_Central" tvg-chno="231" group-title="Entertainment" tvg-logo="https://i.imgur.com/MND4lc5.png",Game Show Central 
-https://gsn-gameshowchannnel-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MBBNJdT.jpg" group-title="Shows",Whose Line is it Anyway
 https://dai.google.com/linear/hls/event/SYob3ZZfTwyVW7LILC9ckw/master.m3u8
 
@@ -308,8 +303,6 @@ https://mavtv-1.plex.wurl.com/manifest/playlist.m3u8
 https://outsidetvplus-distro.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="14ed61" tvg-name="PlayersTV" tvg-chno="562" group-title="Sports" tvg-logo="https://i.imgur.com/Z4sBMVw.png",PlayersTV 
 https://playerstv-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-playerstv-plex/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/RedBullTV_512x512.png" group-title="Sports",Red Bull TV
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/TV-SportEnFrance.png?raw=true" group-title="Sports",Sport en France
 https://sportenfrance.ziostream.cloud/hls/sp1564435593_med/index.m3u8
 #EXTINF:-1 tvg-id="3333e6" tvg-name="Stadium" tvg-chno="557" group-title="Sports" tvg-logo="https://i.imgur.com/Wti4u7W.png",Stadium 
