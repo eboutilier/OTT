@@ -1,8 +1,12 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-logo="" group-title="",<<< BABILLARD DU COUPLE >>>
+
 http://
 
+
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/TV-Couple.png?raw=true" group-title="",HAPPY SEVEN MONTHAVERSARY MY LOVE!
+
 http://
 #EXTINF:-1 tvg-logo="" group-title="",<<< CANADA >>>
 http://
@@ -23,7 +27,7 @@ https://cbclivedai2-i.akamaihd.net/hls/live/566968/event2/CBUT/master5.m3u8
 #EXTINF:-1 tvg-id="CBRTca" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="General Interest",CBC Calgary
 https://cbclivedai4-i.akamaihd.net/hls/live/567230/event2/CBRT/master5.m3u8
 #EXTINF:-1 tvg-id="CBXTca" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="General Interest",CBC Edmonton
-https://cbclivedai4-i.akamaihd.net/hls/live/567231/event2/CBXT/master5.m3
+https://cbclivedai4-i.akamaihd.net/hls/live/567231/event2/CBXT/master5.m3u8
 #EXTINF:-1 tvg-id="CBWTca" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="General Interest",CBC Manitoba
 https://cbclivedai6-i.akamaihd.net/hls/live/567237/event2/CBWT/master5.m3u8
 #EXTINF:-1 tvg-id="CBMTca" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="General Interest",CBC Montréal
@@ -93,8 +97,6 @@ https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 http://knstream1.azureedge.net/knlive/knlive_high.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/TV-BC.png?raw=true" group-title="Politics",Legislative Assembly of British Columbia
 https://wowzaprod140-i.akamaihd.net/hls/live/840203/09cdfb67/09cdfb67_1_717000/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/TV-MB.png?raw=true" group-title="Politics",Legislative Assembly of Manitoba
-https://origin-http-delivery.isilive.ca/live/legassemblyofmb/chambers/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/TV-NB.png?raw=true" group-title="Politics",Legislative Assembly of New Brunswick
 https://temp4.isilive.ca/live/gnb/floor/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/TV-NU.png?raw=true" group-title="Politics",Legislative Assembly of Nunavut
@@ -102,9 +104,6 @@ http://temp4.isilive.ca/live/nunavut/live-flo/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/TV-ONT.png?raw=true" group-title="Politics",Legislative Assembly of Ontario
 http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/TV-PE.png?raw=true" group-title="Politics",Legislative Assembly of Prince Edward Island
-https://origin-http-delivery.isilive.ca/live/_definst_/pei/live-high/playlist.m3u8?_=1613757049793
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/TV-YT.png?raw=true" group-title="Politics",Legislative Assembly of the Yukon
-http://legaudio.gov.yk.ca:8000/live.m3u
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/TV-NACTV.png?raw=true" group-title="General Interest",Neepawa Community Access Television
 http://stream.pivotalelements.com/nactv/stream.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Noovo_608x608.png?raw=true" group-title="Généraliste",Noovo
