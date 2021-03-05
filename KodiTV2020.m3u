@@ -279,9 +279,9 @@ https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f7722
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/133/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="",<<< SPORTS (TV) >>>
+#EXTINF:-1 tvg-logo="" group-title="",<<< SPORTS-TV >>>
 http://
-#EXTINF:-1 tvg-id="I25.4.97118.zap2it.com" tvg-name="25.4" tvg-type="live" group-title="Sports" tvg-logo="https://od.lk/s/MF8yMjM5NTI2OTZf/TV25_360x360.png"Action
+#EXTINF:-1 tvg-id="I25.4.97118.zap2it.com" tvg-name="25.4" tvg-type="live" group-title="Sports" tvg-logo="https://od.lk/s/MF8yMjM5NTI2OTZf/TV25_360x360.png",Action
 https://cdn.igocast.com/channel4_hls/channel4_master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BeIN-Sports-Xtra_235x235.png?raw=true" group-title="Sports",beIN Sports Xtra
 https://bein-xtra-roku-us.amagi.tv/playlist.m3u8
@@ -317,7 +317,7 @@ https://nrpus.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
 https://cdn.igocast.com/channel8_hls/channel8_master.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="",<<< SPORTS-RADIO (AB) ALBERTA >>>
+#EXTINF:-1 tvg-logo="" group-title="",<<< SPORTS-RADIO ALBERTA >>>
 http://
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-WHL-Calgary.png?raw=true" group-title="Sports-Radio AB",Calgary | Flames | Hitmen | CFAC 960 AM
 
@@ -347,7 +347,7 @@ http://
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="",<<< SPORTS-RADIO (BC) COLOMBIE-BRITANNIQUE / BRITISH COLUMBIA >>>
+#EXTINF:-1 tvg-logo="" group-title="",<<< SPORTS-RADIO COLOMBIE-BRITANNIQUE / BRITISH COLUMBIA >>>
 http://
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-BritishColumbia.png?raw=true" group-title="Sports-Radio BC",British Columbia | Lions | TBA
 http://
@@ -372,14 +372,14 @@ http://
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="",<<< SPORTS-RADIO (PE) ÎLE-DU-PRINCE-ÉDOUARD / PRINCE EDWARD ISLAND >>>
+#EXTINF:-1 tvg-logo="" group-title="",<<< SPORTS-RADIO ÎLE-DU-PRINCE-ÉDOUARD / PRINCE EDWARD ISLAND >>>
 http://
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Charlottetown.png?raw=true" group-title="Sports-Radio PE",Charlottetown | Islanders
 http://
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="",<<< SPORTS-RADIO (MB) MANITOBA >>>
+#EXTINF:-1 tvg-logo="" group-title="",<<< SPORTS-RADIO MANITOBA >>>
 http://
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Brandon.png?raw=true" group-title="Sports-Radio MB",Brandon | Wheat Kings | CKLQ 800 AM
 http://live.cklq.com:8000/CKLQ.mp3
@@ -395,7 +395,7 @@ http://noasrv.caster.fm:10188/stream
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="",<<< SPORTS-RADIO (NB) NOUVEAU-BRUNSWICK / NEW BRUNSWICK >>>
+#EXTINF:-1 tvg-logo="" group-title="",<<< SPORTS-RADIO NOUVEAU-BRUNSWICK / NEW BRUNSWICK >>>
 http://
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Acadie-Bathurst.png?raw=true" group-title="Sports-Radio NB",Acadie-Bathurst | Titan | CKLE 92.9 FM [BI]
 http://s2.radioservers.biz:9952/
@@ -408,7 +408,7 @@ http://
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="",<<< SPORTS-RADIO (NS) NOUVELLE-ÉCOSSE / NOVA SCOTIA >>>
+#EXTINF:-1 tvg-logo="" group-title="",<<< SPORTS-RADIO NOUVELLE-ÉCOSSE / NOVA SCOTIA >>>
 http://
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-CapeBreton.png?raw=true" group-title="Sports-Radio NS",Cape Breton | Eagles | CJCB 1270 AM
 http://mbsradio.leanstream.co/CJCBAM-MP3
@@ -418,7 +418,7 @@ http://rogers-hls.leanstream.co:8000/rogers/hal957.stream/48k/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="",<<< SPORTS-RADIO (ON) ONTARIO>>>
+#EXTINF:-1 tvg-logo="" group-title="",<<< SPORTS-RADIO ONTARIO >>>
 http://
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Barrie.png?raw=true" group-title="Sports-Radio ON",Barrie | Colts
 http://
@@ -510,7 +510,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CKLWAM_ADP.m3u
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="",<<< SPORTS-RADIO (QC) QUÉBEC >>>
+#EXTINF:-1 tvg-logo="" group-title="",<<< SPORTS-RADIO QUÉBEC >>>
 http://
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Baie-Comeau.png?raw=true" group-title="Sports-Radio QC",Baie-Comeau | Drakkar
 http://
@@ -567,7 +567,7 @@ http://
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="",<<< SPORTS-RADIO (SK) SASKATCHEWAN >>>
+#EXTINF:-1 tvg-logo="" group-title="",<<< SPORTS-RADIO SASKATCHEWAN >>>
 http://
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-MooseJaw.png?raw=true" group-title="Sports-Radio SK",Moose Jaw | Warriors
 http://
@@ -589,7 +589,7 @@ http://
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="",<<< SPORTS-RADIO (NL) TERRE-NEUVE-ET-LABRADOR / NEWFOUNLAND & LABRADOR >>>
+#EXTINF:-1 tvg-logo="" group-title="",<<< SPORTS-RADIO TERRE-NEUVE-ET-LABRADOR / NEWFOUNLAND & LABRADOR >>>
 http://
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/ECHL-Newfoundland.png?raw=true" group-title="Hockey Pro",Newfoundland | Growlers
 http://
