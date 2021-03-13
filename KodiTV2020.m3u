@@ -219,7 +219,7 @@ https://ssc4.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_all/playlist.m3u8
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="WPPT" tvg-name="PA  WPPT 39 Extra Philadelphia" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="Educational",PBS • Philadelphia
 https://forerunnerrtmp.livestreamingcdn.com/output18-2/output18-2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGWNETDT2" tvg-name="PBS Kids  KET TV HD" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS-Kids_625x625.png?raw=true" group-title="Educational",PBS Kids
+#EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGWNETDT2" tvg-name="PBS Kids  KET TV HD" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS-Kids_625x625.png?raw=true" group-title="Kids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 
 #EXTINF:-1 tvg-id="PBS_EPGWFWA" tvg-name="PBS  World Channel" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBSWorld_972x972.png?raw=true" group-title="Educational",PBS World
@@ -327,7 +327,7 @@ https://nrpus.bozztv.com/36bay2/gusa-tvs/index.m3u8
 
 https://nrpus.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
 
-#EXTINF:-1 tvg-id="WatchYourTV_EPGbf548b" tvg-name="TVS Flashback Network" tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="Music",TVS • Flashback Network
+#EXTINF:-1 tvg-id="WatchYourTV_EPGbf548b" tvg-name="TVS Flashback Network" tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="Entertainment",TVS • Flashback Network
 
 https://nrpus.bozztv.com/36bay2/gusa-TVSFlashback/index.m3u8
 
@@ -423,7 +423,7 @@ http://
 https://endemol-dealornodeal-1.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FamilyFeud_755x755.png?raw=true" group-title="Entertainment",Family Feud
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufamilyfeud/CDN/playlist.m3u8?p=roku
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MBBNJdT.jpg" group-title="Shows",Whose Line is it Anyway
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MBBNJdT.jpg" group-title="Entertainment",Whose Line is it Anyway
 https://dai.google.com/linear/hls/event/SYob3ZZfTwyVW7LILC9ckw/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/WipeoutXtra_190x190.png?raw=true" group-title="Entertainment",Wipeout Xtra
