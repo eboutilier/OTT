@@ -367,19 +367,12 @@ https://nrpus.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",••• XUMO •••
 http://
 
-#EXTINF:-1 tvg-id="MJH_Stirr_EPGamerican-classics-07-18-2019-202011476" tvg-name="Redbox  American Classics" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="Films",American Classics
-
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 tvg-id="Plex_EPGb4c9c6" tvg-name="Xumo  315 Electric Now" tvg-logo="https://od.lk/s/MF8yMjgzOTI0NjRf/ElectricNow_300x300.png" group-title="Films",Xumo • Electric Now
-
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-electricnow/CDN/master.m3u8
-
 #EXTINF:-1 tvg-id="Plex_EPG561619" tvg-name="Xumo  742 fubo Sports Netwk" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Sports",XUMO • Fubo Sports Network
 https://csm-e-cetubiausw2live101-08c231fb1e230ccd2.csm.tubi.video/csm/live/246665421.m3u8
 #EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGLCSTR" tvg-name="Xumo  137 Law & Crime" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/LawAndCrime_340x340.png" group-title="Entertainment",Xumo • Law & Crime
 
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
-#EXTINF:-1 tvg-id="Plex_EPG14ed61" tvg-name="PlayersTV" tvg-logo="https://i.imgur.com/Z4sBMVw.png" group-title=Sports",XUMO • PlayersTV
+#EXTINF:-1 tvg-id="Plex_EPG14ed61" tvg-name="PlayersTV" tvg-logo="https://i.imgur.com/Z4sBMVw.png" group-title="Sports",XUMO • PlayersTV
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-playerstv/CDN/master.m3u8
 
 
@@ -407,11 +400,11 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8?p=
 https://amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM1Njg1NTFf/MovieSphere_400x400.png" group-title="Films",MovieSphere
 https://moviesphere-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Plex_EPGc6ea97" tvg-name="Popcornflix" tvg-logo="https://od.lk/s/MF8yMjUyNDQ4NjZf/Crackle_365x365.png" group-title="Movies Plus",Popcorn Flix
+#EXTINF:-1 tvg-id="Plex_EPGc6ea97" tvg-name="Popcornflix" tvg-logo="https://od.lk/s/MF8yMjUyNDQ4NjZf/Crackle_365x365.png" group-title="Films",Popcorn Flix
 
 https://crackle-plex.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Plex_EPG10688f" tvg-name="PopcornFlix  HD" tvg-logo="https://od.lk/s/MF8yMzAxMjUzMzRf/PopcornFlix_491x491.png" group-title="Movies Plus",Popcorn Flix
+#EXTINF:-1 tvg-id="Plex_EPG10688f" tvg-name="PopcornFlix  HD" tvg-logo="https://od.lk/s/MF8yMzAxMjUzMzRf/PopcornFlix_491x491.png" group-title="Films",Popcorn Flix
 https://d2ml5ryiu1l712.cloudfront.net/popcornflix-xumo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BeeTV  Popcorn Flix Action" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BumblebeeTV_Generic.png?raw=true" group-title="Films",Popcorn Flix Action
