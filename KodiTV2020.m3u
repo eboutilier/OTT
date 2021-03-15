@@ -145,8 +145,9 @@ https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 #EXTINF:-1 tvg-id="MJH_Stirr_EPGexternallinearfeed-03-06-2019-235515534-03-06-2019" tvg-name="BigLife TV HD" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BigLifeTV_377x377.png?raw=true" group-title="General Interest",BigLife TV
 https://biglife.sinclair.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGBLOOMHD" tvg-name="Bloomberg US Channel" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Bloomberg_512x512.png" group-title="Financial",Bloomberg Television
-https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGBLOOMHD" tvg-name="Redbox  Bloomberg" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Bloomberg_512x512.png" group-title="News",Bloomberg Television
+
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxbloomberg/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 
 #EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGBUZZR" tvg-name="EPG   Buzzr" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/BUZZR.png" group-title="Entertainment",Buzzr
 https://buzzrota-web.amagi.tv/playlist.m3u8
@@ -200,8 +201,9 @@ http://hls.ums.ustream.tv/playlist/directhls/channel/10414700/playlist.m3u8?sgn=
 http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
 #EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGWNBCDT3" tvg-name="NBCLX" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCLX_584x584.png?raw=true" group-title="News",NBCLX
 https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/master.m3u8?OTATV
-#EXTINF:-1 tvg-id="MJH_Pluto_EPG5df97894467dfa00091c873c" tvg-name="NBC News Now  HD" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="News",NBC News Now
-https://nbcnewshls-i.akamaihd.net/hls/live/1005206/nnn_live2/master.m3u8
+#EXTINF:-1 tvg-id="MJH_Pluto_EPG5df97894467dfa00091c873c" tvg-name="NBC News Now  Source 2" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="News",NBC News Now
+
+https://nbcnewshls-i.akamaihd.net/hls/live/1005206-b/nnn_live2/master.m3u8
 #EXTINF:-1 tvg-id="tv25_EPGI25.2.97117.zap2it.com" tvg-name="News Net  HD" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NewsNet.png" group-title="News",News Net
 https://nrpus.bozztv.com/36bay2/gusa-newsnet/index.m3u8
 #EXTINF:-1 tvg-id="Plex_EPG90331d" tvg-name="EPG  NewsMax TV" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NewsMaxTV.png" group-title="News",NewsMax TV
@@ -213,13 +215,14 @@ https://outsidetvplus-distro.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PBS_EPGWLVT" tvg-name="PA  WLVT PBS Allentown" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="Educational",PBS • Allentown
 https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="PBS_EPGWPSU" tvg-name="PBS  WPSU TV  HD" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="Educational",PBS • Clearfield
-https://ssc4.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_all/playlist.m3u8
-#EXTINF:-1 tvg-id="PBS_EPGWKLE" tvg-name="KY  WKLE PBS KET Lexington" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="Educational",PBS • Lexington
+#EXTINF:-1 tvg-id="PBS_EPGWKLE" tvg-name="KY  WKLE PBS KET Lexington" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="Educational",PBS • Lexington (KET)
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-id="PBS_EPGWMPB" tvg-name="PBS  Maryland Public TV" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="Educational",PBS • Maryland
+https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:-1 tvg-id="WPPT" tvg-name="PA  WPPT 39 Extra Philadelphia" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="Educational",PBS • Philadelphia
 https://forerunnerrtmp.livestreamingcdn.com/output18-2/output18-2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGWNETDT2" tvg-name="PBS Kids  KET TV HD" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS-Kids_625x625.png?raw=true" group-title="Kids",PBS Kids
+#EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGWNETDT2" tvg-name="PBS Kids  KET TV HD" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS-Kids_625x625.png?raw=true" group-title="Kids",PBS Kids (KET)
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 
 #EXTINF:-1 tvg-id="PBS_EPGWFWA" tvg-name="PBS  World Channel" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBSWorld_972x972.png?raw=true" group-title="Educational",PBS World
@@ -238,7 +241,7 @@ https://aenetworks-skills-thrills-1.plex.wurl.com/manifest/playlist.m3u8
 https://sportsgrid-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-sportsgrid-plex/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="Plex_EPG3333e6" tvg-name="Stadium  Live HD" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Stadium.png" group-title="Sports",Stadium
 https://bcovlive-a.akamaihd.net/e64d564b9275484f85981d8c146fb915/us-east-1/5994000126001/8036529875f74c81b5f50851bffbc421/playlist_ssaiM.m3u8
-#EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGTBD" tvg-name="TBD Channel" tvg-logo="https://github.com/eboutilier/OTT/blob/master/TV-TBD.png" group-title="Entertainment",TBD Channel
+#EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGTBD" tvg-name="TBD Channel" tvg-logo="https://raw.githubusercontent.com/eboutilier/OTT/blob/master/TV-TBD.png" group-title="Entertainment",TBD Channel
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
 #EXTINF:-1 tvg-id="Plex_EPGbb3805" tvg-name="Roku  The Design Network" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheDesignNetwork_290x290.png?raw=true" group-title="General Interest",The Design Network
 
