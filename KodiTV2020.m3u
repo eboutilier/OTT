@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="",••• BABILLARD DU COUPLE •••
-http://
-
-
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/TV-Couple.png?raw=true" group-title="",BONJOUR MA BELLE! JE T'AIME XOXO
-http://
 #EXTINF:-1 tvg-logo="" group-title="",••• CANADA •••
 http://
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/TV-NB.png?raw=true" group-title="Politique",Assemblée législative du Nouveau-Brunswick
@@ -215,14 +209,14 @@ https://outsidetvplus-distro.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PBS_EPGWLVT" tvg-name="PA  WLVT PBS Allentown" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="Educational",PBS • Allentown
 https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="PBS_EPGWKLE" tvg-name="KY  WKLE PBS KET Lexington" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="Educational",PBS • Lexington (KET)
+#EXTINF:-1 tvg-id="PBS_EPGWKLE" tvg-name="KY  WKLE PBS KET Lexington" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="Educational",PBS • Lexington
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8?DVR
 
 #EXTINF:-1 tvg-id="PBS_EPGWMPB" tvg-name="PBS  Maryland Public TV" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="Educational",PBS • Maryland
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:-1 tvg-id="WPPT" tvg-name="PA  WPPT 39 Extra Philadelphia" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="Educational",PBS • Philadelphia
 https://forerunnerrtmp.livestreamingcdn.com/output18-2/output18-2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGWNETDT2" tvg-name="PBS Kids  KET TV HD" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS-Kids_625x625.png?raw=true" group-title="Kids",PBS Kids (KET)
+#EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGWNETDT2" tvg-name="PBS Kids  KET TV HD" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS-Kids_625x625.png?raw=true" group-title="Kids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 
 #EXTINF:-1 tvg-id="PBS_EPGWFWA" tvg-name="PBS  World Channel" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBSWorld_972x972.png?raw=true" group-title="Educational",PBS World
@@ -254,6 +248,8 @@ https://studio1091-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-unindentifiedtv-pl
 #EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGVSIN" tvg-name="VSiN  Webstream" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/VSiN_400x400.png?raw=true" group-title="Sports",VSiN
 https://stream.rcncdn.com/live/vsinproxy.m3u8
 
+#EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGWTHRNHD" tvg-name="Tubi  Weather Nation" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/WeatherNation.png" group-title="News",Weather Nation
+https://csm-e-cetubiausw2live101-0a3375999d365443a.csm.tubi.video/csm/live/241500490.m3u8
 #EXTINF:-1 tvg-id="Plex_EPGbc22be" tvg-name="Wonder" tvg-logo="https://i.imgur.com/qTbCyOj.png" group-title="General Interest",Wonder
 
 https://lds-wonder-plex.amagi.tv/playlist.m3u8
@@ -294,12 +290,6 @@ https://rt-uk-gd.secure2.footprint.net/1106.m3u8
 https://sportenfrance.ziostream.cloud/hls/sp1564435593_med/index.m3u8
 #EXTINF:-1 tvg-id="Plex_EPG955337" tvg-name="Timeline" tvg-logo="https://i.imgur.com/J8qVUjM.png" group-title="General Interest",Timeline
 https://lds-timeline-plex.amagi.tv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="",••• TUBI •••
-http://
-#EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGWTHRNHD" tvg-name="Tubi  Weather Nation" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" group-title="News",Weather Nation
-https://csm-e-cetubiausw2live101-0a3375999d365443a.csm.tubi.video/csm/live/241500490.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="",••• TV25 •••
