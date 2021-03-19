@@ -242,7 +242,7 @@ https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8?DVR
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:-1 tvg-id="WPPT" tvg-name="PA  WPPT 39 Extra Philadelphia" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="Éducatif / Educational",PBS • Philadelphia
 https://forerunnerrtmp.livestreamingcdn.com/output18-2/output18-2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGWNETDT2" tvg-name="PBS Kids  KET TV HD" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS-Kids_625x625.png?raw=true" group-title="Kids",PBS Kids
+#EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGWNETDT2" tvg-name="PBS Kids  KET TV HD" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS-Kids_625x625.png?raw=true" group-title="Enfants / Kids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 
 #EXTINF:-1 tvg-id="PBS_EPGWFWA" tvg-name="PBS  World Channel" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBSWorld_972x972.png?raw=true" group-title="Éducatif / Educational",PBS World
@@ -322,7 +322,7 @@ https://nrpus.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
 
 https://nrpus.bozztv.com/36bay2/gusa-TVSFlashback/index.m3u8
 
-#EXTINF:-1 tvg-id="WatchYourTV_EPG937abf" tvg-name="TVS Hi Tops" tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="Kids",TVS • Hi Tops
+#EXTINF:-1 tvg-id="WatchYourTV_EPG937abf" tvg-name="TVS Hi Tops" tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="Enfants / Kids",TVS • Hi Tops
 
 https://nrpus.bozztv.com/36bay2/gusa-hitops/index.m3u8
 
@@ -540,11 +540,11 @@ http://
 
 
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Niagara.png?raw=true" group-title="Sports-Radio ON",ON | Niagara ·· Ice Dogs • CKTB 610 AM
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Niagara.png?raw=true" group-title="Sports-Radio ON",Niagara ·· Ice Dogs • CKTB 610 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKTBAM_ADP.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-NorthBay.png?raw=true" group-title="Sports-Radio ON",ON | North Bay ·· Battalion • CKAT 600 AM
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-NorthBay.png?raw=true" group-title="Sports-Radio ON",North Bay ·· Battalion • CKAT 600 AM
 https://rogers-hls.leanstream.co/rogers/nor600.stream/playlist.m3u8
 
 
