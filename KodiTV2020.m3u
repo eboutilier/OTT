@@ -108,6 +108,9 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/680602/1242843915001_1/master.m3
 #EXTINF:-1 tvg-id="CAN_Networks_and_Sports_EPGCPACF" tvg-name="Canada  CPAC" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CPAC_360x360.png?raw=true" group-title="Politique / Politics",CPAC [FR]
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
 
+#EXTINF:-1 tvg-id="Plex_EPGc6ea97" tvg-name="Popcornflix" tvg-logo="https://od.lk/s/MF8yMjUyNDQ4NjZf/Crackle_365x365.png" group-title="Arts + Cinéma",Crackle
+https://crackle-plex.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Plex_EPGc3ce93" tvg-name="DarkMatter TV" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DarkMatterTV_218x218.png?raw=true" group-title="Arts + Cinéma",DarkMatter TV
 
 https://dmtv-plex.amagi.tv/playlist.m3u8
@@ -247,10 +250,6 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 
 #EXTINF:-1 tvg-id="PBS_EPGWFWA" tvg-name="PBS  World Channel" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBSWorld_972x972.png?raw=true" group-title="Éducatif / Educational",PBS World
 https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
-#EXTINF:-1 tvg-id="Plex_EPGc6ea97" tvg-name="Popcornflix" tvg-logo="https://od.lk/s/MF8yMjUyNDQ4NjZf/Crackle_365x365.png" group-title="Arts + Cinéma",Popcorn Flix
-
-https://crackle-plex.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Plex_EPG10688f" tvg-name="PopcornFlix  HD" tvg-logo="https://od.lk/s/MF8yMzAxMjUzMzRf/PopcornFlix_491x491.png" group-title="Arts + Cinéma",Popcorn Flix
 https://d2ml5ryiu1l712.cloudfront.net/popcornflix-xumo/playlist.m3u8
 
