@@ -69,7 +69,7 @@ https://cbclivedai6-i.akamaihd.net/hls/live/567237/event2/CBWT/master5.m3u8
 https://cbclivedai7-i.akamaihd.net/hls/live/567240/event2/CFYK/master5.m3u8
 
 #EXTINF:-1 tvg-id="CAN_Networks_and_Sports_EPGCBNEWS" tvg-name="Redbox  CBC News" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="Actualité / News",CBC News
-https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGOLYHD" tvg-name="CBC Olympics (Geo-CA)  HD" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBC_Olympics_400x400.png?raw=true" group-title="Sports",CBC Olympics
 https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_1.m3u8
 
@@ -115,6 +115,8 @@ https://dove-channel.vizio.wurl.com/manifest/playlist.m3u8
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/France24.png" group-title="Actualité / News",France 24
 http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 tvg-id="Plex_EPG561619" tvg-name="Xumo  742 fubo Sports Netwk" tvg-logo="https://od.lk/s/MF8yMjg4NTMwNDBf/FuboSportsNetwork_844x844.png" group-title="Sports",Fubo Sports Network
+https://playout.fubo.tv/fsn/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/GameShowCentral_203x203.png?raw=true" group-title="Divertissement / Entertainment",Game Show Central
 https://gsn-gameshowchannnel-2.roku.wurl.com/manifest/playlist.m3u8
 
@@ -191,7 +193,7 @@ http://stream.pivotalelements.com/nactv/stream.m3u8
 http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
 #EXTINF:-1 tvg-id="MJH_Pluto_EPG5df97894467dfa00091c873c" tvg-name="NBC News Now  Source 2" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="Actualité / News",NBC News Now
 
-https://nbcnewshls-i.akamaihd.net/hls/live/1005206-b/nnn_live2/master.m3u8
+https://nbcnewshls.akamaized.net/hls/live/2011820/nnn_live1/master.m3u8
 #EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGWNBCDT3" tvg-name="NBCLX" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCLX_584x584.png?raw=true" group-title="Actualité / News",NBCLX
 https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/master.m3u8?OTATV
 #EXTINF:-1 tvg-id="tv25_EPGI25.2.97117.zap2it.com" tvg-name="News Net  HD" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NewsNet.png" group-title="Actualité / News",News Net
@@ -325,14 +327,12 @@ https://stream.rcncdn.com/live/vsinproxy.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/TV-WCGTV.png?raw=true" group-title="Généraliste / General Interest",WCGTV • Brandon
 https://wowzastream.westmancom.com/wcgtvlive/highstream.sdp/master.m3u8
 #EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGWTHRNHD" tvg-name="Tubi  Weather Nation" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/WeatherNation.png" group-title="Actualité / News",Weather Nation
-https://csm-e-cetubiausw2live101-0a3375999d365443a.csm.tubi.video/csm/live/241500490.m3u8
+https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="Plex_EPGbc22be" tvg-name="Wonder" tvg-logo="https://i.imgur.com/qTbCyOj.png" group-title="Généraliste / General Interest",Wonder
 
 https://lds-wonder-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Plex_EPGbe67f1" tvg-name="Xplore" tvg-logo="https://od.lk/s/MF8yMjU5MDAzNDRf/Xplore_307x307.png" group-title="Généraliste / General Interest",Xplore
 https://xplore-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Plex_EPG561619" tvg-name="Xumo  742 fubo Sports Netwk" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Sports",XUMO • Fubo Sports Network
-https://csm-e-cetubiausw2live101-08c231fb1e230ccd2.csm.tubi.video/csm/live/246665421.m3u8
 #EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGLCSTR" tvg-name="Xumo  137 Law & Crime" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/LawAndCrime_340x340.png" group-title="Divertissement / Entertainment",Xumo • Law & Crime
 
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
