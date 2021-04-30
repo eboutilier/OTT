@@ -72,7 +72,7 @@ https://cbclivedai7-i.akamaihd.net/hls/live/567240/event2/CFYK/master5.m3u8
 #EXTINF:-1 tvg-id="CAN_Networks_and_Sports_EPGCBNEWS" tvg-name="Redbox  CBC News" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="Actualité / News",CBC News
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGOLYHD" tvg-name="CBC Olympics (Geo-CA)  HD" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBC_Olympics_400x400.png?raw=true" group-title="Sports",CBC Olympics
-https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_1.m3u8
+https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_1.m3u8 
 
 #EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGCBSNSTR" tvg-name="CBS News  CBSN National" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSNews.png" group-title="Actualité / News",CBS News
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
