@@ -33,7 +33,7 @@ https://cbclivedai4-i.akamaihd.net/hls/live/567231/event2/CBXT/master5.m3u8
 https://cbclivedai7-i.akamaihd.net/hls/live/567244/event2/CBAT/master5.m3u8
 #EXTINF:-1 tvg-id="I102.72723.zap2it.com" tvg-name="102 CBHTDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Généraliste / General Interest",CBC • Halifax
 https://cbclivedai3-i.akamaihd.net/hls/live/566977/event2/CBHT/master5.m3u8
-#EXTINF:-1 tvg-id="I122.53502.zap2it.com" tvg-name="122 CBMTDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title=="CBC TV Canada (Geo)",CBC Montreal
+#EXTINF:-1 tvg-id="I122.53502.zap2it.com" tvg-name="122 CBMTDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Généraliste / General Interest",CBC Montreal
 https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
 #EXTINF:-1 tvg-id="I144.58494.zap2it.com" tvg-name="144 CBOTDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Généraliste / General Interest",CBC • Ottawa
 https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8
