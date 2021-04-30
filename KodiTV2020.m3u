@@ -57,69 +57,7 @@ https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d56
 https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_1.m3u8
 #EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGCBSNSTR" tvg-name="CBS News  CBSN National" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSNews.png" group-title="Actualité / News",CBS News
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-01-15-2020-201540715-01-15-2020" tvg-chno="98" tvg-type="live" group-title="EPG | Free2View TV" tvg-logo="https://od.lk/s/MF8yMjM5NTQzOTVf/ChargeTV.png",EPG | Charge!
-http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="",••• TÉLÉVISION •••
-http://
-#EXTINF:-1 tvg-id="Plex_EPGbc43b9" tvg-name="24 Hour Free Movies" tvg-logo="https://i.imgur.com/FiTdDp1.png" group-title="Arts + Cinéma",24 Hour Free Movies
-https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
-#EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGABCNEWSLIVE" tvg-name="ABC News Live" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ABCNewsLive.png" group-title="Actualité / News",ABC News Live
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGAMCPRES" tvg-name="AMC  AMC Presents" tvg-logo="https://od.lk/s/MF8yMjc2NjQxMDdf/AMCNetworks_v2_365x365.png" group-title="Arts + Cinéma",AMC Presents
-https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGAMGTV" tvg-name="K36JH  362 AMG-TV" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/K36JH-36-2_AMGTV_290x290.png?raw=true" group-title="Généraliste / General Interest",AMG-TV
-https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/TV-ONT.png?raw=true" group-title="Politique / Politics",Assemblée législative de l'Ontario
-http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8
-#EXTINF:-1 tvg-id="CAN_Networks_and_Sports_EPGASSEMB" tvg-name="Canada  Assemblee Nationale" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ANDQ_603x603.png?raw=true" group-title="Politique / Politics",Assemblée nationale du Québec
-https://wowzaprod231-i.akamaihd.net/hls/live/1013830/7f07867f/playlist.m3u8
-#EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGBEINXTRA" tvg-name="beIN Sports Xtra  HD" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BeIN-Sports-Xtra_235x235.png?raw=true" group-title="Sports",beIN Sports Xtra
-https://bein-xtra-roku-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MJH_Stirr_EPGexternallinearfeed-03-06-2019-235515534-03-06-2019" tvg-name="BigLife TV HD" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BigLifeTV_377x377.png?raw=true" group-title="Généraliste / General Interest",BigLife TV
-https://biglife.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGBLOOMHD" tvg-name="Redbox  Bloomberg" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Bloomberg_512x512.png" group-title="Actualité / News",Bloomberg Television
-https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxbloomberg/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGBUZZR" tvg-name="EPG   Buzzr" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/BUZZR.png" group-title="Divertissement / Entertainment",Buzzr
-https://buzzrota-web.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CAN_Networks_and_Sports_EPGCFTU" tvg-name="Canada  Canal Savoir" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CanalSavoir_363x363.png?raw=true" group-title="Éducatif / Educational",Canal Savoir
-https://hls.savoir.media/live/stream.m3u8
-#EXTINF:-1 tvg-id="I197.71729.zap2it.com" tvg-name="197 CBRTDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Généraliste / General Interest",CBC Calgary
-https://cbclivedai4-i.akamaihd.net/hls/live/567230/event2/CBRT/master5.m3u8
-#EXTINF:-1 tvg-id="I109.72884.zap2it.com" tvg-name="109 CBCTDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Généraliste / General Interest",CBC Charlottetown
-https://cbclivedai6-i.akamaihd.net/hls/live/567239/event2/CBCT/master5.m3u8
-#EXTINF:-1 tvg-id="I192.71733.zap2it.com" tvg-name="192 CBXTDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Généraliste / General Interest",CBC Edmonton
-https://cbclivedai4-i.akamaihd.net/hls/live/567231/event2/CBXT/master5.m3u8
-#EXTINF:-1 tvg-id="I106.72767.zap2it.com" tvg-name="106 CBATDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Généraliste / General Interest",CBC Fredericton
-https://cbclivedai7-i.akamaihd.net/hls/live/567244/event2/CBAT/master5.m3u8
-#EXTINF:-1 tvg-id="I102.72723.zap2it.com" tvg-name="102 CBHTDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Généraliste / General Interest",CBC Halifax
-https://cbclivedai3-i.akamaihd.net/hls/live/566977/event2/CBHT/master5.m3u8
-#EXTINF:-1 tvg-id="I122.53502.zap2it.com" tvg-name="122 CBMTDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Généraliste / General Interest",CBC Montreal
-https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
-#EXTINF:-1 tvg-id="I144.58494.zap2it.com" tvg-name="144 CBOTDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Généraliste / General Interest",CBC Ottawa
-https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8
-#EXTINF:-1 tvg-id="I172.72795.zap2it.com" tvg-name="172 CBKTDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Généraliste / General Interest",CBC Regina
-https://cbclivedai2-i.akamaihd.net/hls/live/566969/event2/CBKT/master5.m3u8
-#EXTINF:-1 tvg-id="I111.72797.zap2it.com" tvg-name="111 CBNTDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Généraliste / General Interest",CBC St John's
-https://cbclivedai5-i.akamaihd.net/hls/live/567236/event2/CBNT/master5.m3u8
-#EXTINF:-1 tvg-id="I132.46245.zap2it.com" tvg-name="132 CBLTDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Généraliste / General Interest",CBC Toronto
-https://cbclivedai1-i.akamaihd.net/hls/live/566940/event2/CBLT/master5.m3u8
-#EXTINF:-1 tvg-id="I213.51981.zap2it.com" tvg-name="213 CBUTDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Généraliste / General Interest",CBC Vancouver
-https://cbclivedai2-i.akamaihd.net/hls/live/566968/event2/CBUT/master5.m3u8
-#EXTINF:-1 tvg-id="I136.72772.zap2it.com" tvg-name="136 CBETDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Généraliste / General Interest",CBC Windsor
-https://cbclivedai1-i.akamaihd.net/hls/live/566941/event2/CBET/master5.m3u8
-#EXTINF:-1 tvg-id="I162.72940.zap2it.com" tvg-name="162 CBWTDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Généraliste / General Interest",CBC Winnipeg
-https://cbclivedai6-i.akamaihd.net/hls/live/567237/event2/CBWT/master5.m3u8
-#EXTINF:-1 tvg-id="I225.72816.zap2it.com" tvg-name="225 CFYKDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Généraliste / General Interest",CBC Yellowknife
-https://cbclivedai7-i.akamaihd.net/hls/live/567240/event2/CFYK/master5.m3u8
-#EXTINF:-1 tvg-id="CAN_Networks_and_Sports_EPGCBNEWS" tvg-name="Redbox  CBC News" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="Actualité / News",CBC News
-https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGOLYHD" tvg-name="CBC Olympics (Geo-CA)  HD" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBC_Olympics_400x400.png?raw=true" group-title="Sports",CBC Olympics
-https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_1.m3u8
-#EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGCBSNSTR" tvg-name="CBS News  CBSN National" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSNews.png" group-title="Actualité / News",CBS News
-http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
-#EXTINF:-1 tvg-id="I45.2.99361.zap2it.com" tvg-chno="45.2 WRGBDK2" tvg-type="live" group-title="EPG | USA FREE TV | OTA" tvg-logo="https://od.lk/s/MF8yMjM5NTQzOTVf/ChargeTV.png",EPG | Charge!
+#EXTINF:-1 tvg-id="I45.2.99361.zap2it.com" tvg-chno="45.2 WRGBDK2" tvg-type="live" group-title="Divertissement / Entertainment" tvg-logo="https://od.lk/s/MF8yMjM5NTQzOTVf/ChargeTV.png",Charge!
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 #EXTINF:-1 tvg-id="Plex_EPGf0942f" tvg-name="Cheddar  Webstream" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Cheddar_900x900.png" group-title="Actualité / News",Cheddar
 https://dai2.xumo.com/amagi_hls_data_xumo-host-cheddar/CDN/master.m3u8
