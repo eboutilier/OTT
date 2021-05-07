@@ -3,9 +3,9 @@
 
 #EXTINF:-1 tvg-logo="" group-title="",TÉLÉVISION
 http://
-#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="ABC News Live" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ABCNewsLive.png" group-title="News",ABC News Live
+#EXTINF:-1 tvg-id="ABCNewsLive" tvg-name="ABC News Live" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ABCNewsLive.png" group-title="News",ABC News Live
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-id="ASSEMBLEENATIONALE(CFCableTV)(French).ca" tvg-name="ASSEMBLEE NATIONALE (CF Cable TV) (French)" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ANDQ_603x603.png?raw=true" group-title="Politique",Assemblée nationale du Québec
+#EXTINF:-1 tvg-id="ASSEMBLEENATIONALE(CFCableTV)(French)" tvg-name="ASSEMBLEE NATIONALE (CF Cable TV) (French)" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ANDQ_603x603.png?raw=true" group-title="Politique",Assemblée nationale du Québec
 
 https://wowzaprod231-i.akamaihd.net/hls/live/1013830/7f07867f/playlist.m3u8
 #EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGBLOOMHD" tvg-name="Redbox  Bloomberg" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Bloomberg_512x512.png" group-title="News",Bloomberg Television
@@ -130,9 +130,9 @@ https://content.uplynk.com/channel/33c48f602cfd4474b957eb4ad999caf8.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://pe-ak-lp04a-9c9media.akamaized.net/live/NOOVO/p/dash/00000001/f481c583dbd06b6c/manifest.mpd
-#EXTINF:-1 tvg-id="OntarioLegislature(English).ca" tvg-name="Ontario Legislature (English)" tvg-logo="https://github.com/eboutilier/OTT/blob/master/TV-ONT.png?raw=true" group-title="Politique",ONT PARL • Assemblée législative de l'Ontario
+#EXTINF:-1 tvg-id="OntarioLegislature(English)" tvg-name="Ontario Legislature (English)" tvg-logo="https://github.com/eboutilier/OTT/blob/master/TV-ONT.png?raw=true" group-title="Politique",ONT PARL • Assemblée législative de l'Ontario
 http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8
-#EXTINF:-1 tvg-id="OntarioLegislature(English).ca" tvg-name="Ontario Legislature (English)" tvg-logo="https://github.com/eboutilier/OTT/blob/master/TV-ONT.png?raw=true" group-title="Politique",ONT PARL • Legislative Assembly of Ontario
+#EXTINF:-1 tvg-id="OntarioLegislature(English)" tvg-name="Ontario Legislature (English)" tvg-logo="https://github.com/eboutilier/OTT/blob/master/TV-ONT.png?raw=true" group-title="Politique",ONT PARL • Legislative Assembly of Ontario
 http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
 #EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGOUTSDSD" tvg-name="Outside TV  HD" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/OutsideTVPlus_540x540.png?raw=true" group-title="Sports",Outside TV
 https://outsidetvplus-distro.amagi.tv/playlist.m3u8
