@@ -73,6 +73,9 @@ https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_1.m3u8
 
 #EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGCBSNSTR" tvg-name="CBS News  CBSN National" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSNews.png" group-title="Actualité / News",CBS News
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:-1 tvg-id="I45.2.99361.zap2it.com" tvg-chno="45.2 WRGBDK2" tvg-type="live" group-title="EPG | USA FREE TV | OTA" tvg-logo="https://od.lk/s/MF8yMjM5NTQzOTVf/ChargeTV.png",Charge!
+http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
+
 #EXTINF:-1 tvg-id="Plex_EPGf0942f" tvg-name="Cheddar  Webstream" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Cheddar_900x900.png" group-title="Actualité / News",Cheddar
 https://dai2.xumo.com/amagi_hls_data_xumo-host-cheddar/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ClassicArtsShowcase.png" group-title="Arts + Cinéma",Classic Arts Showcase
@@ -191,6 +194,8 @@ https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/master.m3u8?OTATV
 https://nrpus.bozztv.com/36bay2/gusa-newsnet/index.m3u8
 #EXTINF:-1 tvg-id="Plex_EPG90331d" tvg-name="EPG  NewsMax TV" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NewsMaxTV.png" group-title="Actualité / News",NewsMax TV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-id="abdec0" tvg-name="Top_Stories_by_Newsy" tvg-chno="616" group-title="Actualité / News" tvg-logo="https://i.imgur.com/SpH5ink.png",Newsy
+https://content.uplynk.com/channel/33c48f602cfd4474b957eb4ad999caf8.m3u8
 #EXTINF:-1 tvg-id="CAN_Networks_and_Sports_EPGCFAP" tvg-name="Canada  noovo" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Noovo_608x608.png?raw=true" group-title="Généraliste / General Interest",Noovo
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -404,12 +409,12 @@ http://live.cklq.com:8000/CKLQ.mp3
 
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-BritishColumbia.png?raw=true" group-title="Sports-Radio Ouest/West" radio="true",British Columbia ·· Lions • TBA
 http://
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-Calgary.png?raw=true" group-title="Sports-Radio Ouest/West" radio="true",Calgary ·· Flames • CFAC 960 AM
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-WHL-Calgary.png?raw=true" group-title="Sports-Radio Ouest/West" radio="true",Calgary ·· Flames • CFAC 960 AM
 
 http://rogers-hls.leanstream.co/rogers/cal960.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Calgary.png?raw=true" group-title="Sports-Radio Ouest/West" radio="true",Calgary ·· Hitmen • CFAC 960 AM
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-WHL-Calgary.png?raw=true" group-title="Sports-Radio Ouest/West" radio="true",Calgary ·· Hitmen • CFAC 960 AM
 
 http://rogers-hls.leanstream.co/rogers/cal960.stream/playlist.m3u8
 
@@ -564,11 +569,11 @@ http://
 
 http://srv1.hotdogradio.com:8000/CKQR
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/FL-Quebec.png?raw=true" group-title="Sports-Radio Québec" radio="true",Québec ·· Capitales • CHYZ 94.3 FM
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/FL-Quebec.png?raw=true" group-title="Sports-Radio Québec",Québec ·· Capitales • CHYZ 94.3 FM
 
 http://ecoutez.chyz.ca:8000/mp3
 
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Quebec.png?raw=true" group-title="Sports-Radio Québec" radio="true",Québec ·· Remparts • CHYZ 94.3 FM
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Quebec.png?raw=true" group-title="Sports-Radio Québec",Québec ·· Remparts • CHYZ 94.3 FM
 
 http://ecoutez.chyz.ca:8000/mp3
 
@@ -685,7 +690,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CKLWAM_ADP.m3u
 
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-Winnipeg.png?raw=true" group-title="Sports-Radio Prairies" radio="true",Winnipeg ·· Blue Bombers • CJOB 680 AM
 http://corus.leanstream.co/CJOBAM-MP3
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/AA-Winnipeg.png?raw=true" group-title="Sports-Radio Prairies" radio="true",Winnipeg ·· Goldeyes • CJNU 93.7 FM
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/AA-Winnipeg.png?raw=true" group-title="Sports-Radio Prairies",Winnipeg ·· Goldeyes • CJNU 93.7 FM
 
 http://noasrv.caster.fm:10188/stream
 
