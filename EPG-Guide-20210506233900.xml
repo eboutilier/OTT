@@ -1,0 +1,1882 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="m3u4u" generator-info-url="https://m3u4u.com/">
+<channel id="ABCNewsLive.us">
+<display-name>ABC News Live</display-name>
+</channel>
+<channel id="ASSEMBLEENATIONALE(CFCableTV)(French).ca">
+<display-name>ASSEMBLEE NATIONALE (CF Cable TV) (French)</display-name>
+</channel>
+<channel id="EuroNews.us">
+<display-name>Euronews  HD</display-name>
+</channel>
+<channel id="France24(French).us">
+<display-name>France 24</display-name>
+</channel>
+<channel id="OntarioLegislature(English).ca">
+<display-name>Ontario Legislature (English)</display-name>
+</channel>
+<programme start="20210504230000 +0000" stop="20210505003000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >ABCNL Prime With Linsey Davis</title>
+<desc lang="en">Providing prime-time context and analysis of the day's top stories, as well as in-depth reporting and storytelling from around the country and the globe.</desc>
+</programme>
+<programme start="20210505003000 +0000" stop="20210505010000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >Nightline</title>
+<desc lang="en">The half-hour program provides viewers with in-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture. Journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.</desc>
+</programme>
+<programme start="20210505010000 +0000" stop="20210505023000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >ABCNL Prime With Linsey Davis</title>
+<desc lang="en">Providing prime-time context and analysis of the day's top stories, as well as in-depth reporting and storytelling from around the country and the globe.</desc>
+</programme>
+<programme start="20210505023000 +0000" stop="20210505030000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >World News Tonight Prime With David Muir</title>
+<desc lang="en">David Muir provides viewers with the very latest information and analysis of the major news stories from around the country and the world.</desc>
+</programme>
+<programme start="20210505030000 +0000" stop="20210505043000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >ABCNL Prime With Linsey Davis</title>
+<desc lang="en">Providing prime-time context and analysis of the day's top stories, as well as in-depth reporting and storytelling from around the country and the globe.</desc>
+</programme>
+<programme start="20210505043000 +0000" stop="20210505050000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >World News Tonight Prime With David Muir</title>
+<desc lang="en">David Muir provides viewers with the very latest information and analysis of the major news stories from around the country and the world.</desc>
+</programme>
+<programme start="20210505050000 +0000" stop="20210505060000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >ABCNL Prime With Linsey Davis</title>
+<desc lang="en">Providing prime-time context and analysis of the day's top stories, as well as in-depth reporting and storytelling from around the country and the globe.</desc>
+</programme>
+<programme start="20210505060000 +0000" stop="20210505063000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >ABC News Live</title>
+<desc lang="en">Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
+</programme>
+<programme start="20210505063000 +0000" stop="20210505070000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >ABC News Live</title>
+<desc lang="en">Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
+</programme>
+<programme start="20210505070000 +0000" stop="20210505073000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >ABC News Live</title>
+<desc lang="en">Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
+</programme>
+<programme start="20210505073000 +0000" stop="20210505080000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >ABC News Live</title>
+<desc lang="en">Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
+</programme>
+<programme start="20210505080000 +0000" stop="20210505083000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >ABC News Live</title>
+<desc lang="en">Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
+</programme>
+<programme start="20210505083000 +0000" stop="20210505090000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >ABC News Live</title>
+<desc lang="en">Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
+</programme>
+<programme start="20210505090000 +0000" stop="20210505093000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >ABC News Live</title>
+<desc lang="en">Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
+</programme>
+<programme start="20210505093000 +0000" stop="20210505100000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >ABC News Live</title>
+<desc lang="en">Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
+</programme>
+<programme start="20210505100000 +0000" stop="20210505103000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >ABC News Live</title>
+<desc lang="en">Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
+</programme>
+<programme start="20210505103000 +0000" stop="20210505110000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >ABC News Live</title>
+<desc lang="en">Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
+</programme>
+<programme start="20210505110000 +0000" stop="20210505113000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >ABC News Live</title>
+<desc lang="en">Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
+</programme>
+<programme start="20210505113000 +0000" stop="20210505120000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >Start Here</title>
+<desc lang="en">Hosted by Brad Mielke, the video version of ABC News' daily podcast dives straight to the heart of the stories that are driving national conversations.</desc>
+</programme>
+<programme start="20210505120000 +0000" stop="20210505123000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >ABC News Live</title>
+<desc lang="en">Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
+</programme>
+<programme start="20210505123000 +0000" stop="20210505130000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >Start Here</title>
+<desc lang="en">Hosted by Brad Mielke, the video version of ABC News' daily podcast dives straight to the heart of the stories that are driving national conversations.</desc>
+</programme>
+<programme start="20210505130000 +0000" stop="20210505133000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >ABC News Live Update</title>
+<desc lang="en">Bringing streaming viewers the latest headlines, compelling stories, interviews and roundtable discussions in 15 minutes or less.</desc>
+</programme>
+<programme start="20210505133000 +0000" stop="20210505140000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >Start Here</title>
+<desc lang="en">Hosted by Brad Mielke, the video version of ABC News' daily podcast dives straight to the heart of the stories that are driving national conversations.</desc>
+</programme>
+<programme start="20210505140000 +0000" stop="20210505143000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >ABC News Live Update</title>
+<desc lang="en">Bringing streaming viewers the latest headlines, compelling stories, interviews and roundtable discussions in 15 minutes or less.</desc>
+</programme>
+<programme start="20210505143000 +0000" stop="20210505150000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >Nightline</title>
+<desc lang="en">The half-hour program provides viewers with in-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture. Journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.</desc>
+</programme>
+<programme start="20210505150000 +0000" stop="20210505153000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >ABC News Live Update</title>
+<desc lang="en">Bringing streaming viewers the latest headlines, compelling stories, interviews and roundtable discussions in 15 minutes or less.</desc>
+</programme>
+<programme start="20210505153000 +0000" stop="20210505160000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >GMA Must See Moments</title>
+<desc lang="en">Catching up on some of the day's best stories from "Good Morning America"; subject to change for breaking news or live event coverage.</desc>
+</programme>
+<programme start="20210505160000 +0000" stop="20210505163000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >ICYMI: The Best of ABC News</title>
+<desc lang="en">The best storytelling, interviews and moments from ABC News; subject to change for breaking news or live event coverage.</desc>
+</programme>
+<programme start="20210505163000 +0000" stop="20210505170000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >Good Morning America - Top Stories</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20210505170000 +0000" stop="20210505173000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >GMA Must See Moments</title>
+<desc lang="en">Catching up on some of the day's best stories from "Good Morning America"; subject to change for breaking news or live event coverage.</desc>
+</programme>
+<programme start="20210505173000 +0000" stop="20210505180000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >ICYMI: The Best of ABC News</title>
+<desc lang="en">The best storytelling, interviews and moments from ABC News; subject to change for breaking news or live event coverage.</desc>
+</programme>
+<programme start="20210505180000 +0000" stop="20210505183000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >The Playlist</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20210505183000 +0000" stop="20210505190000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >ICYMI: The Best of ABC News</title>
+<desc lang="en">The best storytelling, interviews and moments from ABC News; subject to change for breaking news or live event coverage.</desc>
+</programme>
+<programme start="20210505190000 +0000" stop="20210505193000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >Your Voice, Your Vote: The Breakdown</title>
+<desc lang="en">Unpacking the issues important to voters to help viewers make an educated decision about where they stand on an issue; correspondents provide context with first-hand accounts from people from across the country whose lives are being affected.</desc>
+</programme>
+<programme start="20210505193000 +0000" stop="20210505200000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >The Playlist</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20210505200000 +0000" stop="20210505210000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >GMA3: What You Need to Know</title>
+<desc lang="en">Amy Robach and Dr. Jennifer Ashton host.</desc>
+</programme>
+<programme start="20210505210000 +0000" stop="20210505220000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >The Best of The View</title>
+<desc lang="en">"The View" hosts cover the hot topics of the day; subject to change for breaking news or live event coverage.</desc>
+</programme>
+<programme start="20210505220000 +0000" stop="20210505230000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >GMA3: What You Need to Know</title>
+<desc lang="en">Amy Robach and Dr. Jennifer Ashton host.</desc>
+</programme>
+<programme start="20210505230000 +0000" stop="20210506003000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >ABCNL Prime With Linsey Davis</title>
+<desc lang="en">Providing prime-time context and analysis of the day's top stories, as well as in-depth reporting and storytelling from around the country and the globe.</desc>
+</programme>
+<programme start="20210506003000 +0000" stop="20210506010000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >Nightline</title>
+<desc lang="en">The half-hour program provides viewers with in-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture. Journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.</desc>
+</programme>
+<programme start="20210506010000 +0000" stop="20210506023000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >ABCNL Prime With Linsey Davis</title>
+<desc lang="en">Providing prime-time context and analysis of the day's top stories, as well as in-depth reporting and storytelling from around the country and the globe.</desc>
+</programme>
+<programme start="20210506023000 +0000" stop="20210506030000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >World News Tonight Prime With David Muir</title>
+<desc lang="en">David Muir provides viewers with the very latest information and analysis of the major news stories from around the country and the world.</desc>
+</programme>
+<programme start="20210506030000 +0000" stop="20210506043000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >ABCNL Prime With Linsey Davis</title>
+<desc lang="en">Providing prime-time context and analysis of the day's top stories, as well as in-depth reporting and storytelling from around the country and the globe.</desc>
+</programme>
+<programme start="20210506043000 +0000" stop="20210506050000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >World News Tonight Prime With David Muir</title>
+<desc lang="en">David Muir provides viewers with the very latest information and analysis of the major news stories from around the country and the world.</desc>
+</programme>
+<programme start="20210506050000 +0000" stop="20210506060000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >ABCNL Prime With Linsey Davis</title>
+<desc lang="en">Providing prime-time context and analysis of the day's top stories, as well as in-depth reporting and storytelling from around the country and the globe.</desc>
+</programme>
+<programme start="20210506060000 +0000" stop="20210506063000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >ABC News Live</title>
+<desc lang="en">Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
+</programme>
+<programme start="20210506063000 +0000" stop="20210506070000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >ABC News Live</title>
+<desc lang="en">Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
+</programme>
+<programme start="20210506070000 +0000" stop="20210506073000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >ABC News Live</title>
+<desc lang="en">Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
+</programme>
+<programme start="20210506073000 +0000" stop="20210506080000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >ABC News Live</title>
+<desc lang="en">Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
+</programme>
+<programme start="20210506080000 +0000" stop="20210506083000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >ABC News Live</title>
+<desc lang="en">Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
+</programme>
+<programme start="20210506083000 +0000" stop="20210506090000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >ABC News Live</title>
+<desc lang="en">Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
+</programme>
+<programme start="20210506090000 +0000" stop="20210506093000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >ABC News Live</title>
+<desc lang="en">Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
+</programme>
+<programme start="20210506093000 +0000" stop="20210506100000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >ABC News Live</title>
+<desc lang="en">Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
+</programme>
+<programme start="20210506100000 +0000" stop="20210506103000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >ABC News Live</title>
+<desc lang="en">Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
+</programme>
+<programme start="20210506103000 +0000" stop="20210506110000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >ABC News Live</title>
+<desc lang="en">Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
+</programme>
+<programme start="20210506110000 +0000" stop="20210506113000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >ABC News Live</title>
+<desc lang="en">Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
+</programme>
+<programme start="20210506113000 +0000" stop="20210506120000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >Start Here</title>
+<desc lang="en">Hosted by Brad Mielke, the video version of ABC News' daily podcast dives straight to the heart of the stories that are driving national conversations.</desc>
+</programme>
+<programme start="20210506120000 +0000" stop="20210506123000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >ABC News Live</title>
+<desc lang="en">Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
+</programme>
+<programme start="20210506123000 +0000" stop="20210506130000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >Start Here</title>
+<desc lang="en">Hosted by Brad Mielke, the video version of ABC News' daily podcast dives straight to the heart of the stories that are driving national conversations.</desc>
+</programme>
+<programme start="20210506130000 +0000" stop="20210506133000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >ABC News Live Update</title>
+<desc lang="en">Bringing streaming viewers the latest headlines, compelling stories, interviews and roundtable discussions in 15 minutes or less.</desc>
+</programme>
+<programme start="20210506133000 +0000" stop="20210506140000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >Start Here</title>
+<desc lang="en">Hosted by Brad Mielke, the video version of ABC News' daily podcast dives straight to the heart of the stories that are driving national conversations.</desc>
+</programme>
+<programme start="20210506140000 +0000" stop="20210506143000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >ABC News Live Update</title>
+<desc lang="en">Bringing streaming viewers the latest headlines, compelling stories, interviews and roundtable discussions in 15 minutes or less.</desc>
+</programme>
+<programme start="20210506143000 +0000" stop="20210506150000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >Nightline</title>
+<desc lang="en">The half-hour program provides viewers with in-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture. Journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.</desc>
+</programme>
+<programme start="20210506150000 +0000" stop="20210506153000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >ABC News Live Update</title>
+<desc lang="en">Bringing streaming viewers the latest headlines, compelling stories, interviews and roundtable discussions in 15 minutes or less.</desc>
+</programme>
+<programme start="20210506153000 +0000" stop="20210506160000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >GMA Must See Moments</title>
+<desc lang="en">Catching up on some of the day's best stories from "Good Morning America"; subject to change for breaking news or live event coverage.</desc>
+</programme>
+<programme start="20210506160000 +0000" stop="20210506163000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >ICYMI: The Best of ABC News</title>
+<desc lang="en">The best storytelling, interviews and moments from ABC News; subject to change for breaking news or live event coverage.</desc>
+</programme>
+<programme start="20210506163000 +0000" stop="20210506170000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >Good Morning America - Top Stories</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20210506170000 +0000" stop="20210506173000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >GMA Must See Moments</title>
+<desc lang="en">Catching up on some of the day's best stories from "Good Morning America"; subject to change for breaking news or live event coverage.</desc>
+</programme>
+<programme start="20210506173000 +0000" stop="20210506180000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >ICYMI: The Best of ABC News</title>
+<desc lang="en">The best storytelling, interviews and moments from ABC News; subject to change for breaking news or live event coverage.</desc>
+</programme>
+<programme start="20210506180000 +0000" stop="20210506183000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >The Playlist</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20210506183000 +0000" stop="20210506190000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >ICYMI: The Best of ABC News</title>
+<desc lang="en">The best storytelling, interviews and moments from ABC News; subject to change for breaking news or live event coverage.</desc>
+</programme>
+<programme start="20210506190000 +0000" stop="20210506193000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >Your Voice, Your Vote: The Breakdown</title>
+<desc lang="en">Unpacking the issues important to voters to help viewers make an educated decision about where they stand on an issue; correspondents provide context with first-hand accounts from people from across the country whose lives are being affected.</desc>
+</programme>
+<programme start="20210506193000 +0000" stop="20210506200000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >The Playlist</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20210506200000 +0000" stop="20210506210000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >GMA3: What You Need to Know</title>
+<desc lang="en">Amy Robach and Dr. Jennifer Ashton host.</desc>
+</programme>
+<programme start="20210506210000 +0000" stop="20210506220000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >The Best of The View</title>
+<desc lang="en">"The View" hosts cover the hot topics of the day; subject to change for breaking news or live event coverage.</desc>
+</programme>
+<programme start="20210506220000 +0000" stop="20210506230000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >GMA3: What You Need to Know</title>
+<desc lang="en">Amy Robach and Dr. Jennifer Ashton host.</desc>
+</programme>
+<programme start="20210506230000 +0000" stop="20210507003000 +0000" channel="ABCNewsLive.us">
+<title lang="en" >ABCNL Prime With Linsey Davis</title>
+<desc lang="en">Providing prime-time context and analysis of the day's top stories, as well as in-depth reporting and storytelling from around the country and the globe.</desc>
+</programme>
+<programme start="20210504230000 +0000" stop="20210505030000 +0000" channel="ASSEMBLEENATIONALE(CFCableTV)(French).ca">
+<title lang="fr-CA" >Assemblée nationale du Québec</title>
+<desc lang="fr-CA">Assemblée nationale du Québec en direct.</desc>
+</programme>
+<programme start="20210505030000 +0000" stop="20210505070000 +0000" channel="ASSEMBLEENATIONALE(CFCableTV)(French).ca">
+<title lang="fr-CA" >Assemblée nationale du Québec</title>
+<desc lang="fr-CA">Assemblée nationale du Québec en direct.</desc>
+</programme>
+<programme start="20210505070000 +0000" stop="20210505110000 +0000" channel="ASSEMBLEENATIONALE(CFCableTV)(French).ca">
+<title lang="fr-CA" >Assemblée nationale du Québec</title>
+<desc lang="fr-CA">Assemblée nationale du Québec en direct.</desc>
+</programme>
+<programme start="20210505110000 +0000" stop="20210505150000 +0000" channel="ASSEMBLEENATIONALE(CFCableTV)(French).ca">
+<title lang="fr-CA" >Assemblée nationale du Québec</title>
+<desc lang="fr-CA">Assemblée nationale du Québec en direct.</desc>
+</programme>
+<programme start="20210505150000 +0000" stop="20210505190000 +0000" channel="ASSEMBLEENATIONALE(CFCableTV)(French).ca">
+<title lang="fr-CA" >Assemblée nationale du Québec</title>
+<desc lang="fr-CA">Assemblée nationale du Québec en direct.</desc>
+</programme>
+<programme start="20210505190000 +0000" stop="20210505230000 +0000" channel="ASSEMBLEENATIONALE(CFCableTV)(French).ca">
+<title lang="fr-CA" >Assemblée nationale du Québec</title>
+<desc lang="fr-CA">Assemblée nationale du Québec en direct.</desc>
+</programme>
+<programme start="20210505230000 +0000" stop="20210506030000 +0000" channel="ASSEMBLEENATIONALE(CFCableTV)(French).ca">
+<title lang="fr-CA" >Assemblée nationale du Québec</title>
+<desc lang="fr-CA">Assemblée nationale du Québec en direct.</desc>
+</programme>
+<programme start="20210506030000 +0000" stop="20210506070000 +0000" channel="ASSEMBLEENATIONALE(CFCableTV)(French).ca">
+<title lang="fr-CA" >Assemblée nationale du Québec</title>
+<desc lang="fr-CA">Assemblée nationale du Québec en direct.</desc>
+</programme>
+<programme start="20210506070000 +0000" stop="20210506110000 +0000" channel="ASSEMBLEENATIONALE(CFCableTV)(French).ca">
+<title lang="fr-CA" >Assemblée nationale du Québec</title>
+<desc lang="fr-CA">Assemblée nationale du Québec en direct.</desc>
+</programme>
+<programme start="20210506110000 +0000" stop="20210506150000 +0000" channel="ASSEMBLEENATIONALE(CFCableTV)(French).ca">
+<title lang="fr-CA" >Assemblée nationale du Québec</title>
+<desc lang="fr-CA">Assemblée nationale du Québec en direct.</desc>
+</programme>
+<programme start="20210506150000 +0000" stop="20210506190000 +0000" channel="ASSEMBLEENATIONALE(CFCableTV)(French).ca">
+<title lang="fr-CA" >Assemblée nationale du Québec</title>
+<desc lang="fr-CA">Assemblée nationale du Québec en direct.</desc>
+</programme>
+<programme start="20210506190000 +0000" stop="20210506230000 +0000" channel="ASSEMBLEENATIONALE(CFCableTV)(French).ca">
+<title lang="fr-CA" >Assemblée nationale du Québec</title>
+<desc lang="fr-CA">Assemblée nationale du Québec en direct.</desc>
+</programme>
+<programme start="20210506230000 +0000" stop="20210507030000 +0000" channel="ASSEMBLEENATIONALE(CFCableTV)(French).ca">
+<title lang="fr-CA" >Assemblée nationale du Québec</title>
+<desc lang="fr-CA">Assemblée nationale du Québec en direct.</desc>
+</programme>
+<programme start="20210505000000 +0000" stop="20210505003000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Tonight</title>
+<desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+</programme>
+<programme start="20210505003000 +0000" stop="20210505010000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Tonight</title>
+<desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+</programme>
+<programme start="20210505010000 +0000" stop="20210505013000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Tonight</title>
+<desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+</programme>
+<programme start="20210505013000 +0000" stop="20210505020000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Tonight</title>
+<desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+</programme>
+<programme start="20210505020000 +0000" stop="20210505023000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Tonight</title>
+<desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+</programme>
+<programme start="20210505023000 +0000" stop="20210505030000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Tonight</title>
+<desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+</programme>
+<programme start="20210505030000 +0000" stop="20210505033000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Tonight</title>
+<desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+</programme>
+<programme start="20210505033000 +0000" stop="20210505040000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Tonight</title>
+<desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+</programme>
+<programme start="20210505040000 +0000" stop="20210505043000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Tonight</title>
+<desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+</programme>
+<programme start="20210505043000 +0000" stop="20210505050000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Tonight</title>
+<desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+</programme>
+<programme start="20210505050000 +0000" stop="20210505060000 +0000" channel="EuroNews.us">
+<title lang="en" >Good Morning Europe</title>
+<desc lang="en">Breaking news, analysis and social media reporting on the biggest stories affecting Europe and the world.</desc>
+</programme>
+<programme start="20210505060000 +0000" stop="20210505070000 +0000" channel="EuroNews.us">
+<title lang="en" >Good Morning Europe</title>
+<desc lang="en">Breaking news, analysis and social media reporting on the biggest stories affecting Europe and the world.</desc>
+</programme>
+<programme start="20210505070000 +0000" stop="20210505080000 +0000" channel="EuroNews.us">
+<title lang="en" >Good Morning Europe</title>
+<desc lang="en">Breaking news, analysis and social media reporting on the biggest stories affecting Europe and the world.</desc>
+</programme>
+<programme start="20210505080000 +0000" stop="20210505090000 +0000" channel="EuroNews.us">
+<title lang="en" >Good Morning Europe</title>
+<desc lang="en">Breaking news, analysis and social media reporting on the biggest stories affecting Europe and the world.</desc>
+</programme>
+<programme start="20210505090000 +0000" stop="20210505100000 +0000" channel="EuroNews.us">
+<title lang="en" >Good Morning Europe</title>
+<desc lang="en">Breaking news, analysis and social media reporting on the biggest stories affecting Europe and the world.</desc>
+</programme>
+<programme start="20210505100000 +0000" stop="20210505103000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Now</title>
+<desc lang="en">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world.</desc>
+</programme>
+<programme start="20210505103000 +0000" stop="20210505110000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Now</title>
+<desc lang="en">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world.</desc>
+</programme>
+<programme start="20210505110000 +0000" stop="20210505113000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Now</title>
+<desc lang="en">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world.</desc>
+</programme>
+<programme start="20210505113000 +0000" stop="20210505120000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Now</title>
+<desc lang="en">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world.</desc>
+</programme>
+<programme start="20210505120000 +0000" stop="20210505123000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Now</title>
+<desc lang="en">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world.</desc>
+</programme>
+<programme start="20210505123000 +0000" stop="20210505130000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Now</title>
+<desc lang="en">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world.</desc>
+</programme>
+<programme start="20210505130000 +0000" stop="20210505133000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Now</title>
+<desc lang="en">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world.</desc>
+</programme>
+<programme start="20210505133000 +0000" stop="20210505140000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Now</title>
+<desc lang="en">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world.</desc>
+</programme>
+<programme start="20210505140000 +0000" stop="20210505143000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Now</title>
+<desc lang="en">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world.</desc>
+</programme>
+<programme start="20210505143000 +0000" stop="20210505150000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Now</title>
+<desc lang="en">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world.</desc>
+</programme>
+<programme start="20210505150000 +0000" stop="20210505153000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Now</title>
+<desc lang="en">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world.</desc>
+</programme>
+<programme start="20210505153000 +0000" stop="20210505160000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Now</title>
+<desc lang="en">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world.</desc>
+</programme>
+<programme start="20210505160000 +0000" stop="20210505163000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Tonight</title>
+<desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+</programme>
+<programme start="20210505163000 +0000" stop="20210505170000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Tonight</title>
+<desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+</programme>
+<programme start="20210505170000 +0000" stop="20210505173000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Tonight</title>
+<desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+</programme>
+<programme start="20210505173000 +0000" stop="20210505180000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Tonight</title>
+<desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+</programme>
+<programme start="20210505180000 +0000" stop="20210505183000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Tonight</title>
+<desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+</programme>
+<programme start="20210505183000 +0000" stop="20210505190000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Tonight</title>
+<desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+</programme>
+<programme start="20210505190000 +0000" stop="20210505193000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Tonight</title>
+<desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+</programme>
+<programme start="20210505193000 +0000" stop="20210505200000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Tonight</title>
+<desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+</programme>
+<programme start="20210505200000 +0000" stop="20210505203000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Tonight</title>
+<desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+</programme>
+<programme start="20210505203000 +0000" stop="20210505210000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Tonight</title>
+<desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+</programme>
+<programme start="20210505210000 +0000" stop="20210505213000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Tonight</title>
+<desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+</programme>
+<programme start="20210505213000 +0000" stop="20210505220000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Tonight</title>
+<desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+</programme>
+<programme start="20210505220000 +0000" stop="20210505223000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Tonight</title>
+<desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+</programme>
+<programme start="20210505223000 +0000" stop="20210505230000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Tonight</title>
+<desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+</programme>
+<programme start="20210505230000 +0000" stop="20210505233000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Tonight</title>
+<desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+</programme>
+<programme start="20210505233000 +0000" stop="20210506000000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Tonight</title>
+<desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+</programme>
+<programme start="20210506000000 +0000" stop="20210506003000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Tonight</title>
+<desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+</programme>
+<programme start="20210506003000 +0000" stop="20210506010000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Tonight</title>
+<desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+</programme>
+<programme start="20210506010000 +0000" stop="20210506013000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Tonight</title>
+<desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+</programme>
+<programme start="20210506013000 +0000" stop="20210506020000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Tonight</title>
+<desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+</programme>
+<programme start="20210506020000 +0000" stop="20210506023000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Tonight</title>
+<desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+</programme>
+<programme start="20210506023000 +0000" stop="20210506030000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Tonight</title>
+<desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+</programme>
+<programme start="20210506030000 +0000" stop="20210506033000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Tonight</title>
+<desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+</programme>
+<programme start="20210506033000 +0000" stop="20210506040000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Tonight</title>
+<desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+</programme>
+<programme start="20210506040000 +0000" stop="20210506043000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Tonight</title>
+<desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+</programme>
+<programme start="20210506043000 +0000" stop="20210506050000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Tonight</title>
+<desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+</programme>
+<programme start="20210506050000 +0000" stop="20210506060000 +0000" channel="EuroNews.us">
+<title lang="en" >Good Morning Europe</title>
+<desc lang="en">Breaking news, analysis and social media reporting on the biggest stories affecting Europe and the world.</desc>
+</programme>
+<programme start="20210506060000 +0000" stop="20210506070000 +0000" channel="EuroNews.us">
+<title lang="en" >Good Morning Europe</title>
+<desc lang="en">Breaking news, analysis and social media reporting on the biggest stories affecting Europe and the world.</desc>
+</programme>
+<programme start="20210506070000 +0000" stop="20210506080000 +0000" channel="EuroNews.us">
+<title lang="en" >Good Morning Europe</title>
+<desc lang="en">Breaking news, analysis and social media reporting on the biggest stories affecting Europe and the world.</desc>
+</programme>
+<programme start="20210506080000 +0000" stop="20210506090000 +0000" channel="EuroNews.us">
+<title lang="en" >Good Morning Europe</title>
+<desc lang="en">Breaking news, analysis and social media reporting on the biggest stories affecting Europe and the world.</desc>
+</programme>
+<programme start="20210506090000 +0000" stop="20210506100000 +0000" channel="EuroNews.us">
+<title lang="en" >Good Morning Europe</title>
+<desc lang="en">Breaking news, analysis and social media reporting on the biggest stories affecting Europe and the world.</desc>
+</programme>
+<programme start="20210506100000 +0000" stop="20210506103000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Now</title>
+<desc lang="en">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world.</desc>
+</programme>
+<programme start="20210506103000 +0000" stop="20210506110000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Now</title>
+<desc lang="en">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world.</desc>
+</programme>
+<programme start="20210506110000 +0000" stop="20210506113000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Now</title>
+<desc lang="en">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world.</desc>
+</programme>
+<programme start="20210506113000 +0000" stop="20210506120000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Now</title>
+<desc lang="en">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world.</desc>
+</programme>
+<programme start="20210506120000 +0000" stop="20210506123000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Now</title>
+<desc lang="en">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world.</desc>
+</programme>
+<programme start="20210506123000 +0000" stop="20210506130000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Now</title>
+<desc lang="en">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world.</desc>
+</programme>
+<programme start="20210506130000 +0000" stop="20210506133000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Now</title>
+<desc lang="en">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world.</desc>
+</programme>
+<programme start="20210506133000 +0000" stop="20210506140000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Now</title>
+<desc lang="en">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world.</desc>
+</programme>
+<programme start="20210506140000 +0000" stop="20210506143000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Now</title>
+<desc lang="en">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world.</desc>
+</programme>
+<programme start="20210506143000 +0000" stop="20210506150000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Now</title>
+<desc lang="en">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world.</desc>
+</programme>
+<programme start="20210506150000 +0000" stop="20210506153000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Now</title>
+<desc lang="en">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world.</desc>
+</programme>
+<programme start="20210506153000 +0000" stop="20210506160000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Now</title>
+<desc lang="en">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world.</desc>
+</programme>
+<programme start="20210506160000 +0000" stop="20210506163000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Tonight</title>
+<desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+</programme>
+<programme start="20210506163000 +0000" stop="20210506170000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Tonight</title>
+<desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+</programme>
+<programme start="20210506170000 +0000" stop="20210506173000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Tonight</title>
+<desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+</programme>
+<programme start="20210506173000 +0000" stop="20210506180000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Tonight</title>
+<desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+</programme>
+<programme start="20210506180000 +0000" stop="20210506183000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Tonight</title>
+<desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+</programme>
+<programme start="20210506183000 +0000" stop="20210506190000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Tonight</title>
+<desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+</programme>
+<programme start="20210506190000 +0000" stop="20210506193000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Tonight</title>
+<desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+</programme>
+<programme start="20210506193000 +0000" stop="20210506200000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Tonight</title>
+<desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+</programme>
+<programme start="20210506200000 +0000" stop="20210506203000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Tonight</title>
+<desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+</programme>
+<programme start="20210506203000 +0000" stop="20210506210000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Tonight</title>
+<desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+</programme>
+<programme start="20210506210000 +0000" stop="20210506213000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Tonight</title>
+<desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+</programme>
+<programme start="20210506213000 +0000" stop="20210506220000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Tonight</title>
+<desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+</programme>
+<programme start="20210506220000 +0000" stop="20210506223000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Tonight</title>
+<desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+</programme>
+<programme start="20210506223000 +0000" stop="20210506230000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Tonight</title>
+<desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+</programme>
+<programme start="20210506230000 +0000" stop="20210506233000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Tonight</title>
+<desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+</programme>
+<programme start="20210506233000 +0000" stop="20210507000000 +0000" channel="EuroNews.us">
+<title lang="en" >Euronews Tonight</title>
+<desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+</programme>
+<programme start="20210505000000 +0000" stop="20210505001500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210505001500 +0000" stop="20210505003000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >L'entretien de l'intelligence économique</title>
+<desc lang="fr-CA, fr-FR">En ouverture sur l'émission `Intelligence économique', Ali Laïdi reçoit un invité.</desc>
+</programme>
+<programme start="20210505003000 +0000" stop="20210505004500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210505004500 +0000" stop="20210505010000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Express Orient</title>
+<desc lang="fr-CA, fr-FR">Le point sur l'actualité politico-sociétale au Moyen-Orient avec les reportages de nos correspondants et le point de vue d'un chroniqueur de la rédaction.</desc>
+</programme>
+<programme start="20210505010000 +0000" stop="20210505011200 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210505011200 +0000" stop="20210505013000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le débat face à face</title>
+<desc lang="fr-CA, fr-FR">Émission de débat autour d'un sujet d'actualité.</desc>
+</programme>
+<programme start="20210505013000 +0000" stop="20210505014200 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210505014200 +0000" stop="20210505015400 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Actuelles</title>
+<desc lang="fr-CA, fr-FR">Magazine d'actualité.</desc>
+</programme>
+<programme start="20210505015400 +0000" stop="20210505020000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Focus</title>
+<desc lang="fr-CA, fr-FR">Un reportage long format est décrypté par son auteur et le présentateur de la tranche d'information.</desc>
+</programme>
+<programme start="20210505020000 +0000" stop="20210505021500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210505021500 +0000" stop="20210505023000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Correspondances</title>
+<desc lang="fr-CA, fr-FR">Ce magazine vous amène dans des escales à la rencontre de genevois installés à l'étranger pour partager des expériences et découvrir une destination autrement.</desc>
+</programme>
+<programme start="20210505023000 +0000" stop="20210505024500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210505024500 +0000" stop="20210505030000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >A l'affiche</title>
+<desc lang="fr-CA, fr-FR">Magazine d'information.</desc>
+</programme>
+<programme start="20210505030000 +0000" stop="20210505031500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210505031500 +0000" stop="20210505033000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Express Orient</title>
+<desc lang="fr-CA, fr-FR">Le point sur l'actualité politico-sociétale au Moyen-Orient avec les reportages de nos correspondants et le point de vue d'un chroniqueur de la rédaction.</desc>
+</programme>
+<programme start="20210505033000 +0000" stop="20210505034500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210505034500 +0000" stop="20210505040000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal de l'Afrique</title>
+<desc lang="fr-CA, fr-FR">Toute l'actualité en Afrique.</desc>
+</programme>
+<programme start="20210505040000 +0000" stop="20210505042000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210505042000 +0000" stop="20210505043000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >L'info Eco</title>
+<desc lang="fr-CA, fr-FR">Nos chroniqueurs éco vous donnent les clés pour comprendre l'actualité économique en France et à l'étranger.</desc>
+</programme>
+<programme start="20210505043000 +0000" stop="20210505044900 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210505044900 +0000" stop="20210505045400 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Sports</title>
+<desc lang="fr-CA, fr-FR">Magazine tout en images résumant toute l'actualité du sport mondial, sur et en dehors des terrains.</desc>
+</programme>
+<programme start="20210505045400 +0000" stop="20210505050000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le rappel des titres</title>
+<desc lang="fr-CA, fr-FR">Magazine qui vous partage tous les rappels d'actualités du monde et du moment.</desc>
+</programme>
+<programme start="20210505050000 +0000" stop="20210505051500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210505051500 +0000" stop="20210505051600 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le rappel des titres</title>
+<desc lang="fr-CA, fr-FR">Magazine qui vous partage tous les rappels d'actualités du monde et du moment.</desc>
+</programme>
+<programme start="20210505051600 +0000" stop="20210505052100 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Dans La Presse</title>
+<desc lang="fr-CA, fr-FR">La chaîne vous propose ce magazine d'information.</desc>
+</programme>
+<programme start="20210505052100 +0000" stop="20210505053000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Reportages</title>
+<desc lang="fr-CA, fr-FR">Les quatre meilleurs reportages longs formats de la semaine écoulée.</desc>
+</programme>
+<programme start="20210505053000 +0000" stop="20210505054000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210505054000 +0000" stop="20210505054500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le décryptage éco</title>
+<desc lang="fr-CA, fr-FR">L'émission décrypte les derniers développements économiques de la journée.</desc>
+</programme>
+<programme start="20210505054500 +0000" stop="20210505054600 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le rappel des titres</title>
+<desc lang="fr-CA, fr-FR">Magazine qui vous partage tous les rappels d'actualités du monde et du moment.</desc>
+</programme>
+<programme start="20210505054600 +0000" stop="20210505055100 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >L'info Eco</title>
+<desc lang="fr-CA, fr-FR">Nos chroniqueurs éco vous donnent les clés pour comprendre l'actualité économique en France et à l'étranger.</desc>
+</programme>
+<programme start="20210505055100 +0000" stop="20210505060000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Focus</title>
+<desc lang="fr-CA, fr-FR">Un reportage long format est décrypté par son auteur et le présentateur de la tranche d'information.</desc>
+</programme>
+<programme start="20210505060000 +0000" stop="20210505061500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210505061500 +0000" stop="20210505061600 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le rappel des titres</title>
+<desc lang="fr-CA, fr-FR">Magazine qui vous partage tous les rappels d'actualités du monde et du moment.</desc>
+</programme>
+<programme start="20210505061600 +0000" stop="20210505063000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >l'invité du jour</title>
+<desc lang="fr-CA, fr-FR">Un grand acteur de l'économie française ou internationale revient sur l'actualité économique.</desc>
+</programme>
+<programme start="20210505063000 +0000" stop="20210505063900 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210505063900 +0000" stop="20210505064400 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le décryptage éco</title>
+<desc lang="fr-CA, fr-FR">L'émission décrypte les derniers développements économiques de la journée.</desc>
+</programme>
+<programme start="20210505064400 +0000" stop="20210505064500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le rappel des titres</title>
+<desc lang="fr-CA, fr-FR">Magazine qui vous partage tous les rappels d'actualités du monde et du moment.</desc>
+</programme>
+<programme start="20210505064500 +0000" stop="20210505065000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Focus</title>
+<desc lang="fr-CA, fr-FR">Un reportage long format est décrypté par son auteur et le présentateur de la tranche d'information.</desc>
+</programme>
+<programme start="20210505065000 +0000" stop="20210505065400 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Sports</title>
+<desc lang="fr-CA, fr-FR">Magazine tout en images résumant toute l'actualité du sport mondial, sur et en dehors des terrains.</desc>
+</programme>
+<programme start="20210505065400 +0000" stop="20210505070000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le rappel des titres</title>
+<desc lang="fr-CA, fr-FR">Magazine qui vous partage tous les rappels d'actualités du monde et du moment.</desc>
+</programme>
+<programme start="20210505070000 +0000" stop="20210505071400 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210505071400 +0000" stop="20210505071500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le rappel des titres</title>
+<desc lang="fr-CA, fr-FR">Magazine qui vous partage tous les rappels d'actualités du monde et du moment.</desc>
+</programme>
+<programme start="20210505071500 +0000" stop="20210505072000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >L'info Eco</title>
+<desc lang="fr-CA, fr-FR">Nos chroniqueurs éco vous donnent les clés pour comprendre l'actualité économique en France et à l'étranger.</desc>
+</programme>
+<programme start="20210505072000 +0000" stop="20210505073000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Dans La Presse</title>
+<desc lang="fr-CA, fr-FR">La chaîne vous propose ce magazine d'information.</desc>
+</programme>
+<programme start="20210505073000 +0000" stop="20210505074500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210505074500 +0000" stop="20210505074600 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le rappel des titres</title>
+<desc lang="fr-CA, fr-FR">Magazine qui vous partage tous les rappels d'actualités du monde et du moment.</desc>
+</programme>
+<programme start="20210505074600 +0000" stop="20210505075000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >A La Carte</title>
+<desc lang="fr-CA, fr-FR">Les meilleures recettes des plus grands chefs du monde.</desc>
+</programme>
+<programme start="20210505075000 +0000" stop="20210505080000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Sports</title>
+<desc lang="fr-CA, fr-FR">Magazine tout en images résumant toute l'actualité du sport mondial, sur et en dehors des terrains.</desc>
+</programme>
+<programme start="20210505080000 +0000" stop="20210505081500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210505081500 +0000" stop="20210505083000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >C'est en France</title>
+<desc lang="fr-CA, fr-FR">Chaque semaine, un décryptage de ce qui fait l'actualité en France : société, politique ou culture. Avec des reportages et des interviews pour mieux comprendre le quotidien des Français.</desc>
+</programme>
+<programme start="20210505083000 +0000" stop="20210505084600 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210505084600 +0000" stop="20210505085100 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Focus</title>
+<desc lang="fr-CA, fr-FR">Un reportage long format est décrypté par son auteur et le présentateur de la tranche d'information.</desc>
+</programme>
+<programme start="20210505085100 +0000" stop="20210505090000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Sports</title>
+<desc lang="fr-CA, fr-FR">Magazine tout en images résumant toute l'actualité du sport mondial, sur et en dehors des terrains.</desc>
+</programme>
+<programme start="20210505090000 +0000" stop="20210505091000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210505091000 +0000" stop="20210505093000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Billet Retour</title>
+<desc lang="fr-CA, fr-FR">Les reporters et les correspondants de `FRANCE 24' reviennent dans des métropoles traumatisées à jamais par des guerres, des catastrophes naturelles ou industrielles pour témoigner de la vie de leurs habitants aujourd'hui.</desc>
+</programme>
+<programme start="20210505093000 +0000" stop="20210505094000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210505094000 +0000" stop="20210505100000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Face à Face</title>
+<desc lang="fr-CA, fr-FR">Autour de Roselyne, deux experts de la scène politique française croisent le fer sur l'actualité des partis et des candidats.</desc>
+</programme>
+<programme start="20210505100000 +0000" stop="20210505101500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210505101500 +0000" stop="20210505103000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >A l'affiche</title>
+<desc lang="fr-CA, fr-FR">Magazine d'information.</desc>
+</programme>
+<programme start="20210505103000 +0000" stop="20210505104500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210505104500 +0000" stop="20210505110000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Express Orient</title>
+<desc lang="fr-CA, fr-FR">Le point sur l'actualité politico-sociétale au Moyen-Orient avec les reportages de nos correspondants et le point de vue d'un chroniqueur de la rédaction.</desc>
+</programme>
+<programme start="20210505110000 +0000" stop="20210505111400 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210505111400 +0000" stop="20210505111500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le rappel des titres</title>
+<desc lang="fr-CA, fr-FR">Magazine qui vous partage tous les rappels d'actualités du monde et du moment.</desc>
+</programme>
+<programme start="20210505111500 +0000" stop="20210505112000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >l'invité du jour</title>
+<desc lang="fr-CA, fr-FR">Un grand acteur de l'économie française ou internationale revient sur l'actualité économique.</desc>
+</programme>
+<programme start="20210505112000 +0000" stop="20210505113000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Sports</title>
+<desc lang="fr-CA, fr-FR">Magazine tout en images résumant toute l'actualité du sport mondial, sur et en dehors des terrains.</desc>
+</programme>
+<programme start="20210505113000 +0000" stop="20210505114500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210505114500 +0000" stop="20210505114600 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le rappel des titres</title>
+<desc lang="fr-CA, fr-FR">Magazine qui vous partage tous les rappels d'actualités du monde et du moment.</desc>
+</programme>
+<programme start="20210505114600 +0000" stop="20210505115100 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >La chronique du Jour</title>
+<desc lang="fr-CA, fr-FR">Nos chroniqueurs passent en revue la presse française et inernationale du jour.</desc>
+</programme>
+<programme start="20210505115100 +0000" stop="20210505120000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Extrait Magazine</title>
+<desc lang="fr-CA, fr-FR">Journal d'informations en direct.</desc>
+</programme>
+<programme start="20210505120000 +0000" stop="20210505122000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210505122000 +0000" stop="20210505122100 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le rappel des titres</title>
+<desc lang="fr-CA, fr-FR">Magazine qui vous partage tous les rappels d'actualités du monde et du moment.</desc>
+</programme>
+<programme start="20210505122100 +0000" stop="20210505123000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Focus</title>
+<desc lang="fr-CA, fr-FR">Un reportage long format est décrypté par son auteur et le présentateur de la tranche d'information.</desc>
+</programme>
+<programme start="20210505123000 +0000" stop="20210505124400 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210505124400 +0000" stop="20210505124500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le rappel des titres</title>
+<desc lang="fr-CA, fr-FR">Magazine qui vous partage tous les rappels d'actualités du monde et du moment.</desc>
+</programme>
+<programme start="20210505124500 +0000" stop="20210505125000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Chronique Culture</title>
+<desc lang="fr-CA, fr-FR">Émission consacrée à la culture.</desc>
+</programme>
+<programme start="20210505125000 +0000" stop="20210505130000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Sports</title>
+<desc lang="fr-CA, fr-FR">Magazine tout en images résumant toute l'actualité du sport mondial, sur et en dehors des terrains.</desc>
+</programme>
+<programme start="20210505130000 +0000" stop="20210505131500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210505131500 +0000" stop="20210505132100 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Élément Terre</title>
+<desc lang="fr-CA, fr-FR">L'émission de `FRANCE 24' dédiée au développement durable. Marina Bertsch sillonne la planète à la rencontre de femmes et d'hommes engagés en faveur du développement durable.</desc>
+</programme>
+<programme start="20210505132100 +0000" stop="20210505133000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Pas 2 quartier</title>
+<desc lang="fr-CA, fr-FR">Deux journalistes partent à la rencontre des habitants dans les banlieues françaises. Objectif : les écouter et lancer des collaborations, afin de proposer des reportages fabriqués avec les résidents, qui collent au plus près de leur réalité.</desc>
+</programme>
+<programme start="20210505133000 +0000" stop="20210505134500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210505134500 +0000" stop="20210505140000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Express Orient</title>
+<desc lang="fr-CA, fr-FR">Le point sur l'actualité politico-sociétale au Moyen-Orient avec les reportages de nos correspondants et le point de vue d'un chroniqueur de la rédaction.</desc>
+</programme>
+<programme start="20210505140000 +0000" stop="20210505141000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210505141000 +0000" stop="20210505143000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le Paris des Arts</title>
+<desc lang="fr-CA, fr-FR">Magazine.</desc>
+</programme>
+<programme start="20210505143000 +0000" stop="20210505144000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210505144000 +0000" stop="20210505145200 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Face à Face</title>
+<desc lang="fr-CA, fr-FR">Autour de Roselyne, deux experts de la scène politique française croisent le fer sur l'actualité des partis et des candidats.</desc>
+</programme>
+<programme start="20210505145200 +0000" stop="20210505150000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Les Observateurs</title>
+<desc lang="fr-CA, fr-FR">Emission entièrement réalisée à partir de contenus amateurs. Photos, vidéos, témoignages : tout vient de nos observateurs, aux quatre coins du monde, et tout a été vérifié par nos journalistes.</desc>
+</programme>
+<programme start="20210505150000 +0000" stop="20210505151500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210505151500 +0000" stop="20210505153000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >A l'affiche</title>
+<desc lang="fr-CA, fr-FR">Magazine d'information.</desc>
+</programme>
+<programme start="20210505153000 +0000" stop="20210505154500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210505154500 +0000" stop="20210505160000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Cap Amériques</title>
+<desc lang="fr-CA, fr-FR">Actualité et news en Amérique, Etats-Unis, Mexique, Brésil, Canada, Argentine. Info politique, news sur l'actualité économique américaine, reportages et débats.</desc>
+</programme>
+<programme start="20210505160000 +0000" stop="20210505161500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210505161500 +0000" stop="20210505161600 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le rappel des titres</title>
+<desc lang="fr-CA, fr-FR">Magazine qui vous partage tous les rappels d'actualités du monde et du moment.</desc>
+</programme>
+<programme start="20210505161600 +0000" stop="20210505163000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le fait du jour</title>
+<desc lang="fr-CA, fr-FR">Retour sur les faits marquants de l'actualité de la journée.</desc>
+</programme>
+<programme start="20210505163000 +0000" stop="20210505164000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210505164000 +0000" stop="20210505164100 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le rappel des titres</title>
+<desc lang="fr-CA, fr-FR">Magazine qui vous partage tous les rappels d'actualités du monde et du moment.</desc>
+</programme>
+<programme start="20210505164100 +0000" stop="20210505164600 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Économie</title>
+<desc lang="fr-CA, fr-FR">Pour tout savoir sur l'actualité économique du jour, le cours des principales devises mondiales et tous les mouvements dans la planète-finance.</desc>
+</programme>
+<programme start="20210505164600 +0000" stop="20210505165100 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Sports</title>
+<desc lang="fr-CA, fr-FR">Magazine tout en images résumant toute l'actualité du sport mondial, sur et en dehors des terrains.</desc>
+</programme>
+<programme start="20210505165100 +0000" stop="20210505170000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Focus</title>
+<desc lang="fr-CA, fr-FR">Un reportage long format est décrypté par son auteur et le présentateur de la tranche d'information.</desc>
+</programme>
+<programme start="20210505170000 +0000" stop="20210505171000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210505171000 +0000" stop="20210505173000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le débat</title>
+<desc lang="fr-CA, fr-FR">Raphaël Kahane et ses invités débattent, commentent et analysent le grand sujet d'actualité du jour.</desc>
+</programme>
+<programme start="20210505173000 +0000" stop="20210505173200 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Flash</title>
+<desc lang="fr-CA, fr-FR">Un point sur l'actualité en quelques minutes.</desc>
+</programme>
+<programme start="20210505173200 +0000" stop="20210505175200 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le débat</title>
+<desc lang="fr-CA, fr-FR">Raphaël Kahane et ses invités débattent, commentent et analysent le grand sujet d'actualité du jour.</desc>
+</programme>
+<programme start="20210505175200 +0000" stop="20210505180000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Focus</title>
+<desc lang="fr-CA, fr-FR">Un reportage long format est décrypté par son auteur et le présentateur de la tranche d'information.</desc>
+</programme>
+<programme start="20210505180000 +0000" stop="20210505181400 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210505181400 +0000" stop="20210505181500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le rappel des titres</title>
+<desc lang="fr-CA, fr-FR">Magazine qui vous partage tous les rappels d'actualités du monde et du moment.</desc>
+</programme>
+<programme start="20210505181500 +0000" stop="20210505182000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Économie</title>
+<desc lang="fr-CA, fr-FR">Pour tout savoir sur l'actualité économique du jour, le cours des principales devises mondiales et tous les mouvements dans la planète-finance.</desc>
+</programme>
+<programme start="20210505182000 +0000" stop="20210505183000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Sports</title>
+<desc lang="fr-CA, fr-FR">Magazine tout en images résumant toute l'actualité du sport mondial, sur et en dehors des terrains.</desc>
+</programme>
+<programme start="20210505183000 +0000" stop="20210505184400 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210505184400 +0000" stop="20210505184500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le rappel des titres</title>
+<desc lang="fr-CA, fr-FR">Magazine qui vous partage tous les rappels d'actualités du monde et du moment.</desc>
+</programme>
+<programme start="20210505184500 +0000" stop="20210505185000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Un Oeil Sur Les Medias</title>
+<desc lang="fr-CA, fr-FR">Karim Yahiaoui sélectionne les histoires incontournables et édifiantes glanées sur le web, les réseaux sociaux ou les médias traditionnels.</desc>
+</programme>
+<programme start="20210505185000 +0000" stop="20210505190000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Focus</title>
+<desc lang="fr-CA, fr-FR">Un reportage long format est décrypté par son auteur et le présentateur de la tranche d'information.</desc>
+</programme>
+<programme start="20210505190000 +0000" stop="20210505191900 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210505191900 +0000" stop="20210505192000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le rappel des titres</title>
+<desc lang="fr-CA, fr-FR">Magazine qui vous partage tous les rappels d'actualités du monde et du moment.</desc>
+</programme>
+<programme start="20210505192000 +0000" stop="20210505193000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Économie</title>
+<desc lang="fr-CA, fr-FR">Pour tout savoir sur l'actualité économique du jour, le cours des principales devises mondiales et tous les mouvements dans la planète-finance.</desc>
+</programme>
+<programme start="20210505193000 +0000" stop="20210505193600 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210505193600 +0000" stop="20210505194200 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Extrait Magazine</title>
+<desc lang="fr-CA, fr-FR">Journal d'informations en direct.</desc>
+</programme>
+<programme start="20210505194200 +0000" stop="20210505200000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal de l'Afrique</title>
+<desc lang="fr-CA, fr-FR">Toute l'actualité en Afrique.</desc>
+</programme>
+<programme start="20210505200000 +0000" stop="20210505201400 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210505201400 +0000" stop="20210505201500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le rappel des titres</title>
+<desc lang="fr-CA, fr-FR">Magazine qui vous partage tous les rappels d'actualités du monde et du moment.</desc>
+</programme>
+<programme start="20210505201500 +0000" stop="20210505202000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Économie</title>
+<desc lang="fr-CA, fr-FR">Pour tout savoir sur l'actualité économique du jour, le cours des principales devises mondiales et tous les mouvements dans la planète-finance.</desc>
+</programme>
+<programme start="20210505202000 +0000" stop="20210505203000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Un Oeil Sur Les Medias</title>
+<desc lang="fr-CA, fr-FR">Karim Yahiaoui sélectionne les histoires incontournables et édifiantes glanées sur le web, les réseaux sociaux ou les médias traditionnels.</desc>
+</programme>
+<programme start="20210505203000 +0000" stop="20210505203600 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210505203600 +0000" stop="20210505204000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Extrait Magazine</title>
+<desc lang="fr-CA, fr-FR">Journal d'informations en direct.</desc>
+</programme>
+<programme start="20210505204000 +0000" stop="20210505204400 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le rappel des titres</title>
+<desc lang="fr-CA, fr-FR">Magazine qui vous partage tous les rappels d'actualités du monde et du moment.</desc>
+</programme>
+<programme start="20210505204400 +0000" stop="20210505210000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal de l'Afrique</title>
+<desc lang="fr-CA, fr-FR">Toute l'actualité en Afrique.</desc>
+</programme>
+<programme start="20210505210000 +0000" stop="20210505211400 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210505211400 +0000" stop="20210505211500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le rappel des titres</title>
+<desc lang="fr-CA, fr-FR">Magazine qui vous partage tous les rappels d'actualités du monde et du moment.</desc>
+</programme>
+<programme start="20210505211500 +0000" stop="20210505213000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Economie - un oeil sur les médias</title>
+<desc lang="fr-CA, fr-FR">Retour sur l'économie à travers les médias.</desc>
+</programme>
+<programme start="20210505213000 +0000" stop="20210505214500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210505214500 +0000" stop="20210505214600 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le rappel des titres</title>
+<desc lang="fr-CA, fr-FR">Magazine qui vous partage tous les rappels d'actualités du monde et du moment.</desc>
+</programme>
+<programme start="20210505214600 +0000" stop="20210505215100 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Sports</title>
+<desc lang="fr-CA, fr-FR">Magazine tout en images résumant toute l'actualité du sport mondial, sur et en dehors des terrains.</desc>
+</programme>
+<programme start="20210505215100 +0000" stop="20210505220000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Focus</title>
+<desc lang="fr-CA, fr-FR">Un reportage long format est décrypté par son auteur et le présentateur de la tranche d'information.</desc>
+</programme>
+<programme start="20210505220000 +0000" stop="20210505221100 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210505221100 +0000" stop="20210505223000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le débat</title>
+<desc lang="fr-CA, fr-FR">Raphaël Kahane et ses invités débattent, commentent et analysent le grand sujet d'actualité du jour.</desc>
+</programme>
+<programme start="20210505223000 +0000" stop="20210505223200 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Flash</title>
+<desc lang="fr-CA, fr-FR">Un point sur l'actualité en quelques minutes.</desc>
+</programme>
+<programme start="20210505223200 +0000" stop="20210505225200 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le débat</title>
+<desc lang="fr-CA, fr-FR">Raphaël Kahane et ses invités débattent, commentent et analysent le grand sujet d'actualité du jour.</desc>
+</programme>
+<programme start="20210505225200 +0000" stop="20210505230000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Focus</title>
+<desc lang="fr-CA, fr-FR">Un reportage long format est décrypté par son auteur et le présentateur de la tranche d'information.</desc>
+</programme>
+<programme start="20210505230000 +0000" stop="20210505231500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210505231500 +0000" stop="20210505233000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal de l'Afrique</title>
+<desc lang="fr-CA, fr-FR">Toute l'actualité en Afrique.</desc>
+</programme>
+<programme start="20210505233000 +0000" stop="20210505234500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210505234500 +0000" stop="20210506000000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >A l'affiche</title>
+<desc lang="fr-CA, fr-FR">Magazine d'information.</desc>
+</programme>
+<programme start="20210506000000 +0000" stop="20210506001500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210506001500 +0000" stop="20210506003000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Face à Face</title>
+<desc lang="fr-CA, fr-FR">Autour de Roselyne, deux experts de la scène politique française croisent le fer sur l'actualité des partis et des candidats.</desc>
+</programme>
+<programme start="20210506003000 +0000" stop="20210506004500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210506004500 +0000" stop="20210506010000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Cap Amériques</title>
+<desc lang="fr-CA, fr-FR">Actualité et news en Amérique, Etats-Unis, Mexique, Brésil, Canada, Argentine. Info politique, news sur l'actualité économique américaine, reportages et débats.</desc>
+</programme>
+<programme start="20210506010000 +0000" stop="20210506011100 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210506011100 +0000" stop="20210506013000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le débat</title>
+<desc lang="fr-CA, fr-FR">Raphaël Kahane et ses invités débattent, commentent et analysent le grand sujet d'actualité du jour.</desc>
+</programme>
+<programme start="20210506013000 +0000" stop="20210506013200 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Flash</title>
+<desc lang="fr-CA, fr-FR">Un point sur l'actualité en quelques minutes.</desc>
+</programme>
+<programme start="20210506013200 +0000" stop="20210506015200 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le débat</title>
+<desc lang="fr-CA, fr-FR">Raphaël Kahane et ses invités débattent, commentent et analysent le grand sujet d'actualité du jour.</desc>
+</programme>
+<programme start="20210506015200 +0000" stop="20210506020000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Focus</title>
+<desc lang="fr-CA, fr-FR">Un reportage long format est décrypté par son auteur et le présentateur de la tranche d'information.</desc>
+</programme>
+<programme start="20210506020000 +0000" stop="20210506021000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210506021000 +0000" stop="20210506023000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Billet Retour</title>
+<desc lang="fr-CA, fr-FR">Les reporters et les correspondants de `FRANCE 24' reviennent dans des métropoles traumatisées à jamais par des guerres, des catastrophes naturelles ou industrielles pour témoigner de la vie de leurs habitants aujourd'hui.</desc>
+</programme>
+<programme start="20210506023000 +0000" stop="20210506024000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210506024000 +0000" stop="20210506025200 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >A l'affiche</title>
+<desc lang="fr-CA, fr-FR">Magazine d'information.</desc>
+</programme>
+<programme start="20210506025200 +0000" stop="20210506030000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Mode</title>
+<desc lang="fr-CA, fr-FR">Tout en images, les plus beaux défilés parisiens et les coulisses de la Haute couture.</desc>
+</programme>
+<programme start="20210506030000 +0000" stop="20210506031500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210506031500 +0000" stop="20210506033000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Cap Amériques</title>
+<desc lang="fr-CA, fr-FR">Actualité et news en Amérique, Etats-Unis, Mexique, Brésil, Canada, Argentine. Info politique, news sur l'actualité économique américaine, reportages et débats.</desc>
+</programme>
+<programme start="20210506033000 +0000" stop="20210506034500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210506034500 +0000" stop="20210506040000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal de l'Afrique</title>
+<desc lang="fr-CA, fr-FR">Toute l'actualité en Afrique.</desc>
+</programme>
+<programme start="20210506040000 +0000" stop="20210506042000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210506042000 +0000" stop="20210506043000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >L'info Eco</title>
+<desc lang="fr-CA, fr-FR">Nos chroniqueurs éco vous donnent les clés pour comprendre l'actualité économique en France et à l'étranger.</desc>
+</programme>
+<programme start="20210506043000 +0000" stop="20210506044900 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210506044900 +0000" stop="20210506045400 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Sports</title>
+<desc lang="fr-CA, fr-FR">Magazine tout en images résumant toute l'actualité du sport mondial, sur et en dehors des terrains.</desc>
+</programme>
+<programme start="20210506045400 +0000" stop="20210506050000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le rappel des titres</title>
+<desc lang="fr-CA, fr-FR">Magazine qui vous partage tous les rappels d'actualités du monde et du moment.</desc>
+</programme>
+<programme start="20210506050000 +0000" stop="20210506051500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210506051500 +0000" stop="20210506051600 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le rappel des titres</title>
+<desc lang="fr-CA, fr-FR">Magazine qui vous partage tous les rappels d'actualités du monde et du moment.</desc>
+</programme>
+<programme start="20210506051600 +0000" stop="20210506052100 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Dans La Presse</title>
+<desc lang="fr-CA, fr-FR">La chaîne vous propose ce magazine d'information.</desc>
+</programme>
+<programme start="20210506052100 +0000" stop="20210506053000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Reportages</title>
+<desc lang="fr-CA, fr-FR">Les quatre meilleurs reportages longs formats de la semaine écoulée.</desc>
+</programme>
+<programme start="20210506053000 +0000" stop="20210506054000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210506054000 +0000" stop="20210506054500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le décryptage éco</title>
+<desc lang="fr-CA, fr-FR">L'émission décrypte les derniers développements économiques de la journée.</desc>
+</programme>
+<programme start="20210506054500 +0000" stop="20210506054600 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le rappel des titres</title>
+<desc lang="fr-CA, fr-FR">Magazine qui vous partage tous les rappels d'actualités du monde et du moment.</desc>
+</programme>
+<programme start="20210506054600 +0000" stop="20210506055100 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >L'info Eco</title>
+<desc lang="fr-CA, fr-FR">Nos chroniqueurs éco vous donnent les clés pour comprendre l'actualité économique en France et à l'étranger.</desc>
+</programme>
+<programme start="20210506055100 +0000" stop="20210506060000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Focus</title>
+<desc lang="fr-CA, fr-FR">Un reportage long format est décrypté par son auteur et le présentateur de la tranche d'information.</desc>
+</programme>
+<programme start="20210506060000 +0000" stop="20210506061500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210506061500 +0000" stop="20210506061600 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le rappel des titres</title>
+<desc lang="fr-CA, fr-FR">Magazine qui vous partage tous les rappels d'actualités du monde et du moment.</desc>
+</programme>
+<programme start="20210506061600 +0000" stop="20210506063000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >l'invité du jour</title>
+<desc lang="fr-CA, fr-FR">Un grand acteur de l'économie française ou internationale revient sur l'actualité économique.</desc>
+</programme>
+<programme start="20210506063000 +0000" stop="20210506063900 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210506063900 +0000" stop="20210506064400 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le décryptage éco</title>
+<desc lang="fr-CA, fr-FR">L'émission décrypte les derniers développements économiques de la journée.</desc>
+</programme>
+<programme start="20210506064400 +0000" stop="20210506064500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le rappel des titres</title>
+<desc lang="fr-CA, fr-FR">Magazine qui vous partage tous les rappels d'actualités du monde et du moment.</desc>
+</programme>
+<programme start="20210506064500 +0000" stop="20210506065000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Focus</title>
+<desc lang="fr-CA, fr-FR">Un reportage long format est décrypté par son auteur et le présentateur de la tranche d'information.</desc>
+</programme>
+<programme start="20210506065000 +0000" stop="20210506065400 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Sports</title>
+<desc lang="fr-CA, fr-FR">Magazine tout en images résumant toute l'actualité du sport mondial, sur et en dehors des terrains.</desc>
+</programme>
+<programme start="20210506065400 +0000" stop="20210506070000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le rappel des titres</title>
+<desc lang="fr-CA, fr-FR">Magazine qui vous partage tous les rappels d'actualités du monde et du moment.</desc>
+</programme>
+<programme start="20210506070000 +0000" stop="20210506071400 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210506071400 +0000" stop="20210506071500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le rappel des titres</title>
+<desc lang="fr-CA, fr-FR">Magazine qui vous partage tous les rappels d'actualités du monde et du moment.</desc>
+</programme>
+<programme start="20210506071500 +0000" stop="20210506072000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >L'info Eco</title>
+<desc lang="fr-CA, fr-FR">Nos chroniqueurs éco vous donnent les clés pour comprendre l'actualité économique en France et à l'étranger.</desc>
+</programme>
+<programme start="20210506072000 +0000" stop="20210506073000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Dans La Presse</title>
+<desc lang="fr-CA, fr-FR">La chaîne vous propose ce magazine d'information.</desc>
+</programme>
+<programme start="20210506073000 +0000" stop="20210506074500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210506074500 +0000" stop="20210506074600 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le rappel des titres</title>
+<desc lang="fr-CA, fr-FR">Magazine qui vous partage tous les rappels d'actualités du monde et du moment.</desc>
+</programme>
+<programme start="20210506074600 +0000" stop="20210506075000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >A La Carte</title>
+<desc lang="fr-CA, fr-FR">Les meilleures recettes des plus grands chefs du monde.</desc>
+</programme>
+<programme start="20210506075000 +0000" stop="20210506080000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Sports</title>
+<desc lang="fr-CA, fr-FR">Magazine tout en images résumant toute l'actualité du sport mondial, sur et en dehors des terrains.</desc>
+</programme>
+<programme start="20210506080000 +0000" stop="20210506081000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210506081000 +0000" stop="20210506083000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le Paris des Arts</title>
+<desc lang="fr-CA, fr-FR">Magazine.</desc>
+</programme>
+<programme start="20210506083000 +0000" stop="20210506084000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210506084000 +0000" stop="20210506085200 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Correspondances</title>
+<desc lang="fr-CA, fr-FR">Ce magazine vous amène dans des escales à la rencontre de genevois installés à l'étranger pour partager des expériences et découvrir une destination autrement.</desc>
+</programme>
+<programme start="20210506085200 +0000" stop="20210506090000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Sports</title>
+<desc lang="fr-CA, fr-FR">Magazine tout en images résumant toute l'actualité du sport mondial, sur et en dehors des terrains.</desc>
+</programme>
+<programme start="20210506090000 +0000" stop="20210506091500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210506091500 +0000" stop="20210506093000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Reporters</title>
+<desc lang="fr-CA, fr-FR">Chaque numéro traite de manière claire et complète un fait de société ou d'actualité brûlant. En immersion sur le terrain, les journalistes éclairent le sujet sous un angle différent.</desc>
+</programme>
+<programme start="20210506093000 +0000" stop="20210506094500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210506094500 +0000" stop="20210506100000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >L'entretien de l'intelligence économique</title>
+<desc lang="fr-CA, fr-FR">En ouverture sur l'émission `Intelligence économique', Ali Laïdi reçoit un invité.</desc>
+</programme>
+<programme start="20210506100000 +0000" stop="20210506101500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210506101500 +0000" stop="20210506103000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >A l'affiche</title>
+<desc lang="fr-CA, fr-FR">Magazine d'information.</desc>
+</programme>
+<programme start="20210506103000 +0000" stop="20210506104500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210506104500 +0000" stop="20210506110000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Cap Amériques</title>
+<desc lang="fr-CA, fr-FR">Actualité et news en Amérique, Etats-Unis, Mexique, Brésil, Canada, Argentine. Info politique, news sur l'actualité économique américaine, reportages et débats.</desc>
+</programme>
+<programme start="20210506110000 +0000" stop="20210506111400 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210506111400 +0000" stop="20210506111500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le rappel des titres</title>
+<desc lang="fr-CA, fr-FR">Magazine qui vous partage tous les rappels d'actualités du monde et du moment.</desc>
+</programme>
+<programme start="20210506111500 +0000" stop="20210506112000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >l'invité du jour</title>
+<desc lang="fr-CA, fr-FR">Un grand acteur de l'économie française ou internationale revient sur l'actualité économique.</desc>
+</programme>
+<programme start="20210506112000 +0000" stop="20210506113000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Sports</title>
+<desc lang="fr-CA, fr-FR">Magazine tout en images résumant toute l'actualité du sport mondial, sur et en dehors des terrains.</desc>
+</programme>
+<programme start="20210506113000 +0000" stop="20210506114500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210506114500 +0000" stop="20210506114600 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le rappel des titres</title>
+<desc lang="fr-CA, fr-FR">Magazine qui vous partage tous les rappels d'actualités du monde et du moment.</desc>
+</programme>
+<programme start="20210506114600 +0000" stop="20210506115100 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >La chronique du Jour</title>
+<desc lang="fr-CA, fr-FR">Nos chroniqueurs passent en revue la presse française et inernationale du jour.</desc>
+</programme>
+<programme start="20210506115100 +0000" stop="20210506120000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Extrait Magazine</title>
+<desc lang="fr-CA, fr-FR">Journal d'informations en direct.</desc>
+</programme>
+<programme start="20210506120000 +0000" stop="20210506122000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210506122000 +0000" stop="20210506122100 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le rappel des titres</title>
+<desc lang="fr-CA, fr-FR">Magazine qui vous partage tous les rappels d'actualités du monde et du moment.</desc>
+</programme>
+<programme start="20210506122100 +0000" stop="20210506123000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Focus</title>
+<desc lang="fr-CA, fr-FR">Un reportage long format est décrypté par son auteur et le présentateur de la tranche d'information.</desc>
+</programme>
+<programme start="20210506123000 +0000" stop="20210506124400 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210506124400 +0000" stop="20210506124500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le rappel des titres</title>
+<desc lang="fr-CA, fr-FR">Magazine qui vous partage tous les rappels d'actualités du monde et du moment.</desc>
+</programme>
+<programme start="20210506124500 +0000" stop="20210506125000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Chronique Culture</title>
+<desc lang="fr-CA, fr-FR">Émission consacrée à la culture.</desc>
+</programme>
+<programme start="20210506125000 +0000" stop="20210506130000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Sports</title>
+<desc lang="fr-CA, fr-FR">Magazine tout en images résumant toute l'actualité du sport mondial, sur et en dehors des terrains.</desc>
+</programme>
+<programme start="20210506130000 +0000" stop="20210506131500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210506131500 +0000" stop="20210506133000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Actuelles</title>
+<desc lang="fr-CA, fr-FR">Magazine d'actualité.</desc>
+</programme>
+<programme start="20210506133000 +0000" stop="20210506134500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210506134500 +0000" stop="20210506140000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Cap Amériques</title>
+<desc lang="fr-CA, fr-FR">Actualité et news en Amérique, Etats-Unis, Mexique, Brésil, Canada, Argentine. Info politique, news sur l'actualité économique américaine, reportages et débats.</desc>
+</programme>
+<programme start="20210506140000 +0000" stop="20210506141500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210506141500 +0000" stop="20210506143000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >A l'affiche</title>
+<desc lang="fr-CA, fr-FR">Magazine d'information.</desc>
+</programme>
+<programme start="20210506143000 +0000" stop="20210506144500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210506144500 +0000" stop="20210506150000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >L'Invité de l'économie</title>
+<desc lang="fr-CA, fr-FR">Emmanuel Kessler reçoit chaques jour un patron qui fait le point sur son entreprise et l'économie.</desc>
+</programme>
+<programme start="20210506150000 +0000" stop="20210506151200 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210506151200 +0000" stop="20210506155000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Politique</title>
+<desc lang="fr-CA, fr-FR">Roselyne Febvre et Jean-Marie Colombani reçoivent une personnalité qui s'exprime sur les grands thèmes de l'actualité.</desc>
+</programme>
+<programme start="20210506155000 +0000" stop="20210506160000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Élément Terre</title>
+<desc lang="fr-CA, fr-FR">L'émission de `FRANCE 24' dédiée au développement durable. Marina Bertsch sillonne la planète à la rencontre de femmes et d'hommes engagés en faveur du développement durable.</desc>
+</programme>
+<programme start="20210506160000 +0000" stop="20210506161500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210506161500 +0000" stop="20210506161600 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le rappel des titres</title>
+<desc lang="fr-CA, fr-FR">Magazine qui vous partage tous les rappels d'actualités du monde et du moment.</desc>
+</programme>
+<programme start="20210506161600 +0000" stop="20210506163000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le fait du jour</title>
+<desc lang="fr-CA, fr-FR">Retour sur les faits marquants de l'actualité de la journée.</desc>
+</programme>
+<programme start="20210506163000 +0000" stop="20210506164000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210506164000 +0000" stop="20210506164100 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le rappel des titres</title>
+<desc lang="fr-CA, fr-FR">Magazine qui vous partage tous les rappels d'actualités du monde et du moment.</desc>
+</programme>
+<programme start="20210506164100 +0000" stop="20210506164600 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Économie</title>
+<desc lang="fr-CA, fr-FR">Pour tout savoir sur l'actualité économique du jour, le cours des principales devises mondiales et tous les mouvements dans la planète-finance.</desc>
+</programme>
+<programme start="20210506164600 +0000" stop="20210506165100 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Sports</title>
+<desc lang="fr-CA, fr-FR">Magazine tout en images résumant toute l'actualité du sport mondial, sur et en dehors des terrains.</desc>
+</programme>
+<programme start="20210506165100 +0000" stop="20210506170000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Focus</title>
+<desc lang="fr-CA, fr-FR">Un reportage long format est décrypté par son auteur et le présentateur de la tranche d'information.</desc>
+</programme>
+<programme start="20210506170000 +0000" stop="20210506171000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210506171000 +0000" stop="20210506173000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le débat</title>
+<desc lang="fr-CA, fr-FR">Raphaël Kahane et ses invités débattent, commentent et analysent le grand sujet d'actualité du jour.</desc>
+</programme>
+<programme start="20210506173000 +0000" stop="20210506173200 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Flash</title>
+<desc lang="fr-CA, fr-FR">Un point sur l'actualité en quelques minutes.</desc>
+</programme>
+<programme start="20210506173200 +0000" stop="20210506175200 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le débat</title>
+<desc lang="fr-CA, fr-FR">Raphaël Kahane et ses invités débattent, commentent et analysent le grand sujet d'actualité du jour.</desc>
+</programme>
+<programme start="20210506175200 +0000" stop="20210506180000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Focus</title>
+<desc lang="fr-CA, fr-FR">Un reportage long format est décrypté par son auteur et le présentateur de la tranche d'information.</desc>
+</programme>
+<programme start="20210506180000 +0000" stop="20210506181400 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210506181400 +0000" stop="20210506181500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le rappel des titres</title>
+<desc lang="fr-CA, fr-FR">Magazine qui vous partage tous les rappels d'actualités du monde et du moment.</desc>
+</programme>
+<programme start="20210506181500 +0000" stop="20210506182000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Économie</title>
+<desc lang="fr-CA, fr-FR">Pour tout savoir sur l'actualité économique du jour, le cours des principales devises mondiales et tous les mouvements dans la planète-finance.</desc>
+</programme>
+<programme start="20210506182000 +0000" stop="20210506183000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Sports</title>
+<desc lang="fr-CA, fr-FR">Magazine tout en images résumant toute l'actualité du sport mondial, sur et en dehors des terrains.</desc>
+</programme>
+<programme start="20210506183000 +0000" stop="20210506184400 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210506184400 +0000" stop="20210506184500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le rappel des titres</title>
+<desc lang="fr-CA, fr-FR">Magazine qui vous partage tous les rappels d'actualités du monde et du moment.</desc>
+</programme>
+<programme start="20210506184500 +0000" stop="20210506185000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Un Oeil Sur Les Medias</title>
+<desc lang="fr-CA, fr-FR">Karim Yahiaoui sélectionne les histoires incontournables et édifiantes glanées sur le web, les réseaux sociaux ou les médias traditionnels.</desc>
+</programme>
+<programme start="20210506185000 +0000" stop="20210506190000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Focus</title>
+<desc lang="fr-CA, fr-FR">Un reportage long format est décrypté par son auteur et le présentateur de la tranche d'information.</desc>
+</programme>
+<programme start="20210506190000 +0000" stop="20210506191900 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210506191900 +0000" stop="20210506192000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le rappel des titres</title>
+<desc lang="fr-CA, fr-FR">Magazine qui vous partage tous les rappels d'actualités du monde et du moment.</desc>
+</programme>
+<programme start="20210506192000 +0000" stop="20210506193000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Économie</title>
+<desc lang="fr-CA, fr-FR">Pour tout savoir sur l'actualité économique du jour, le cours des principales devises mondiales et tous les mouvements dans la planète-finance.</desc>
+</programme>
+<programme start="20210506193000 +0000" stop="20210506193600 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210506193600 +0000" stop="20210506194200 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Extrait Magazine</title>
+<desc lang="fr-CA, fr-FR">Journal d'informations en direct.</desc>
+</programme>
+<programme start="20210506194200 +0000" stop="20210506200000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal de l'Afrique</title>
+<desc lang="fr-CA, fr-FR">Toute l'actualité en Afrique.</desc>
+</programme>
+<programme start="20210506200000 +0000" stop="20210506201400 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210506201400 +0000" stop="20210506201500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le rappel des titres</title>
+<desc lang="fr-CA, fr-FR">Magazine qui vous partage tous les rappels d'actualités du monde et du moment.</desc>
+</programme>
+<programme start="20210506201500 +0000" stop="20210506202000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Économie</title>
+<desc lang="fr-CA, fr-FR">Pour tout savoir sur l'actualité économique du jour, le cours des principales devises mondiales et tous les mouvements dans la planète-finance.</desc>
+</programme>
+<programme start="20210506202000 +0000" stop="20210506203000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Un Oeil Sur Les Medias</title>
+<desc lang="fr-CA, fr-FR">Karim Yahiaoui sélectionne les histoires incontournables et édifiantes glanées sur le web, les réseaux sociaux ou les médias traditionnels.</desc>
+</programme>
+<programme start="20210506203000 +0000" stop="20210506203600 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210506203600 +0000" stop="20210506204000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Extrait Magazine</title>
+<desc lang="fr-CA, fr-FR">Journal d'informations en direct.</desc>
+</programme>
+<programme start="20210506204000 +0000" stop="20210506204400 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le rappel des titres</title>
+<desc lang="fr-CA, fr-FR">Magazine qui vous partage tous les rappels d'actualités du monde et du moment.</desc>
+</programme>
+<programme start="20210506204400 +0000" stop="20210506210000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal de l'Afrique</title>
+<desc lang="fr-CA, fr-FR">Toute l'actualité en Afrique.</desc>
+</programme>
+<programme start="20210506210000 +0000" stop="20210506211400 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210506211400 +0000" stop="20210506211500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le rappel des titres</title>
+<desc lang="fr-CA, fr-FR">Magazine qui vous partage tous les rappels d'actualités du monde et du moment.</desc>
+</programme>
+<programme start="20210506211500 +0000" stop="20210506213000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Economie - un oeil sur les médias</title>
+<desc lang="fr-CA, fr-FR">Retour sur l'économie à travers les médias.</desc>
+</programme>
+<programme start="20210506213000 +0000" stop="20210506214500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210506214500 +0000" stop="20210506214600 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le rappel des titres</title>
+<desc lang="fr-CA, fr-FR">Magazine qui vous partage tous les rappels d'actualités du monde et du moment.</desc>
+</programme>
+<programme start="20210506214600 +0000" stop="20210506215100 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Sports</title>
+<desc lang="fr-CA, fr-FR">Magazine tout en images résumant toute l'actualité du sport mondial, sur et en dehors des terrains.</desc>
+</programme>
+<programme start="20210506215100 +0000" stop="20210506220000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Focus</title>
+<desc lang="fr-CA, fr-FR">Un reportage long format est décrypté par son auteur et le présentateur de la tranche d'information.</desc>
+</programme>
+<programme start="20210506220000 +0000" stop="20210506221100 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210506221100 +0000" stop="20210506223000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le débat</title>
+<desc lang="fr-CA, fr-FR">Raphaël Kahane et ses invités débattent, commentent et analysent le grand sujet d'actualité du jour.</desc>
+</programme>
+<programme start="20210506223000 +0000" stop="20210506223200 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Flash</title>
+<desc lang="fr-CA, fr-FR">Un point sur l'actualité en quelques minutes.</desc>
+</programme>
+<programme start="20210506223200 +0000" stop="20210506225200 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le débat</title>
+<desc lang="fr-CA, fr-FR">Raphaël Kahane et ses invités débattent, commentent et analysent le grand sujet d'actualité du jour.</desc>
+</programme>
+<programme start="20210506225200 +0000" stop="20210506230000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Focus</title>
+<desc lang="fr-CA, fr-FR">Un reportage long format est décrypté par son auteur et le présentateur de la tranche d'information.</desc>
+</programme>
+<programme start="20210506230000 +0000" stop="20210506231500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210506231500 +0000" stop="20210506233000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal de l'Afrique</title>
+<desc lang="fr-CA, fr-FR">Toute l'actualité en Afrique.</desc>
+</programme>
+<programme start="20210506233000 +0000" stop="20210506234500 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >Le journal</title>
+<desc lang="fr-CA, fr-FR">Toutes les heures, 24h/24, un journal de 10 minutes est présenté en direct de la salle de rédaction.</desc>
+</programme>
+<programme start="20210506234500 +0000" stop="20210507000000 +0000" channel="France24(French).us">
+<title lang="fr-CA, fr-FR" >A l'affiche</title>
+<desc lang="fr-CA, fr-FR">Magazine d'information.</desc>
+</programme>
+<programme start="20210504220000 +0000" stop="20210505060000 +0000" channel="OntarioLegislature(English).ca">
+<title lang="en" >Legislative Assembly of Ontario</title>
+<desc lang="en">The Assembly meets at the Ontario Legislative Building at Queen's Park in the provincial capital of Toronto.</desc>
+</programme>
+<programme start="20210505060000 +0000" stop="20210505130000 +0000" channel="OntarioLegislature(English).ca">
+<title lang="en" >Legislative Assembly of Ontario</title>
+<desc lang="en">The Assembly meets at the Ontario Legislative Building at Queen's Park in the provincial capital of Toronto.</desc>
+</programme>
+<programme start="20210505130000 +0000" stop="20210505173000 +0000" channel="OntarioLegislature(English).ca">
+<title lang="en" >Legislative Assembly of Ontario</title>
+<desc lang="en">The Assembly meets at the Ontario Legislative Building at Queen's Park in the provincial capital of Toronto.</desc>
+</programme>
+<programme start="20210505173000 +0000" stop="20210505220000 +0000" channel="OntarioLegislature(English).ca">
+<title lang="en" >Chamber Proceedings</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20210505220000 +0000" stop="20210506060000 +0000" channel="OntarioLegislature(English).ca">
+<title lang="en" >Legislative Assembly of Ontario</title>
+<desc lang="en">The Assembly meets at the Ontario Legislative Building at Queen's Park in the provincial capital of Toronto.</desc>
+</programme>
+<programme start="20210506060000 +0000" stop="20210506130000 +0000" channel="OntarioLegislature(English).ca">
+<title lang="en" >Legislative Assembly of Ontario</title>
+<desc lang="en">The Assembly meets at the Ontario Legislative Building at Queen's Park in the provincial capital of Toronto.</desc>
+</programme>
+<programme start="20210506130000 +0000" stop="20210506160000 +0000" channel="OntarioLegislature(English).ca">
+<title lang="en" >Chamber Proceedings</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20210506160000 +0000" stop="20210506173000 +0000" channel="OntarioLegislature(English).ca">
+<title lang="en" >Legislative Assembly of Ontario</title>
+<desc lang="en">The Assembly meets at the Ontario Legislative Building at Queen's Park in the provincial capital of Toronto.</desc>
+</programme>
+<programme start="20210506173000 +0000" stop="20210506220000 +0000" channel="OntarioLegislature(English).ca">
+<title lang="en" >Chamber Proceedings</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20210506220000 +0000" stop="20210507060000 +0000" channel="OntarioLegislature(English).ca">
+<title lang="en" >Legislative Assembly of Ontario</title>
+<desc lang="en">The Assembly meets at the Ontario Legislative Building at Queen's Park in the provincial capital of Toronto.</desc>
+</programme>
+</tv>
