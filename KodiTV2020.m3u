@@ -5,20 +5,18 @@ http://
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive" tvg-name="ABC News Live" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ABCNewsLive.png" group-title="Actualité / News",ABC News Live
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGAMCPRES" tvg-name="AMC  AMC Presents" tvg-logo="https://od.lk/s/MF8yMjc2NjQxMDdf/AMCNetworks_v2_365x365.png" group-title="Arts + Cinéma",AMC Presents
+#EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGAMCPRES" tvg-name="AMC AMC Presents" tvg-logo="https://od.lk/s/MF8yMjc2NjQxMDdf/AMCNetworks_v2_365x365.png" group-title="Arts + Cinéma",AMC Presents
 https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGAMGTV" tvg-name="K36JH  362 AMG-TV" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/K36JH-36-2_AMGTV_290x290.png?raw=true" group-title="Généraliste / General Interest",AMG-TV
+#EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGAMGTV" tvg-name="K36JH 362 AMG-TV" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/K36JH-36-2_AMGTV_290x290.png?raw=true" group-title="Généraliste / General Interest",AMG-TV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
-#EXTINF:-1 tvg-id="CAN_Networks_and_Sports_EPGASSEMB" tvg-name="Canada  Assemblee Nationale" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ANDQ_603x603.png?raw=true" group-title="Politique / Politics",Assemblée nationale du Québec
+#EXTINF:-1 tvg-id="CAN_Networks_and_Sports_EPGASSEMB" tvg-name="Canada Assemblee Nationale" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ANDQ_603x603.png?raw=true" group-title="Politique / Politics",Assemblée nationale du Québec
 http://diffusionm4.assnat.qc.ca/canal10/250.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGBEINXTRA" tvg-name="beIN Sports Xtra  HD" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BeIN-Sports-Xtra_235x235.png?raw=true" group-title="Sports",beIN Sports Xtra
+#EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGBEINXTRA" tvg-name="beIN Sports Xtra HD" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BeIN-Sports-Xtra_235x235.png?raw=true" group-title="Sports",beIN Sports Xtra
 https://bein-xtra-roku-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGBLOOMHD" tvg-name="Redbox  Bloomberg" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Bloomberg_512x512.png" group-title="Actualité / News",Bloomberg Television
+#EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGBLOOMHD" tvg-name="Redbox Bloomberg" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Bloomberg_512x512.png" group-title="Actualité / News",Bloomberg Television
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxbloomberg/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 #EXTINF:-1 tvg-id="I9.3.75009.zap2it.com" tvg-name="9.3 WWORDT3" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjM5NTQxNTZf/BUZZR.png" group-title="Divertissement / Entertainment",Buzzr
 https://buzzr-roku-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CAN_Networks_and_Sports_EPGCFTU" tvg-name="Canada  Canal Savoir" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CanalSavoir_363x363.png?raw=true" group-title="Éducatif / Educational",Canal Savoir
-https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1 tvg-id="I197.71729.zap2it.com" tvg-name="197 CBRTDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Généraliste / General Interest",CBC • Calgary
 https://cbclivedai4-i.akamaihd.net/hls/live/567230/event2/CBRT/master5.m3u8
 #EXTINF:-1 tvg-id="I109.72884.zap2it.com" tvg-name="109 CBCTDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Généraliste / General Interest",CBC • Charlottetown
@@ -47,11 +45,11 @@ https://cbclivedai1-i.akamaihd.net/hls/live/566941/event2/CBET/master5.m3u8
 https://cbclivedai6-i.akamaihd.net/hls/live/567237/event2/CBWT/master5.m3u8
 #EXTINF:-1 tvg-id="I225.72816.zap2it.com" tvg-name="225 CFYKDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Généraliste / General Interest",CBC • Yellowknife
 https://cbclivedai7-i.akamaihd.net/hls/live/567240/event2/CFYK/master5.m3u8
-#EXTINF:-1 tvg-id="CAN_Networks_and_Sports_EPGCBNEWS" tvg-name="Redbox  CBC News" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="Actualité / News",CBC News
+#EXTINF:-1 tvg-id="CAN_Networks_and_Sports_EPGCBNEWS" tvg-name="Redbox CBC News" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="Actualité / News",CBC News
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGOLYHD" tvg-name="CBC Olympics (Geo-CA)  HD" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBC_Olympics_400x400.png?raw=true" group-title="Sports",CBC Olympics
+#EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGOLYHD" tvg-name="CBC Olympics (Geo-CA) HD" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBC_Olympics_400x400.png?raw=true" group-title="Sports",CBC Olympics
 https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_1.m3u8
-#EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGCBSNSTR" tvg-name="CBS News  CBSN National" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSNews.png" group-title="Actualité / News",CBS News
+#EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGCBSNSTR" tvg-name="CBS News CBSN National" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSNews.png" group-title="Actualité / News",CBS News
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 #EXTINF:-1 tvg-id="I45.2.99361.zap2it.com" tvg-chno="45.2 WRGBDK2" tvg-type="live" group-title="Divertissement / Entertainment" tvg-logo="https://od.lk/s/MF8yMjM5NTQzOTVf/ChargeTV.png",Charge!
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
@@ -59,15 +57,15 @@ http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo-host-cheddar/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ClassicArtsShowcase.png" group-title="Arts + Cinéma",Classic Arts Showcase
 https://d3s1xaoyhrialn.cloudfront.net/CAS/index.m3u8
-#EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGCOMET" tvg-name="EPG  Comet TV" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CometTV.png" group-title="Divertissement / Entertainment",Comet
+#EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGCOMET" tvg-name="EPG Comet TV" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CometTV.png" group-title="Divertissement / Entertainment",Comet
 http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?
-#EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGWPIXDT3" tvg-name="EPG  Court TV" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CourtTV_450x450.png" group-title="Divertissement / Entertainment",Court TV
+#EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGWPIXDT3" tvg-name="EPG Court TV" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CourtTV_450x450.png" group-title="Divertissement / Entertainment",Court TV
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8?v=2&ad=web&m.sound=normal&pos=midroll&expand=ad_live&m.sound=normal&m.playback=autoplay
-#EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGKNSDDT2" tvg-name="EPG  Cozi TV (National EPG)" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CoziTV_WZTS_218x218.png?raw=true" group-title="Divertissement / Entertainment",Cozi TV
+#EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGKNSDDT2" tvg-name="EPG Cozi TV (National EPG)" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CoziTV_WZTS_218x218.png?raw=true" group-title="Divertissement / Entertainment",Cozi TV
 https://2-fss-2.streamhoster.com/pl_120/201852-1297026-1/master.m3u8
-#EXTINF:-1 tvg-id="CAN_Networks_and_Sports_EPGCPAC" tvg-name="CPAC  English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CPAC_360x360.png?raw=true" group-title="Politique / Politics",CPAC [EN]
+#EXTINF:-1 tvg-id="CAN_Networks_and_Sports_EPGCPAC" tvg-name="CPAC English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CPAC_360x360.png?raw=true" group-title="Politique / Politics",CPAC [EN]
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680602/1242843915001_1/master.m3u8
-#EXTINF:-1 tvg-id="CAN_Networks_and_Sports_EPGCPACF" tvg-name="Canada  CPAC" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CPAC_360x360.png?raw=true" group-title="Politique / Politics",CPAC [FR]
+#EXTINF:-1 tvg-id="CAN_Networks_and_Sports_EPGCPACF" tvg-name="Canada CPAC" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CPAC_360x360.png?raw=true" group-title="Politique / Politics",CPAC [FR]
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
 #EXTINF:-1 tvg-id="Plex_EPGc6ea97" tvg-name="Popcornflix" tvg-logo="https://od.lk/s/MF8yMjUyNDQ4NjZf/Crackle_365x365.png" group-title="Arts + Cinéma",Crackle
 https://crackle-plex.amagi.tv/playlist.m3u8
@@ -75,13 +73,13 @@ https://crackle-plex.amagi.tv/playlist.m3u8
 https://dmtv-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Plex_EPG7a6d75" tvg-name="Docurama" tvg-logo="https://i.imgur.com/5X5Z5eg.png" group-title="Généraliste / General Interest",Docurama
 https://docurama-plex-ingest.cinedigm.com/playlist.m3u8
-#EXTINF:-1 tvg-id="Plex_EPGb8d17c" tvg-name="Cinedigm  Dove Channel" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/DoveChannel.png" group-title="Arts + Cinéma",Dove Channel
+#EXTINF:-1 tvg-id="Plex_EPGb8d17c" tvg-name="Cinedigm Dove Channel" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/DoveChannel.png" group-title="Arts + Cinéma",Dove Channel
 https://dove-channel.vizio.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="Plex_EPG886ad6" tvg-name="Euronews  HD" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/EuroNews_400x400.png?raw=true" group-title="Actualité / News",Euronews
+#EXTINF:-1 tvg-id="Plex_EPG886ad6" tvg-name="Euronews HD" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/EuroNews_400x400.png?raw=true" group-title="Actualité / News",Euronews
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/France24.png" group-title="Actualité / News",France 24
 http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
-#EXTINF:-1 tvg-id="Plex_EPG561619" tvg-name="Xumo  742 fubo Sports Netwk" tvg-logo="https://od.lk/s/MF8yMjg4NTMwNDBf/FuboSportsNetwork_844x844.png" group-title="Sports",Fubo Sports Network
+#EXTINF:-1 tvg-id="Plex_EPG561619" tvg-name="Xumo 742 fubo Sports Netwk" tvg-logo="https://od.lk/s/MF8yMjg4NTMwNDBf/FuboSportsNetwork_844x844.png" group-title="Sports",Fubo Sports Network
 https://playout.fubo.tv/fsn/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/GameShowCentral_203x203.png?raw=true" group-title="Divertissement / Entertainment",Game Show Central
 https://gsn-gameshowchannnel-2.roku.wurl.com/manifest/playlist.m3u8
@@ -89,9 +87,9 @@ https://gsn-gameshowchannnel-2.roku.wurl.com/manifest/playlist.m3u8
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 #EXTINF:-1 tvg-id="Plex_EPG21f403" tvg-name="Gravitas Movies" tvg-logo="https://i.imgur.com/4ZtG1Ru.png" group-title="Arts + Cinéma",Gravitas Movies
 https://gravitas-movies.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="WNY13601_EPGI565.46710.zap2it.com" tvg-name="Hallmark Movies & More  HD" tvg-logo="https://od.lk/s/MF8yMjg4NDg5NDNf/Hallmark-More_760x760.png" group-title="Arts + Cinéma",Hallmark Movies & More
+#EXTINF:-1 tvg-id="WNY13601_EPGI565.46710.zap2it.com" tvg-name="Hallmark Movies & More HD" tvg-logo="https://od.lk/s/MF8yMjg4NDg5NDNf/Hallmark-More_760x760.png" group-title="Arts + Cinéma",Hallmark Movies & More
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8?p=roku
-#EXTINF:-1 tvg-id="CANEPG1_EPGI742.60327.zap2it.com" tvg-name="Canada  ICI RDI" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-RDI.png" group-title="Actualité / News",ICI RDI
+#EXTINF:-1 tvg-id="CANEPG1_EPGI742.60327.zap2it.com" tvg-name="Canada ICI RDI" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-RDI.png" group-title="Actualité / News",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 #EXTINF:-1 tvg-id="ICIacadie" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="Généraliste / General Interest",ICI Télé • Acadie
 https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master_2500.m3u8
@@ -121,15 +119,15 @@ https://rcavlive.akamaized.net/hls/live/704023/cancktv/master_2500.m3u8
 https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master_2500.m3u8
 #EXTINF:-1 tvg-id="CAN_Networks_and_Sports_EPGICIQ" tvg-name="ICI Television" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ICI-Television_292x292.png?raw=true" group-title="Généraliste / General Interest",ICI Télévision
 https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8
-#EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGIFCPICK" tvg-name="AMC  IFC Film Picks" tvg-logo="https://od.lk/s/MF8yMjc2NjQxMDdf/AMCNetworks_v2_365x365.png" group-title="Arts + Cinéma",IFC Film Picks
+#EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGIFCPICK" tvg-name="AMC IFC Film Picks" tvg-logo="https://od.lk/s/MF8yMjc2NjQxMDdf/AMCNetworks_v2_365x365.png" group-title="Arts + Cinéma",IFC Film Picks
 https://amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="Plex_EPG4e6705" tvg-name="Journy  HD" tvg-logo="https://od.lk/s/MF8yMjg5MzMxNjNf/Journy_225x225.png" group-title="Généraliste / General Interest",Journy
+#EXTINF:-1 tvg-id="Plex_EPG4e6705" tvg-name="Journy HD" tvg-logo="https://od.lk/s/MF8yMjg5MzMxNjNf/Journy_225x225.png" group-title="Généraliste / General Interest",Journy
 https://vcnovation.teleosmedia.com/linear/ovation/journy/playlist.m3u8
-#EXTINF:-1 tvg-id="CAN_Networks_and_Sports_EPGKNOWC" tvg-name="Knowledge Network (Geo)" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/KnowledgeNetwork_235x235.png?raw=true" group-title="Éducatif / Educational",Knowledge Network 
+#EXTINF:-1 tvg-id="CAN_Networks_and_Sports_EPGKNOWC" tvg-name="Knowledge Network (Geo)" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/KnowledgeNetwork_235x235.png?raw=true" group-title="Éducatif / Educational",Knowledge Network
 http://knstream1.azureedge.net/knlive/knlive_high.m3u8
-#EXTINF:-1 tvg-id="Plex_EPG6a66a7" tvg-name="AE  Lively Place" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/LivelyPlace_476x476.png?raw=true" group-title="Généraliste / General Interest",Lively Place
+#EXTINF:-1 tvg-id="Plex_EPG6a66a7" tvg-name="AE Lively Place" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/LivelyPlace_476x476.png?raw=true" group-title="Généraliste / General Interest",Lively Place
 http://aenetworks-ae-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="CAN_Networks_and_Sports_EPGNATUR" tvg-name="Love Nature  HD" tvg-logo="https://od.lk/s/MF8yMjU3NjQ3NTlf/LoveNature_600x600.png" group-title="Divertissement / Entertainment",Love Nature
+#EXTINF:-1 tvg-id="CAN_Networks_and_Sports_EPGNATUR" tvg-name="Love Nature HD" tvg-logo="https://od.lk/s/MF8yMjU3NjQ3NTlf/LoveNature_600x600.png" group-title="Divertissement / Entertainment",Love Nature
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Plex_EPGc77c5c" tvg-name="MAV TV Select" tvg-logo="https://od.lk/s/MF8yMjgzNzU2MTNf/MAVTVSelect_1060x1060.png" group-title="Sports",MAV TV Select
 https://mavtv-1.sinclair.wurl.com/manifest/playlist.m3u8
@@ -139,14 +137,12 @@ https://moviesphere-plex.amagi.tv/playlist.m3u8
 http://stream.pivotalelements.com/nactv/stream.m3u8
 #EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGNASA" tvg-name="NASA TV 1 (Public)" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NASA.png" group-title="Éducatif / Educational",NASA TV • Public
 http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
-#EXTINF:-1 tvg-id="MJH_Pluto_EPG5df97894467dfa00091c873c" tvg-name="NBC News Now  Source 2" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="Actualité / News",NBC News Now
+#EXTINF:-1 tvg-id="MJH_Pluto_EPG5df97894467dfa00091c873c" tvg-name="NBC News Now Source 2" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="Actualité / News",NBC News Now
 https://nbcnewshls.akamaized.net/hls/live/2011820/nnn_live1/master.m3u8
 #EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGWNBCDT3" tvg-name="NBCLX" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCLX_584x584.png?raw=true" group-title="Actualité / News",NBCLX
 https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/master.m3u8?OTATV
-#EXTINF:-1 tvg-id="tv25_EPGI25.2.97117.zap2it.com" tvg-name="News Net  HD" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NewsNet.png" group-title="Actualité / News",News Net
+#EXTINF:-1 tvg-id="tv25_EPGI25.2.97117.zap2it.com" tvg-name="News Net HD" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NewsNet.png" group-title="Actualité / News",News Net
 https://nrpus.bozztv.com/36bay2/gusa-newsnet/index.m3u8
-#EXTINF:-1 tvg-id="Plex_EPG90331d" tvg-name="EPG  NewsMax TV" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NewsMaxTV.png" group-title="Actualité / News",NewsMax TV
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="CAN_Networks_and_Sports_EPGCFAP" tvg-name="Canada  noovo" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Noovo_608x608.png?raw=true" group-title="Généraliste / General Interest",Noovo
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -177,6 +173,7 @@ https://lds-realstories-plex.amagi.tv/playlist.m3u8
 https://reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="Plex_EPGd05fd3" tvg-name="Runtime" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Runtime_120x120.png?raw=true" group-title="Arts + Cinéma",Runtime
 https://ammoruntime-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CAN_Networks_and_Sports_EPGCFTU" tvg-name="Canada Canal Savoir" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CanalSavoir_363x363.png?raw=true" group-title="Éducatif / Educational",Savoir Média https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1 tvg-id="Plex_EPG70372b" tvg-name="Skills  Thrills" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/SkillsThrills_130x130.png?raw=true" group-title="Divertissement / Entertainment",Skills & Thrills
 https://aenetworks-skills-thrills-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/TV-SportEnFrance.png?raw=true" group-title="Sports",Sport en France
