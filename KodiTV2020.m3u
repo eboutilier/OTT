@@ -125,7 +125,7 @@ https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 https://amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="Plex_EPG4e6705" tvg-name="Journy  HD" tvg-logo="https://od.lk/s/MF8yMjg5MzMxNjNf/Journy_225x225.png" group-title="Généraliste / General Interest",Journy
 https://vcnovation.teleosmedia.com/linear/ovation/journy/playlist.m3u8
-#EXTINF:-1 tvg-id="CAN_Networks_and_Sports_EPGKNOWC" tvg-name="Knowledge Network (Geo)" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/KnowledgeNetwork_235x235.png?raw=true" group-title="Éducatif / Educational",Knowledge Network
+#EXTINF:-1 tvg-id="CAN_Networks_and_Sports_EPGKNOWC" tvg-name="Knowledge Network (Geo)" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/KnowledgeNetwork_235x235.png?raw=true" group-title="Éducatif / Educational",Knowledge Network 
 http://knstream1.azureedge.net/knlive/knlive_high.m3u8
 #EXTINF:-1 tvg-id="Plex_EPG6a66a7" tvg-name="AE  Lively Place" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/LivelyPlace_476x476.png?raw=true" group-title="Généraliste / General Interest",Lively Place
 http://aenetworks-ae-1.roku.wurl.com/manifest/playlist.m3u8
