@@ -3,14 +3,6 @@
 http://
 #EXTINF:-1 tvg-id="Plex_EPGbc43b9" tvg-name="24 Hour Free Movies" tvg-logo="https://i.imgur.com/FiTdDp1.png" group-title="Arts + Cinéma",24 Hour Free Movies
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive" tvg-name="ABC News Live" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ABCNewsLive.png" group-title="Actualité / News",ABC News Live
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGAMCPRES" tvg-name="AMC AMC Presents" tvg-logo="https://od.lk/s/MF8yMjc2NjQxMDdf/AMCNetworks_v2_365x365.png" group-title="Arts + Cinéma",AMC Presents
-https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGAMGTV" tvg-name="K36JH 362 AMG-TV" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/K36JH-36-2_AMGTV_290x290.png?raw=true" group-title="Généraliste / General Interest",AMG-TV
-https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
-#EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGBEINXTRA" tvg-name="beIN Sports Xtra HD" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BeIN-Sports-Xtra_235x235.png?raw=true" group-title="Sports",beIN Sports Xtra
-https://bein-xtra-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="I9.3.75009.zap2it.com" tvg-name="9.3 WWORDT3" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjM5NTQxNTZf/BUZZR.png" group-title="Divertissement / Entertainment",Buzzr
 https://buzzr-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="I197.71729.zap2it.com" tvg-name="197 CBRTDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Généraliste / General Interest",CBC • Calgary
@@ -45,8 +37,6 @@ https://cbclivedai7-i.akamaihd.net/hls/live/567240/event2/CFYK/master5.m3u8
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGOLYHD" tvg-name="CBC Olympics (Geo-CA) HD" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBC_Olympics_400x400.png?raw=true" group-title="Sports",CBC Olympics
 https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_1.m3u8
-#EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGCBSNSTR" tvg-name="CBS News CBSN National" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSNews.png" group-title="Actualité / News",CBS News
-http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 #EXTINF:-1 tvg-id="I45.2.99361.zap2it.com" tvg-chno="45.2 WRGBDK2" tvg-type="live" group-title="Divertissement / Entertainment" tvg-logo="https://od.lk/s/MF8yMjM5NTQzOTVf/ChargeTV.png",Charge!
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 #EXTINF:-1 tvg-id="cheddar-wurl-external-10-31-2018" tvg-type="live" group-title="Actualité / News" tvg-logo="https://od.lk/s/MF8yMjM5NTUyNDhf/Cheddar_900x900.png"a,Cheddar News
@@ -71,14 +61,10 @@ https://docurama-plex-ingest.cinedigm.com/playlist.m3u8
 https://dove-channel.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="Plex_EPG886ad6" tvg-name="Euronews HD" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/EuroNews_400x400.png?raw=true" group-title="Actualité / News",Euronews
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/France24.png" group-title="Actualité / News",France 24
-http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
 #EXTINF:-1 tvg-id="Plex_EPG561619" tvg-name="Xumo 742 fubo Sports Netwk" tvg-logo="https://od.lk/s/MF8yMjg4NTMwNDBf/FuboSportsNetwork_844x844.png" group-title="Sports",Fubo Sports Network
 https://playout.fubo.tv/fsn/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/GameShowCentral_203x203.png?raw=true" group-title="Divertissement / Entertainment",Game Show Central
 https://gsn-gameshowchannnel-2.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/GlobalNews_650x650.png?raw=true" group-title="Actualité / News",Global News Canada
-https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 #EXTINF:-1 tvg-id="Plex_EPG21f403" tvg-name="Gravitas Movies" tvg-logo="https://i.imgur.com/4ZtG1Ru.png" group-title="Arts + Cinéma",Gravitas Movies
 https://gravitas-movies.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="CANEPG1_EPGI742.60327.zap2it.com" tvg-name="Canada ICI RDI" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-RDI.png" group-title="Actualité / News",ICI RDI
@@ -121,11 +107,9 @@ https://moviesphere-plex.amagi.tv/playlist.m3u8
 http://stream.pivotalelements.com/nactv/stream.m3u8
 #EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGNASA" tvg-name="NASA TV 1 (Public)" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NASA.png" group-title="Éducatif / Educational",NASA TV • Public
 http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
-#EXTINF:-1 tvg-id="MJH_Pluto_EPG5df97894467dfa00091c873c" tvg-name="NBC News Now Source 2" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="Actualité / News",NBC News Now
-https://nbcnewshls.akamaized.net/hls/live/2011820/nnn_live1/master.m3u8
 #EXTINF:-1 tvg-id="I10.3.62804.zap2it.com" tvg-name="10.3 WCAUDT3" tvg-type="live" group-title="Actualité / News" tvg-logo="https://od.lk/s/MF8yMjc0ODkyNDhf/NBCLX_584x584.png",NBCLX
 https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/master.m3u8?OTATV
-#EXTINF:-1 tvg-id="tv25_EPGI25.2.97117.zap2it.com" tvg-name="News Net HD" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NewsNet.png" group-title="Actualité / News",News Net
+#EXTINF:-1 tvg-id="I25.2.97117.zap2it.com" tvg-name="25.2" tvg-type="live" group-title="Actualité / News" tvg-logo="https://od.lk/s/MF8yMjM5NTI2OTZf/TV25_360x360.png",NewsNet
 https://nrpus.bozztv.com/36bay2/gusa-newsnet/index.m3u8
 #EXTINF:-1 tvg-id="90331d" tvg-name="Newsmax" group-title="Actualité / News" tvg-logo="https://i.imgur.com/a5zs7r7.png",Newsmax 
 https://newsmax-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-newsmax-plex/CDN/playlist.m3u8
