@@ -302,10 +302,10 @@ http://corus.leanstream.co/CJOYAM-MP3
 http://rogers-hls.leanstream.co:8000/rogers/hal957.stream/48k/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/NLL-Halifax.png?raw=true" group-title="Sports-Radio Maritimes" radio="true",Halifax .. Thunderbirds • CJNI 95.7 FM
 http://rogers-hls.leanstream.co:8000/rogers/hal957.stream/48k/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Hamilton.png?raw=true" group-title="Sports-Radio Ontario" radio="true",Hamilton .. Bulldogs • TBA
-http://
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-Hamilton.png?raw=true" group-title="Sports-Radio Ontario" radio="true",Hamilton .. Tigercats • TBA
-http://
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Hamilton.png?raw=true" group-title="Sports-Radio Ontario" radio="true",Hamilton .. Bulldogs • CHML 900 AM
+https://corus.leanstream.co/CHMLAM-MP3
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-Hamilton.png?raw=true" group-title="Sports-Radio Ontario" radio="true",Hamilton .. Tigercats • CJXY 107.9 FM
+https://corus.leanstream.co/CJXYFM-MP3
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Kamloops.png?raw=true" group-title="Sports-Radio Ouest/West" radio="true",Kamloops .. Blazers • CHNL 610 AM
 http://newcap.leanstream.co/CHNLAM-MP3
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Kelowna.png?raw=true" group-title="Sports-Radio Ouest/West" radio="true",Kelowna .. Rockets • CKFR 1150 AM
