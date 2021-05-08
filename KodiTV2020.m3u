@@ -51,7 +51,7 @@ http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 #EXTINF:-1 tvg-id="cheddar-wurl-external-10-31-2018" tvg-type="live" group-title="Actualité / News" tvg-logo="https://od.lk/s/MF8yMjM5NTUyNDhf/Cheddar_900x900.png"a,Cheddar News
 https://dai2.xumo.com/amagi_hls_data_xumo-host-cheddar/CDN/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-05-21-2019-05-21-2019" tvg-type="live" group-title="EPG | Free2View TV" tvg-logo="https://od.lk/s/MF8yMjM5NTQzOTZf/CometTV.png",Comet TV
+#EXTINF:-1 tvg-id="externallinearfeed-05-21-2019-05-21-2019" tvg-type="live" group-title="Divertissement / Entertainment" tvg-logo="https://od.lk/s/MF8yMjM5NTQzOTZf/CometTV.png",Comet TV
 http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?
 #EXTINF:-1 tvg-id="I4.3.94944.zap2it.com" tvg-name="4.3" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjY2MjQ5NDJf/CourtTV_450x450.png" group-title="Divertissement / Entertainment",Court TV
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8?v=2&ad=web&m.sound=normal&pos=midroll&expand=ad_live&m.sound=normal&m.playback=autoplay
@@ -81,8 +81,6 @@ https://gsn-gameshowchannnel-2.roku.wurl.com/manifest/playlist.m3u8
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 #EXTINF:-1 tvg-id="Plex_EPG21f403" tvg-name="Gravitas Movies" tvg-logo="https://i.imgur.com/4ZtG1Ru.png" group-title="Arts + Cinéma",Gravitas Movies
 https://gravitas-movies.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="WNY13601_EPGI565.46710.zap2it.com" tvg-name="Hallmark Movies & More HD" tvg-logo="https://od.lk/s/MF8yMjg4NDg5NDNf/Hallmark-More_760x760.png" group-title="Arts + Cinéma",Hallmark Movies & More
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8?p=roku
 #EXTINF:-1 tvg-id="CANEPG1_EPGI742.60327.zap2it.com" tvg-name="Canada ICI RDI" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-RDI.png" group-title="Actualité / News",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 #EXTINF:-1 tvg-id="ICIacadie" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="Généraliste / General Interest",ICI Télé • Acadie
@@ -113,18 +111,10 @@ https://rcavlive.akamaized.net/hls/live/704023/cancktv/master_2500.m3u8
 https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master_2500.m3u8
 #EXTINF:-1 tvg-id="CAN_Networks_and_Sports_EPGICIQ" tvg-name="ICI Television" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ICI-Television_292x292.png?raw=true" group-title="Généraliste / General Interest",ICI Télévision
 https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8
-#EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGIFCPICK" tvg-name="AMC IFC Film Picks" tvg-logo="https://od.lk/s/MF8yMjc2NjQxMDdf/AMCNetworks_v2_365x365.png" group-title="Arts + Cinéma",IFC Film Picks
-https://amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="Plex_EPG4e6705" tvg-name="Journy HD" tvg-logo="https://od.lk/s/MF8yMjg5MzMxNjNf/Journy_225x225.png" group-title="Généraliste / General Interest",Journy
 https://vcnovation.teleosmedia.com/linear/ovation/journy/playlist.m3u8
 #EXTINF:-1 tvg-id="CAN_Networks_and_Sports_EPGKNOWC" tvg-name="Knowledge Network (Geo)" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/KnowledgeNetwork_235x235.png?raw=true" group-title="Éducatif / Educational",Knowledge Network
 http://knstream1.azureedge.net/knlive/knlive_high.m3u8
-#EXTINF:-1 tvg-id="Plex_EPG6a66a7" tvg-name="AE Lively Place" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/LivelyPlace_476x476.png?raw=true" group-title="Généraliste / General Interest",Lively Place
-http://aenetworks-ae-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="CAN_Networks_and_Sports_EPGNATUR" tvg-name="Love Nature HD" tvg-logo="https://od.lk/s/MF8yMjU3NjQ3NTlf/LoveNature_600x600.png" group-title="Divertissement / Entertainment",Love Nature
-https://bamus-eng-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Plex_EPGc77c5c" tvg-name="MAV TV Select" tvg-logo="https://od.lk/s/MF8yMjgzNzU2MTNf/MAVTVSelect_1060x1060.png" group-title="Sports",MAV TV Select
-https://mavtv-1.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM1Njg1NTFf/MovieSphere_400x400.png" group-title="Arts + Cinéma",MovieSphere
 https://moviesphere-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/TV-NACTV.png?raw=true" group-title="Généraliste / General Interest",NACTV
@@ -133,10 +123,14 @@ http://stream.pivotalelements.com/nactv/stream.m3u8
 http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
 #EXTINF:-1 tvg-id="MJH_Pluto_EPG5df97894467dfa00091c873c" tvg-name="NBC News Now Source 2" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="Actualité / News",NBC News Now
 https://nbcnewshls.akamaized.net/hls/live/2011820/nnn_live1/master.m3u8
-#EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGWNBCDT3" tvg-name="NBCLX" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCLX_584x584.png?raw=true" group-title="Actualité / News",NBCLX
+#EXTINF:-1 tvg-id="I10.3.62804.zap2it.com" tvg-name="10.3 WCAUDT3" tvg-type="live" group-title="Actualité / News" tvg-logo="https://od.lk/s/MF8yMjc0ODkyNDhf/NBCLX_584x584.png",NBCLX
 https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/master.m3u8?OTATV
 #EXTINF:-1 tvg-id="tv25_EPGI25.2.97117.zap2it.com" tvg-name="News Net HD" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NewsNet.png" group-title="Actualité / News",News Net
 https://nrpus.bozztv.com/36bay2/gusa-newsnet/index.m3u8
+#EXTINF:-1 tvg-id="90331d" tvg-name="Newsmax" group-title="Actualité / News" tvg-logo="https://i.imgur.com/a5zs7r7.png",Newsmax 
+https://newsmax-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-newsmax-plex/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="abdec0" tvg-name="Top_Stories_by_Newsy" group-title="Actualité / News" tvg-logo="https://i.imgur.com/SpH5ink.png",Newsy 
+https://content.uplynk.com/channel/33c48f602cfd4474b957eb4ad999caf8.m3u8
 #EXTINF:-1 tvg-id="CAN_Networks_and_Sports_EPGCFAP" tvg-name="Canada  noovo" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Noovo_608x608.png?raw=true" group-title="Généraliste / General Interest",Noovo
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -157,18 +151,17 @@ https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8?DVR
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:-1 tvg-id="WPPT" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="Éducatif / Educational",PBS • Philadelphia
 https://forerunnerrtmp.livestreamingcdn.com/output18-2/output18-2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="PBS_EPGWFWA" tvg-name="PBS  World Channel" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBSWorld_972x972.png?raw=true" group-title="Éducatif / Educational",PBS World
-https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
-#EXTINF:-1 tvg-id="Plex_EPG10688f" tvg-name="PopcornFlix  HD" tvg-logo="https://od.lk/s/MF8yMzAxMjUzMzRf/PopcornFlix_491x491.png" group-title="Arts + Cinéma",Popcorn Flix
-https://d2ml5ryiu1l712.cloudfront.net/popcornflix-xumo/playlist.m3u8
+#EXTINF:-1 tvg-id="10688f" tvg-name="Popcornflix" group-title="Arts + Cinéma" tvg-logo="https://i.imgur.com/ATUaSCV.png",Popcornflix 
+https://crackle-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Plex_EPGa0cbe9" tvg-name="Real Stories" tvg-logo="https://i.imgur.com/J6dpNiD.png" group-title="Généraliste / General Interest",Real Stories
 https://lds-realstories-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Plex_EPG26751f" tvg-name="Reuters Now" tvg-logo="https://i.imgur.com/UbkKdJL.png" group-title="Actualité / News",Reuters Now
 https://reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="Plex_EPGd05fd3" tvg-name="Runtime" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Runtime_120x120.png?raw=true" group-title="Arts + Cinéma",Runtime
 https://ammoruntime-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CAN_Networks_and_Sports_EPGCFTU" tvg-name="Canada Canal Savoir" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CanalSavoir_363x363.png?raw=true" group-title="Éducatif / Educational",Savoir Média https://hls.savoir.media/live/stream.m3u8
-#EXTINF:-1 tvg-id="Plex_EPG70372b" tvg-name="Skills  Thrills" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/SkillsThrills_130x130.png?raw=true" group-title="Divertissement / Entertainment",Skills & Thrills
+#EXTINF:-1 tvg-id="CAN_Networks_and_Sports_EPGCFTU" tvg-name="Canada Canal Savoir" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CanalSavoir_363x363.png?raw=true" group-title="Éducatif / Educational",Savoir Média
+https://hls.savoir.media/live/stream.m3u8
+#EXTINF:-1 tvg-id="70372b" tvg-name="Skills_+_Thrills" group-title="Arts + Cinéma" tvg-logo="https://i.imgur.com/SjHOQf4.png",Skills + Thrills 
 https://aenetworks-skills-thrills-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/TV-SportEnFrance.png?raw=true" group-title="Sports",Sport en France
 https://sportenfrance.ziostream.cloud/hls/sp1564435593_med/index.m3u8
