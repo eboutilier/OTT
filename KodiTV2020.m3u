@@ -13,12 +13,10 @@ https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 http://diffusionm4.assnat.qc.ca/canal10/250.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGBEINXTRA" tvg-name="beIN Sports Xtra  HD" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BeIN-Sports-Xtra_235x235.png?raw=true" group-title="Sports",beIN Sports Xtra
 https://bein-xtra-roku-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MJH_Stirr_EPGexternallinearfeed-03-06-2019-235515534-03-06-2019" tvg-name="BigLife TV HD" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BigLifeTV_377x377.png?raw=true" group-title="Généraliste / General Interest",BigLife TV
-https://biglife.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGBLOOMHD" tvg-name="Redbox  Bloomberg" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Bloomberg_512x512.png" group-title="Actualité / News",Bloomberg Television
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxbloomberg/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 #EXTINF:-1 tvg-id="I9.3.75009.zap2it.com" tvg-name="9.3 WWORDT3" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjM5NTQxNTZf/BUZZR.png" group-title="Divertissement / Entertainment",Buzzr
-https://buzzrota-web.amagi.tv/playlist.m3u8
+https://buzzr-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CAN_Networks_and_Sports_EPGCFTU" tvg-name="Canada  Canal Savoir" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CanalSavoir_363x363.png?raw=true" group-title="Éducatif / Educational",Canal Savoir
 https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1 tvg-id="I197.71729.zap2it.com" tvg-name="197 CBRTDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Généraliste / General Interest",CBC • Calgary
@@ -57,7 +55,7 @@ https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_1.m3u8
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 #EXTINF:-1 tvg-id="I45.2.99361.zap2it.com" tvg-chno="45.2 WRGBDK2" tvg-type="live" group-title="EPG | USA FREE TV | OTA" tvg-logo="https://od.lk/s/MF8yMjM5NTQzOTVf/ChargeTV.png",Charge!
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
-#EXTINF:-1 tvg-id="Plex_EPGf0942f" tvg-name="Cheddar  Webstream" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Cheddar_900x900.png" group-title="Actualité / News",Cheddar
+#EXTINF:-1 tvg-id="cheddar-wurl-external-10-31-2018" tvg-chno="11" tvg-type="live"  tvg-logo="https://od.lk/s/MF8yMjM5NTUyNDhf/Cheddar_900x900.png" group-title="Actualité / News",Cheddar News
 https://dai2.xumo.com/amagi_hls_data_xumo-host-cheddar/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ClassicArtsShowcase.png" group-title="Arts + Cinéma",Classic Arts Showcase
 https://d3s1xaoyhrialn.cloudfront.net/CAS/index.m3u8
