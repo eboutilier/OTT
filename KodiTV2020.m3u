@@ -226,7 +226,7 @@ https://nrpus.bozztv.com/36bay2/gusa-tvssports/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
 #EXTINF:-1 tvg-id="I25.6.97120.zap2it.com" tvg-name="25.6" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjY2MjMxMDVf/WeatherNation.png" group-title="Actualité / News",WeatherNation
 https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="Plex_EPGbc22be" tvg-name="Wonder" tvg-logo="https://i.imgur.com/qTbCyOj.png" group-title="Généraliste / General Interest",Wonder
+#EXTINF:-1 tvg-id="bc22be" tvg-name="Wonder" tvg-logo="https://i.imgur.com/qTbCyOj.png" group-title="Généraliste / General Interest",Wonder
 https://lds-wonder-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Plex_EPGbe67f1" tvg-name="Xplore" tvg-logo="https://od.lk/s/MF8yMjU5MDAzNDRf/Xplore_307x307.png" group-title="Généraliste / General Interest",Xplore
 https://xplore-plex.amagi.tv/playlist.m3u8
