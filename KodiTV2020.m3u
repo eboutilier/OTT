@@ -137,7 +137,7 @@ https://bamus-eng-roku.amagi.tv/playlist.m3u8
 https://mavtv-1.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM1Njg1NTFf/MovieSphere_400x400.png" group-title="Arts + Cinéma",MovieSphere
 https://moviesphere-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/TV-NACTV.png?raw=true" group-title="Généraliste / General Interest",NACTV Neepawa
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/TV-NACTV.png?raw=true" group-title="Généraliste / General Interest",NACTV
 http://stream.pivotalelements.com/nactv/stream.m3u8
 #EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGNASA" tvg-name="NASA TV 1 (Public)" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NASA.png" group-title="Éducatif / Educational",NASA TV • Public
 http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
@@ -153,7 +153,7 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://pe-ak-lp04a-9c9media.akamaized.net/live/NOOVO/p/dash/00000001/f481c583dbd06b6c/manifest.mpd
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ONNtv_250x250.png?raw=true" group-title="Généraliste / General Interest",ONN TV • Sault-Ste-Marie
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ONNtv_250x250.png?raw=true" group-title="Généraliste / General Interest",ONN TV
 https://onntv.vantrix.tv:443/onntv_hls/1080p/onntv_hls-HLS-1080p.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/TV-ONT.png?raw=true" group-title="Politique / Politics",ONT PARL [EN]
 http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
@@ -163,8 +163,8 @@ http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3
 https://outsidetvplus-distro.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PBS_EPGWLVT" tvg-name="PA  WLVT PBS Allentown" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="Éducatif / Educational",PBS • Allentown
 https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="PBS_EPGWKLE" tvg-name="KY  WKLE PBS KET Lexington" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="Éducatif / Educational",PBS • Lexington
-https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="WKLE" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="Éducatif / Educational",PBS • Lexington
+https://wkledt.lls.cdn.pbs.org/wkledt/61059d95-3011-4270-b9d1-17b88ca25b13/primary.m3u8
 #EXTINF:-1 tvg-id="PBS_EPGWMPB" tvg-name="PBS  Maryland Public TV" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="Éducatif / Educational",PBS • Maryland
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:-1 tvg-id="WPPT" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="Éducatif / Educational",PBS • Philadelphia
@@ -241,7 +241,7 @@ https://nrpus.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
 https://studio1091-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-unindentifiedtv-plex/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGVSIN" tvg-name="VSiN  Webstream" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/VSiN_400x400.png?raw=true" group-title="Sports",VSiN
 https://stream.rcncdn.com/live/vsinproxy.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/TV-WCGTV.png?raw=true" group-title="Généraliste / General Interest",WCGTV • Brandon
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/TV-WCGTV.png?raw=true" group-title="Généraliste / General Interest",WCGTV
 https://wowzastream.westmancom.com/wcgtvlive/highstream.sdp/master.m3u8
 #EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGWTHRNHD" tvg-name="Tubi  Weather Nation" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/WeatherNation.png" group-title="Actualité / News",Weather Nation
 https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8
