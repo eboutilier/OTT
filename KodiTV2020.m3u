@@ -161,10 +161,10 @@ http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3
 http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8
 #EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGOUTSDSD" tvg-name="Outside TV  HD" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/OutsideTVPlus_540x540.png?raw=true" group-title="Sports",Outside TV
 https://outsidetvplus-distro.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="PBS_EPGWLVT" tvg-name="PA  WLVT PBS Allentown" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="Éducatif / Educational",PBS • Allentown
+#EXTINF:-1 tvg-id="WLVT" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="Éducatif / Educational",PBS • Allentown
 https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="WKLE" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="Éducatif / Educational",PBS • Lexington
-https://wkledt.lls.cdn.pbs.org/wkledt/61059d95-3011-4270-b9d1-17b88ca25b13/primary.m3u8
+https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="PBS_EPGWMPB" tvg-name="PBS  Maryland Public TV" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="Éducatif / Educational",PBS • Maryland
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:-1 tvg-id="WPPT" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="Éducatif / Educational",PBS • Philadelphia
