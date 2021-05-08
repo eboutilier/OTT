@@ -17,7 +17,7 @@ https://bein-xtra-roku-us.amagi.tv/playlist.m3u8
 https://biglife.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGBLOOMHD" tvg-name="Redbox  Bloomberg" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Bloomberg_512x512.png" group-title="Actualité / News",Bloomberg Television
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxbloomberg/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGBUZZR" tvg-name="EPG   Buzzr" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/BUZZR.png" group-title="Divertissement / Entertainment",Buzzr
+#EXTINF:-1 tvg-id="I9.3.75009.zap2it.com" tvg-name="9.3 WWORDT3" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjM5NTQxNTZf/BUZZR.png" group-title="Divertissement / Entertainment",Buzzr
 https://buzzrota-web.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CAN_Networks_and_Sports_EPGCFTU" tvg-name="Canada  Canal Savoir" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CanalSavoir_363x363.png?raw=true" group-title="Éducatif / Educational",Canal Savoir
 https://hls.savoir.media/live/stream.m3u8
