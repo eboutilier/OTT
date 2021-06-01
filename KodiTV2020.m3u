@@ -351,16 +351,16 @@ http://srv1.hotdogradio.com:8000/CKQR
 http://ecoutez.chyz.ca:8000/mp3
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Quebec.png?raw=true" group-title="Sports-Radio Québec" radio="true",Québec .. Remparts • CHYZ 94.3 FM
 http://ecoutez.chyz.ca:8000/mp3
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-RedDeer.png?raw=true" group-title="Sports-Radio Ouest/West" radio="true",Red Deer .. Rebels
-http://
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-RedDeer.png?raw=true" group-title="Sports-Radio Ouest/West" radio="true",Red Deer .. Rebels • CFDV 106.7 FM
+https://redirect.jpbgdigital.com/CFDV.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Regina.png?raw=true" group-title="Sports-Radio Prairies" radio="true",Regina .. Pats • CKRM 620 AM
 http://ckrm.streamon.fm:8000/CKRM-64k.aac
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Rimouski.png?raw=true" group-title="Sports-Radio Québec" radio="true",Rimouski .. Océanic • CIKI 98.7 FM
 http://stream.statsradio.com:8048/stream
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Rouyn-Noranda.png?raw=true" group-title="Sports-Radio Québec" radio="true",Rouyn-Noranda .. Huskies
 http://
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-SaintJohn.png?raw=true" group-title="Sports-Radio Maritimes" radio="true",Saint John .. Sea Dogs
-http://
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-SaintJohn.png?raw=true" group-title="Sports-Radio Maritimes" radio="true",Saint John .. Sea Dogs • CFBC 930 AM
+https://mbsradio.leanstream.co/CFBCAM-MP3
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Sarnia.png?raw=true" group-title="Sports-Radio Ontario" radio="true",Sarnia .. Sting • CHOK 1070 AM
 http://live.leanstream.co/CHOKAM
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-Saskatchewan.png?raw=true" group-title="Sports-Radio Prairies" radio="true",Saskatchewan .. Roughriders • CKRM 620 AM
@@ -407,7 +407,7 @@ https://rogers-hls.leanstream.co/rogers/van650.stream/playlist.m3u8
 https://rogers-hls.leanstream.co/rogers/van650.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Victoria.png?raw=true" group-title="Sports-Radio Ouest/West" radio="true",Victoria .. Royals
 http://
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Victoriaville.png?raw=true" group-title="Sports-Radio Québec" radio="true",Victoriaville .. Tigres
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Victoriaville.png?raw=true" group-title="Sports-Radio Québec" radio="true",Victoriaville .. Tigres • INTERNET
 https://radiotigres.quebecinternet.com/radiotigres/stream.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Windsor.png?raw=true" group-title="Sports-Radio Ontario" radio="true",Windsor .. Spitfires • CKLW 800 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKLWAM_ADP.m3u8
