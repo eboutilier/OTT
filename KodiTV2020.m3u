@@ -5,36 +5,34 @@ http://
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
 #EXTINF:-1 tvg-id="I9.3.75009.zap2it.com" tvg-name="9.3 WWORDT3" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjM5NTQxNTZf/BUZZR.png" group-title="Divertissement / Entertainment",Buzzr
 https://buzzr-roku-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="I197.71729.zap2it.com" tvg-name="197 CBRTDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Généraliste / General Interest",CBC • Calgary
+#EXTINF:-1 tvg-id="I197.71729.zap2it.com" tvg-name="197 CBRTDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Généraliste / General Interest",CBC Calgary
 https://cbclivedai4-i.akamaihd.net/hls/live/567230/event2/CBRT/master5.m3u8
-#EXTINF:-1 tvg-id="I109.72884.zap2it.com" tvg-name="109 CBCTDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Généraliste / General Interest",CBC • Charlottetown
+#EXTINF:-1 tvg-id="I109.72884.zap2it.com" tvg-name="109 CBCTDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Généraliste / General Interest",CBC Charlottetown
 https://cbclivedai6-i.akamaihd.net/hls/live/567239/event2/CBCT/master5.m3u8
-#EXTINF:-1 tvg-id="I192.71733.zap2it.com" tvg-name="192 CBXTDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Généraliste / General Interest",CBC • Edmonton
+#EXTINF:-1 tvg-id="I192.71733.zap2it.com" tvg-name="192 CBXTDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Généraliste / General Interest",CBC Edmonton
 https://cbclivedai4-i.akamaihd.net/hls/live/567231/event2/CBXT/master5.m3u8
-#EXTINF:-1 tvg-id="I106.72767.zap2it.com" tvg-name="106 CBATDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Généraliste / General Interest",CBC • Fredericton
+#EXTINF:-1 tvg-id="I106.72767.zap2it.com" tvg-name="106 CBATDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Généraliste / General Interest",CBC Fredericton
 https://cbclivedai7-i.akamaihd.net/hls/live/567244/event2/CBAT/master5.m3u8
-#EXTINF:-1 tvg-id="I102.72723.zap2it.com" tvg-name="102 CBHTDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Généraliste / General Interest",CBC • Halifax
+#EXTINF:-1 tvg-id="I102.72723.zap2it.com" tvg-name="102 CBHTDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Généraliste / General Interest",CBC Halifax
 https://cbclivedai3-i.akamaihd.net/hls/live/566977/event2/CBHT/master5.m3u8
-#EXTINF:-1 tvg-id="I122.53502.zap2it.com" tvg-name="122 CBMTDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Généraliste / General Interest",CBC • Montréal
+#EXTINF:-1 tvg-id="I122.53502.zap2it.com" tvg-name="122 CBMTDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Généraliste / General Interest",CBC Montréal
 https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
-#EXTINF:-1 tvg-id="I144.58494.zap2it.com" tvg-name="144 CBOTDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Généraliste / General Interest",CBC • Ottawa
+#EXTINF:-1 tvg-id="I144.58494.zap2it.com" tvg-name="144 CBOTDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Généraliste / General Interest",CBC Ottawa
 https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8
-#EXTINF:-1 tvg-id="I172.72795.zap2it.com" tvg-name="172 CBKTDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Généraliste / General Interest",CBC • Regina
+#EXTINF:-1 tvg-id="I172.72795.zap2it.com" tvg-name="172 CBKTDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Généraliste / General Interest",CBC Regina
 https://cbclivedai2-i.akamaihd.net/hls/live/566969/event2/CBKT/master5.m3u8
-#EXTINF:-1 tvg-id="I111.72797.zap2it.com" tvg-name="111 CBNTDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Généraliste / General Interest",CBC • St John's
+#EXTINF:-1 tvg-id="I111.72797.zap2it.com" tvg-name="111 CBNTDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Généraliste / General Interest",CBC St John's
 https://cbclivedai5-i.akamaihd.net/hls/live/567236/event2/CBNT/master5.m3u8
-#EXTINF:-1 tvg-id="I132.46245.zap2it.com" tvg-name="132 CBLTDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Généraliste / General Interest",CBC • Toronto
+#EXTINF:-1 tvg-id="I132.46245.zap2it.com" tvg-name="132 CBLTDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Généraliste / General Interest",CBC Toronto
 https://cbclivedai1-i.akamaihd.net/hls/live/566940/event2/CBLT/master5.m3u8
-#EXTINF:-1 tvg-id="I213.51981.zap2it.com" tvg-name="213 CBUTDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Généraliste / General Interest",CBC • Vancouver
+#EXTINF:-1 tvg-id="I213.51981.zap2it.com" tvg-name="213 CBUTDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Généraliste / General Interest",CBC Vancouver
 https://cbclivedai2-i.akamaihd.net/hls/live/566968/event2/CBUT/master5.m3u8
-#EXTINF:-1 tvg-id="I136.72772.zap2it.com" tvg-name="136 CBETDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Généraliste / General Interest",CBC • Windsor
+#EXTINF:-1 tvg-id="I136.72772.zap2it.com" tvg-name="136 CBETDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Généraliste / General Interest",CBC Windsor
 https://cbclivedai1-i.akamaihd.net/hls/live/566941/event2/CBET/master5.m3u8
-#EXTINF:-1 tvg-id="I162.72940.zap2it.com" tvg-name="162 CBWTDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Généraliste / General Interest",CBC • Winnipeg
+#EXTINF:-1 tvg-id="I162.72940.zap2it.com" tvg-name="162 CBWTDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Généraliste / General Interest",CBC Winnipeg
 https://cbclivedai6-i.akamaihd.net/hls/live/567237/event2/CBWT/master5.m3u8
-#EXTINF:-1 tvg-id="I225.72816.zap2it.com" tvg-name="225 CFYKDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Généraliste / General Interest",CBC • Yellowknife
+#EXTINF:-1 tvg-id="I225.72816.zap2it.com" tvg-name="225 CFYKDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Généraliste / General Interest",CBC Yellowknife
 https://cbclivedai7-i.akamaihd.net/hls/live/567240/event2/CFYK/master5.m3u8
-#EXTINF:-1 tvg-id="CAN_Networks_and_Sports_EPGCBNEWS" tvg-name="Redbox CBC News" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="Actualité / News",CBC News
-https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGOLYHD" tvg-name="CBC Olympics (Geo-CA) HD" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBC_Olympics_400x400.png?raw=true" group-title="Sports",CBC Olympics
 https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_1.m3u8
 #EXTINF:-1 tvg-id="I45.2.99361.zap2it.com" tvg-chno="45.2 WRGBDK2" tvg-type="live" group-title="Divertissement / Entertainment" tvg-logo="https://od.lk/s/MF8yMjM5NTQzOTVf/ChargeTV.png",Charge!
@@ -47,9 +45,9 @@ http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8?v=2&ad=web&m.sound=normal&pos=midroll&expand=ad_live&m.sound=normal&m.playback=autoplay
 #EXTINF:-1 tvg-id="I62.4.113740.zap2it.com" tvg-name="62.4" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjU5MjY0NTJf/CoziTV_WZTS_218x218.png" group-title="Divertissement / Entertainment",Cozi TV
 https://2-fss-2.streamhoster.com/pl_120/201852-1297026-1/master.m3u8
-#EXTINF:-1 tvg-id="CAN_Networks_and_Sports_EPGCPAC" tvg-name="CPAC English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CPAC_360x360.png?raw=true" group-title="Politique / Politics",CPAC [EN]
+#EXTINF:-1 tvg-id="CAN_Networks_and_Sports_EPGCPAC" tvg-name="CPAC English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CPAC_360x360.png?raw=true" group-title="Politique / Politics",CPAC • English
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680602/1242843915001_1/master.m3u8
-#EXTINF:-1 tvg-id="CAN_Networks_and_Sports_EPGCPACF" tvg-name="Canada CPAC" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CPAC_360x360.png?raw=true" group-title="Politique / Politics",CPAC [FR]
+#EXTINF:-1 tvg-id="CAN_Networks_and_Sports_EPGCPACF" tvg-name="Canada CPAC" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CPAC_360x360.png?raw=true" group-title="Politique / Politics",CPAC • Français
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
 #EXTINF:-1 tvg-id="c6ea97" tvg-name="Crackle" tvg-logo="https://od.lk/s/MF8yMjUyNDQ4NjZf/Crackle_365x365.png" group-title="Arts + Cinéma",Crackle
 https://crackle-plex.amagi.tv/playlist.m3u8
@@ -69,31 +67,31 @@ https://gsn-gameshowchannnel-2.roku.wurl.com/manifest/playlist.m3u8
 https://gravitas-movies.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="CANEPG1_EPGI742.60327.zap2it.com" tvg-name="Canada ICI RDI" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-RDI.png" group-title="Actualité / News",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
-#EXTINF:-1 tvg-id="ICIacadie" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="Généraliste / General Interest",ICI Télé • Acadie
+#EXTINF:-1 tvg-id="ICIacadie" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="Généraliste / General Interest",ICI Télé Acadie
 https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master_2500.m3u8
-#EXTINF:-1 tvg-id="ICIalberta" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="Généraliste / General Interest",ICI Télé • Alberta
+#EXTINF:-1 tvg-id="ICIalberta" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="Généraliste / General Interest",ICI Télé Alberta
 https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master_2500.m3u8
-#EXTINF:-1 tvg-id="ICIcbyukon" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="Généraliste / General Interest",ICI Télé • Colombie-Britannique et Yukon
+#EXTINF:-1 tvg-id="ICIcbyukon" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="Généraliste / General Interest",ICI Télé Colombie-Britannique et Yukon
 https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master_2500.m3u8
-#EXTINF:-1 tvg-id="ICIestquebec" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="Généraliste / General Interest",ICI Télé • Est-du-Québec
+#EXTINF:-1 tvg-id="ICIestquebec" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="Généraliste / General Interest",ICI Télé Est-du-Québec
 https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master_2500.m3u8
-#EXTINF:-1 tvg-id="ICIestrie" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="Généraliste / General Interest",ICI Télé • Estrie
+#EXTINF:-1 tvg-id="ICIestrie" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="Généraliste / General Interest",ICI Télé Estrie
 https://rcavlive.akamaized.net/hls/live/704016/cancksh/master_2500.m3u8
-#EXTINF:-1 tvg-id="ICImanitoba" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="Généraliste / General Interest",ICI Télé • Manitoba
+#EXTINF:-1 tvg-id="ICImanitoba" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="Généraliste / General Interest",ICI Télé Manitoba
 https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master_2500.m3u8
-#EXTINF:-1 tvg-id="ICImauricie" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="Généraliste / General Interest",ICI Télé • Mauricie
+#EXTINF:-1 tvg-id="ICImauricie" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="Généraliste / General Interest",ICI Télé Mauricie
 https://rcavlive.akamaized.net/hls/live/704021/cancktm/master_2500.m3u8
-#EXTINF:-1 tvg-id="ICImontreal" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="Généraliste / General Interest",ICI Télé • Montréal
+#EXTINF:-1 tvg-id="ICImontreal" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="Généraliste / General Interest",ICI Télé Montréal
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8
-#EXTINF:-1 tvg-id="ICIontario" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="Généraliste / General Interest",ICI Télé • Ontario
+#EXTINF:-1 tvg-id="ICIontario" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="Généraliste / General Interest",ICI Télé Ontario
 https://rcavlive.akamaized.net/hls/live/704022/cancblft/master_2500.m3u8
-#EXTINF:-1 tvg-id="ICIottawagatineau" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="Généraliste / General Interest",ICI Télé • Ottawa-Gatineau
+#EXTINF:-1 tvg-id="ICIottawagatineau" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="Généraliste / General Interest",ICI Télé Ottawa-Gatineau
 https://rcavlive.akamaized.net/hls/live/664046/cancboft/master_2500.m3u8
-#EXTINF:-1 tvg-id="ICIquebec" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="Généraliste / General Interest",ICI Télé • Québec
+#EXTINF:-1 tvg-id="ICIquebec" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="Généraliste / General Interest",ICI Télé Québec
 https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master_2500.m3u8
-#EXTINF:-1 tvg-id="ICIsaguenay" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="Généraliste / General Interest",ICI Télé • Saguenay
+#EXTINF:-1 tvg-id="ICIsaguenay" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="Généraliste / General Interest",ICI Télé Saguenay
 https://rcavlive.akamaized.net/hls/live/704023/cancktv/master_2500.m3u8
-#EXTINF:-1 tvg-id="ICIsaskatchewan" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="Généraliste / General Interest",ICI Télé • Saskatchewan
+#EXTINF:-1 tvg-id="ICIsaskatchewan" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="Généraliste / General Interest",ICI Télé Saskatchewan
 https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master_2500.m3u8
 #EXTINF:-1 tvg-id="CAN_Networks_and_Sports_EPGICIQ" tvg-name="ICI Television" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ICI-Television_292x292.png?raw=true" group-title="Généraliste / General Interest",ICI Télévision
 https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8
@@ -119,19 +117,19 @@ https://content.uplynk.com/channel/33c48f602cfd4474b957eb4ad999caf8.m3u8
 https://pe-ak-lp04a-9c9media.akamaized.net/live/NOOVO/p/dash/00000001/f481c583dbd06b6c/manifest.mpd
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ONNtv_250x250.png?raw=true" group-title="Généraliste / General Interest",ONN TV
 https://onntv.vantrix.tv:443/onntv_hls/1080p/onntv_hls-HLS-1080p.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjQyNTQ4Njhf/OntParl_450x450.png" group-title="Politique / Politics",ONT PARL [EN]
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjQyNTQ4Njhf/OntParl_450x450.png" group-title="Politique / Politics",ONT PARL • English
 http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjQyNTQ4Njhf/OntParl_450x450.png" group-title="Politique / Politics",ONT PARL [FR]
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjQyNTQ4Njhf/OntParl_450x450.png" group-title="Politique / Politics",ONT PARL • Français
 http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8
 #EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGOUTSDSD" tvg-name="Outside TV  HD" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/OutsideTVPlus_540x540.png?raw=true" group-title="Sports",Outside TV
 https://outsidetvplus-distro.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WLVT" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="Éducatif / Educational",PBS • Allentown
+#EXTINF:-1 tvg-id="WLVT" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="Éducatif / Educational",PBS Allentown
 https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="WKLE" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="Éducatif / Educational",PBS • Lexington
+#EXTINF:-1 tvg-id="WKLE" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="Éducatif / Educational",PBS Lexington
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8?DVR
-#EXTINF:-1 tvg-id="PBS_EPGWMPB" tvg-name="PBS  Maryland Public TV" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="Éducatif / Educational",PBS • Maryland
+#EXTINF:-1 tvg-id="PBS_EPGWMPB" tvg-name="PBS  Maryland Public TV" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="Éducatif / Educational",PBS Maryland
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
-#EXTINF:-1 tvg-id="WPPT" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="Éducatif / Educational",PBS • Philadelphia
+#EXTINF:-1 tvg-id="WPPT" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="Éducatif / Educational",PBS Philadelphia
 https://forerunnerrtmp.livestreamingcdn.com/output18-2/output18-2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="10688f" tvg-name="Popcornflix" group-title="Arts + Cinéma" tvg-logo="https://i.imgur.com/ATUaSCV.png",Popcornflix 
 https://crackle-plex.amagi.tv/playlist.m3u8
@@ -241,7 +239,7 @@ http://
 
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LAH-Abbotsford.png?raw=true" group-title="Sports-Radio Ouest/West" radio="true",Abbotsford .. AHL • TBA
 http://
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Acadie-Bathurst.png?raw=true" group-title="Sports-Radio Maritimes" radio="true",Acadie-Bathurst .. Titan • CKLE 92.9 FM [BI]
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Acadie-Bathurst.png?raw=true" group-title="Sports-Radio Maritimes" radio="true",Acadie-Bathurst .. Titan • CKLE 92.9 FM • Bilingue
 http://s2.radioservers.biz:9952/
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Baie-Comeau.png?raw=true" group-title="Sports-Radio Québec" radio="true",Baie-Comeau .. Drakkar
 http://
@@ -309,15 +307,15 @@ http://corus.leanstream.co/CJOBAM-MP3
 http://
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Mississauga.png?raw=true" group-title="Sports-Radio Ontario" radio="true",Mississauga .. Steelheads • CKNT 960 AM
 http://stream2.statsradio.com:8066/stream
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Moncton.png?raw=true" group-title="Sports-Radio Maritimes" radio="true",Moncton .. Wildcats • CITA 105.1 FM [BI]
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Moncton.png?raw=true" group-title="Sports-Radio Maritimes" radio="true",Moncton .. Wildcats • CITA 105.1 FM • Bilingue
 http://harvester1.no-ip.biz:8000/listen.mp3
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-Montreal.png?raw=true" group-title="Sports-Radio Québec" radio="true",Montréal .. Alouettes • CKGM 690 AM [EN]
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-Montreal.png?raw=true" group-title="Sports-Radio Québec" radio="true",Montréal .. Alouettes • CKGM 690 AM • English
 http://63.243.143.139:3690/CKGMAMAAC_SC
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-Montreal.png?raw=true" group-title="Sports-Radio Québec" radio="true",Montréal .. Alouettes • CHMP 98.5 FM [FR]
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-Montreal.png?raw=true" group-title="Sports-Radio Québec" radio="true",Montréal .. Alouettes • CHMP 98.5 FM • Français
 https://cogecomedia.leanstream.co/CHMPFM-MP3
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-Montreal.png?raw=true" group-title="Sports-Radio Québec" radio="true",Montréal .. Canadiens • CKGM 690 AM [EN]
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-Montreal.png?raw=true" group-title="Sports-Radio Québec" radio="true",Montréal .. Canadiens • CKGM 690 AM • English
 http://63.243.143.139:3690/CKGMAMAAC_SC
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-Montreal.png?raw=true" group-title="Sports-Radio Québec" radio="true",Montréal .. Canadiens • CHMP 98.5 FM [FR]
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-Montreal.png?raw=true" group-title="Sports-Radio Québec" radio="true",Montréal .. Canadiens • CHMP 98.5 FM • Français
 https://cogecomedia.leanstream.co/CHMPFM-MP3
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-MooseJaw.png?raw=true" group-title="Sports-Radio Prairies" radio="true",Moose Jaw .. Warriors
 http://
@@ -329,15 +327,15 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CKTBAM_ADP.m3u
 https://rogers-hls.leanstream.co/rogers/nor600.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Oshawa.png?raw=true" group-title="Sports-Radio Ontario" radio="true",Oshawa .. Generals
 http://
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Ottawa.png?raw=true" group-title="Sports-Radio Ontario" radio="true",Ottawa .. 67s • CFGO 1200 AM [EN]
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Ottawa.png?raw=true" group-title="Sports-Radio Ontario" radio="true",Ottawa .. 67s • CFGO 1200 AM • English
 https://playerservices.streamtheworld.com/api/livestream-redirect/CFGOAM_ADP.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-Ottawa.png?raw=true" group-title="Sports-Radio Ontario" radio="true",Ottawa .. Red Blacks • CFGO 1200 AM [EN]
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-Ottawa.png?raw=true" group-title="Sports-Radio Ontario" radio="true",Ottawa .. Red Blacks • CFGO 1200 AM • English
 https://playerservices.streamtheworld.com/api/livestream-redirect/CFGOAM_ADP.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-Ottawa.png?raw=true" group-title="Sports-Radio Ontario" radio="true",Ottawa .. Rouge et Noir • CKOF 104.7 FM [FR]
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-Ottawa.png?raw=true" group-title="Sports-Radio Ontario" radio="true",Ottawa .. Rouge et Noir • CKOF 104.7 FM • Français
 https://cogecomedia.leanstream.co/CKOFFM-MP3
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-Ottawa.png?raw=true" group-title="Sports-Radio Ontario" radio="true",Ottawa .. Sénateurs • CJFO 94.5 FM [FR]
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-Ottawa.png?raw=true" group-title="Sports-Radio Ontario" radio="true",Ottawa .. Sénateurs • CJFO 94.5 FM • Français
 http://stream2.statsradio.com:8038/stream
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-Ottawa.png?raw=true" group-title="Sports-Radio Ontario" radio="true",Ottawa .. Senators • CFGO 1200 AM [EN]
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-Ottawa.png?raw=true" group-title="Sports-Radio Ontario" radio="true",Ottawa .. Senators • CFGO 1200 AM • English
 https://playerservices.streamtheworld.com/api/livestream-redirect/CFGOAM_ADP.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/FL-Ottawa.png?raw=true" group-title="Sports-Radio Ontario" radio="true",Ottawa .. Titans
 http://
@@ -410,7 +408,7 @@ https://rogers-hls.leanstream.co/rogers/van650.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Victoria.png?raw=true" group-title="Sports-Radio Ouest/West" radio="true",Victoria .. Royals
 http://
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ-Victoriaville.png?raw=true" group-title="Sports-Radio Québec" radio="true",Victoriaville .. Tigres
-http://
+https://radiotigres.quebecinternet.com/radiotigres/stream.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Windsor.png?raw=true" group-title="Sports-Radio Ontario" radio="true",Windsor .. Spitfires • CKLW 800 AM
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKLWAM_ADP.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-Winnipeg.png?raw=true" group-title="Sports-Radio Prairies" radio="true",Winnipeg .. Blue Bombers • CJOB 680 AM
