@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="",••• TÉLÉVISION (GUIDE) •••
 http://
-#EXTINF:-1 tvg-id="Plex_EPGbc43b9" tvg-name="24 Hour Free Movies" tvg-logo="https://i.imgur.com/FiTdDp1.png" group-title="Arts + Cinéma",24 Hour Free Movies
-https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
 #EXTINF:-1 tvg-id="I9.3.75009.zap2it.com" tvg-name="9.3 WWORDT3" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjM5NTQxNTZf/BUZZR.png" group-title="Divertissement / Entertainment",Buzzr
 https://buzzr-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="I197.71729.zap2it.com" tvg-name="197 CBRTDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Généraliste / General Interest",CBC Calgary
@@ -103,7 +101,7 @@ http://knstream1.azureedge.net/knlive/knlive_high.m3u8
 https://moviesphere-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/TV-NACTV.png?raw=true" group-title="Généraliste / General Interest",NACTV
 http://stream.pivotalelements.com/nactv/stream.m3u8
-#EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGNASA" tvg-name="NASA TV 1 (Public)" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NASA.png" group-title="Éducatif / Educational",NASA TV • Public
+#EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGNASA" tvg-name="NASA TV 1 (Public)" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NASA.png" group-title="Éducatif / Educational",NASA TV
 http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
 #EXTINF:-1 tvg-id="I10.3.62804.zap2it.com" tvg-name="10.3 WCAUDT3" tvg-type="live" group-title="Actualité / News" tvg-logo="https://od.lk/s/MF8yMjc0ODkyNDhf/NBCLX_584x584.png",NBCLX
 https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/master.m3u8?OTATV
@@ -231,8 +229,6 @@ https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjYwNDgzMzhf/RougeTV_225x225.png" group-title="Adult(e)",Rouge TV (18+)
 https://livevideo.infomaniak.com/streaming/livecast/rougetv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Russia) (18)" tvg-logo="https://od.lk/s/MF8yMzA5MTEyMTFf/EighteenPlus_500x500.png" group-title="Adult(e)",Silk (18+)
-http://live-1.otcnet.ru/shelksd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",••• RADIO •••
 http://
